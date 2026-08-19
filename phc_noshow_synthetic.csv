@@ -1,0 +1,3001 @@
+PatientID,Age,Gender,LGA,ClinicType,Hypertension,Diabetes,Distance_KM,LeadTimeDays,PastNoShows,NoShow
+PHC-EB-2000,51,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,8.2,15,0,0
+PHC-EB-2001,14,Male,Ebonyi,Routine Immunization,0,0,6.3,2,0,1
+PHC-EB-2002,71,Female,Izzi,Antenatal Care,0,0,9.7,1,0,0
+PHC-EB-2003,60,Female,Ikwo,Antenatal Care,1,0,1.3,4,0,1
+PHC-EB-2004,20,Female,Ebonyi,General Outpatient,0,0,0.8,3,0,0
+PHC-EB-2005,74,Female,Abakaliki,Antenatal Care,0,0,1.1,8,0,0
+PHC-EB-2006,74,Male,Izzi,Chronic Disease (HTN/DM),0,0,1.3,26,0,1
+PHC-EB-2007,23,Female,Ebonyi,Antenatal Care,0,0,3.9,3,0,1
+PHC-EB-2008,2,Female,Ikwo,General Outpatient,0,0,16.4,0,2,1
+PHC-EB-2009,21,Male,Ebonyi,Routine Immunization,0,0,2.5,17,1,1
+PHC-EB-2010,52,Male,Afikpo North,Routine Immunization,0,0,14.8,0,1,0
+PHC-EB-2011,1,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,0.7,23,0,0
+PHC-EB-2012,29,Male,Izzi,Routine Immunization,0,0,12.3,8,1,1
+PHC-EB-2013,37,Male,Afikpo North,Routine Immunization,0,0,1.4,22,0,1
+PHC-EB-2014,1,Female,Ikwo,Antenatal Care,0,0,11.5,1,2,1
+PHC-EB-2015,63,Female,Afikpo North,Antenatal Care,1,0,0.8,0,0,0
+PHC-EB-2016,59,Male,Afikpo North,Antenatal Care,0,0,13.8,5,1,1
+PHC-EB-2017,20,Female,Ikwo,General Outpatient,0,0,1.5,4,0,0
+PHC-EB-2018,32,Male,Afikpo North,Antenatal Care,0,0,2.1,3,2,1
+PHC-EB-2019,57,Female,Izzi,Antenatal Care,0,1,3.5,24,2,1
+PHC-EB-2020,21,Female,Ebonyi,Routine Immunization,0,0,2.7,13,1,1
+PHC-EB-2021,48,Female,Afikpo North,General Outpatient,0,0,5.5,8,2,1
+PHC-EB-2022,58,Male,Izzi,General Outpatient,0,0,17.1,1,2,1
+PHC-EB-2023,41,Female,Ebonyi,Antenatal Care,0,0,4.7,10,0,0
+PHC-EB-2024,59,Male,Ebonyi,Antenatal Care,0,0,6.3,10,0,1
+PHC-EB-2025,14,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,0.9,4,2,0
+PHC-EB-2026,61,Female,Izzi,Antenatal Care,0,0,4.9,20,0,1
+PHC-EB-2027,61,Male,Afikpo North,Chronic Disease (HTN/DM),1,0,3.2,1,1,0
+PHC-EB-2028,46,Male,Ikwo,Chronic Disease (HTN/DM),0,0,10.3,2,0,0
+PHC-EB-2029,61,Female,Ebonyi,General Outpatient,0,0,2.7,0,0,0
+PHC-EB-2030,50,Male,Afikpo North,Antenatal Care,1,0,5.6,12,0,1
+PHC-EB-2031,54,Female,Ebonyi,General Outpatient,1,0,1.7,7,0,0
+PHC-EB-2032,63,Female,Izzi,General Outpatient,0,1,1.9,2,2,1
+PHC-EB-2033,2,Female,Abakaliki,Routine Immunization,0,0,2.6,1,0,0
+PHC-EB-2034,50,Male,Afikpo North,Routine Immunization,1,1,2.1,0,3,0
+PHC-EB-2035,6,Male,Afikpo North,Antenatal Care,0,0,1.8,1,0,0
+PHC-EB-2036,20,Female,Ebonyi,Antenatal Care,0,0,0.7,4,1,1
+PHC-EB-2037,72,Male,Izzi,Routine Immunization,1,0,8.7,2,2,0
+PHC-EB-2038,38,Female,Ikwo,Routine Immunization,0,0,0.8,2,0,1
+PHC-EB-2039,17,Female,Izzi,Routine Immunization,0,0,10.3,16,1,1
+PHC-EB-2040,3,Female,Afikpo North,Routine Immunization,0,0,1.1,5,1,1
+PHC-EB-2041,59,Female,Ikwo,Routine Immunization,0,0,0.8,10,0,1
+PHC-EB-2042,13,Female,Izzi,General Outpatient,0,0,4.2,0,1,0
+PHC-EB-2043,8,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,3.6,3,3,1
+PHC-EB-2044,52,Male,Ebonyi,Antenatal Care,0,0,3.5,5,0,1
+PHC-EB-2045,1,Female,Izzi,Routine Immunization,0,0,4.3,1,0,0
+PHC-EB-2046,59,Female,Izzi,Antenatal Care,0,1,2.0,1,0,0
+PHC-EB-2047,70,Female,Abakaliki,General Outpatient,0,0,5.4,15,1,0
+PHC-EB-2048,43,Female,Afikpo North,General Outpatient,1,0,3.6,21,1,1
+PHC-EB-2049,7,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,2.3,0,0,0
+PHC-EB-2050,46,Male,Izzi,Antenatal Care,1,1,8.4,3,1,1
+PHC-EB-2051,34,Female,Ikwo,Chronic Disease (HTN/DM),0,0,6.4,24,1,1
+PHC-EB-2052,35,Male,Izzi,Antenatal Care,1,0,2.8,0,2,0
+PHC-EB-2053,49,Male,Ebonyi,General Outpatient,0,1,9.0,8,0,1
+PHC-EB-2054,3,Female,Izzi,Antenatal Care,0,0,11.9,28,0,1
+PHC-EB-2055,1,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,4.0,29,2,1
+PHC-EB-2056,5,Female,Izzi,Routine Immunization,0,0,1.6,4,0,0
+PHC-EB-2057,53,Male,Izzi,General Outpatient,0,0,11.6,1,0,0
+PHC-EB-2058,3,Female,Ikwo,General Outpatient,0,0,1.4,1,0,0
+PHC-EB-2059,53,Female,Abakaliki,Antenatal Care,0,0,0.7,17,1,0
+PHC-EB-2060,62,Female,Abakaliki,Antenatal Care,1,0,2.3,18,0,1
+PHC-EB-2061,17,Female,Izzi,Chronic Disease (HTN/DM),0,0,6.3,7,1,0
+PHC-EB-2062,43,Female,Ikwo,Antenatal Care,0,0,12.1,11,2,1
+PHC-EB-2063,33,Female,Izzi,Antenatal Care,0,0,5.1,10,1,1
+PHC-EB-2064,73,Female,Izzi,Routine Immunization,0,0,14.1,8,0,1
+PHC-EB-2065,61,Male,Ebonyi,Routine Immunization,1,0,0.9,13,0,1
+PHC-EB-2066,13,Male,Ebonyi,Antenatal Care,0,0,0.8,9,0,0
+PHC-EB-2067,47,Female,Ikwo,Antenatal Care,0,1,4.7,5,0,1
+PHC-EB-2068,14,Female,Afikpo North,Antenatal Care,0,0,15.7,2,0,0
+PHC-EB-2069,71,Male,Ebonyi,Routine Immunization,0,0,3.6,10,3,1
+PHC-EB-2070,61,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,0.7,5,0,0
+PHC-EB-2071,39,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,1.6,2,0,0
+PHC-EB-2072,52,Female,Ebonyi,General Outpatient,1,0,1.8,12,0,1
+PHC-EB-2073,23,Female,Ebonyi,Antenatal Care,0,0,2.4,9,0,0
+PHC-EB-2074,25,Female,Ikwo,Chronic Disease (HTN/DM),0,0,0.7,21,1,1
+PHC-EB-2075,59,Female,Afikpo North,Routine Immunization,1,0,11.1,1,0,0
+PHC-EB-2076,40,Male,Ebonyi,Antenatal Care,0,0,3.8,8,0,1
+PHC-EB-2077,28,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,5.5,2,0,1
+PHC-EB-2078,14,Female,Ikwo,General Outpatient,0,0,0.8,18,0,0
+PHC-EB-2079,44,Male,Ikwo,General Outpatient,0,0,0.8,0,0,1
+PHC-EB-2080,64,Female,Afikpo North,General Outpatient,0,0,4.5,8,1,1
+PHC-EB-2081,70,Female,Abakaliki,Antenatal Care,0,0,10.3,12,1,1
+PHC-EB-2082,8,Female,Abakaliki,Antenatal Care,0,0,3.9,3,0,1
+PHC-EB-2083,0,Male,Izzi,General Outpatient,0,0,10.0,24,1,0
+PHC-EB-2084,7,Female,Ebonyi,Antenatal Care,0,0,8.0,14,0,1
+PHC-EB-2085,62,Male,Afikpo North,Routine Immunization,0,1,0.9,2,1,0
+PHC-EB-2086,10,Male,Ebonyi,General Outpatient,0,0,1.5,0,0,1
+PHC-EB-2087,7,Female,Afikpo North,General Outpatient,0,0,5.3,2,2,1
+PHC-EB-2088,34,Female,Afikpo North,Routine Immunization,0,0,3.1,2,0,0
+PHC-EB-2089,34,Male,Afikpo North,General Outpatient,0,0,2.0,17,1,0
+PHC-EB-2090,32,Female,Ebonyi,General Outpatient,0,0,2.9,26,0,0
+PHC-EB-2091,4,Male,Ikwo,General Outpatient,0,0,3.2,0,0,0
+PHC-EB-2092,40,Male,Ebonyi,Antenatal Care,0,0,11.4,4,1,1
+PHC-EB-2093,27,Female,Afikpo North,Antenatal Care,0,0,1.0,6,1,0
+PHC-EB-2094,6,Female,Izzi,Antenatal Care,0,0,2.0,0,0,1
+PHC-EB-2095,72,Male,Abakaliki,Antenatal Care,1,0,4.0,3,2,0
+PHC-EB-2096,71,Male,Afikpo North,Antenatal Care,0,0,5.9,2,0,1
+PHC-EB-2097,11,Female,Izzi,Antenatal Care,0,0,5.0,6,2,1
+PHC-EB-2098,33,Female,Ikwo,Routine Immunization,0,0,13.3,8,1,1
+PHC-EB-2099,32,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,7.6,9,2,1
+PHC-EB-2100,47,Male,Izzi,Antenatal Care,0,0,4.2,1,0,0
+PHC-EB-2101,22,Male,Afikpo North,General Outpatient,0,0,1.6,13,1,0
+PHC-EB-2102,61,Male,Ebonyi,General Outpatient,0,0,3.2,8,1,0
+PHC-EB-2103,36,Female,Izzi,Antenatal Care,0,0,5.8,17,0,1
+PHC-EB-2104,43,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,8.7,4,0,1
+PHC-EB-2105,34,Male,Ebonyi,Routine Immunization,0,0,15.0,17,2,1
+PHC-EB-2106,64,Female,Izzi,Routine Immunization,1,1,4.7,15,0,1
+PHC-EB-2107,46,Female,Abakaliki,General Outpatient,0,0,3.9,4,0,0
+PHC-EB-2108,2,Female,Izzi,Antenatal Care,0,0,0.6,3,1,1
+PHC-EB-2109,0,Male,Abakaliki,General Outpatient,0,0,0.8,21,1,1
+PHC-EB-2110,4,Male,Afikpo North,Antenatal Care,0,0,1.3,9,0,0
+PHC-EB-2111,13,Female,Afikpo North,General Outpatient,0,0,0.8,20,1,1
+PHC-EB-2112,26,Female,Izzi,Routine Immunization,0,0,2.8,12,1,0
+PHC-EB-2113,8,Male,Afikpo North,General Outpatient,0,0,2.3,7,0,0
+PHC-EB-2114,14,Male,Ikwo,Antenatal Care,0,0,5.1,0,0,1
+PHC-EB-2115,41,Female,Ebonyi,General Outpatient,1,0,4.0,2,0,0
+PHC-EB-2116,50,Female,Ebonyi,General Outpatient,1,0,4.6,27,2,1
+PHC-EB-2117,62,Female,Abakaliki,Routine Immunization,0,1,3.4,3,0,0
+PHC-EB-2118,51,Male,Afikpo North,General Outpatient,1,0,2.0,0,1,0
+PHC-EB-2119,3,Female,Abakaliki,Routine Immunization,0,0,14.2,9,0,0
+PHC-EB-2120,22,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,0.9,10,2,1
+PHC-EB-2121,14,Male,Ebonyi,Routine Immunization,0,0,13.1,2,1,1
+PHC-EB-2122,42,Male,Afikpo North,General Outpatient,0,0,2.2,2,0,1
+PHC-EB-2123,28,Female,Ikwo,General Outpatient,0,0,3.7,4,0,0
+PHC-EB-2124,35,Male,Ikwo,Routine Immunization,0,0,1.0,0,1,1
+PHC-EB-2125,12,Female,Afikpo North,Antenatal Care,0,0,0.8,12,2,1
+PHC-EB-2126,31,Female,Afikpo North,Routine Immunization,0,0,3.0,2,0,0
+PHC-EB-2127,70,Female,Abakaliki,General Outpatient,0,0,6.6,15,2,1
+PHC-EB-2128,58,Male,Afikpo North,Antenatal Care,0,0,1.9,12,1,1
+PHC-EB-2129,27,Female,Ikwo,Routine Immunization,0,0,4.2,8,1,1
+PHC-EB-2130,65,Male,Afikpo North,General Outpatient,0,0,2.0,3,0,0
+PHC-EB-2131,41,Male,Abakaliki,Routine Immunization,0,0,2.7,5,0,0
+PHC-EB-2132,44,Male,Abakaliki,General Outpatient,0,0,11.2,4,0,0
+PHC-EB-2133,61,Male,Abakaliki,Antenatal Care,0,1,9.2,3,3,1
+PHC-EB-2134,56,Male,Abakaliki,Antenatal Care,1,0,3.8,14,1,0
+PHC-EB-2135,5,Female,Izzi,General Outpatient,0,0,1.7,5,1,1
+PHC-EB-2136,27,Female,Afikpo North,Antenatal Care,0,0,1.5,13,0,1
+PHC-EB-2137,27,Male,Ebonyi,Antenatal Care,0,0,14.4,0,1,0
+PHC-EB-2138,43,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,1.5,1,0,0
+PHC-EB-2139,29,Male,Izzi,Routine Immunization,0,0,7.9,29,1,1
+PHC-EB-2140,61,Male,Abakaliki,Chronic Disease (HTN/DM),1,0,2.6,6,0,0
+PHC-EB-2141,74,Female,Izzi,Chronic Disease (HTN/DM),0,0,19.6,5,0,1
+PHC-EB-2142,61,Male,Ikwo,Antenatal Care,0,0,2.6,5,0,0
+PHC-EB-2143,0,Female,Ikwo,Antenatal Care,0,0,2.4,1,0,0
+PHC-EB-2144,26,Female,Afikpo North,General Outpatient,0,0,5.1,9,1,0
+PHC-EB-2145,61,Female,Afikpo North,Routine Immunization,0,0,15.2,0,1,1
+PHC-EB-2146,2,Female,Ebonyi,Antenatal Care,0,0,17.3,6,0,1
+PHC-EB-2147,69,Male,Ebonyi,General Outpatient,0,0,6.0,6,1,1
+PHC-EB-2148,71,Male,Ikwo,Antenatal Care,0,0,6.8,19,2,1
+PHC-EB-2149,26,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,4.2,5,0,0
+PHC-EB-2150,8,Female,Izzi,Antenatal Care,0,0,6.8,1,1,0
+PHC-EB-2151,61,Female,Ebonyi,Antenatal Care,0,0,9.3,6,0,1
+PHC-EB-2152,36,Male,Ebonyi,Antenatal Care,0,0,3.5,0,0,1
+PHC-EB-2153,50,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,4.9,1,1,1
+PHC-EB-2154,43,Male,Abakaliki,General Outpatient,1,0,4.0,0,0,0
+PHC-EB-2155,23,Male,Afikpo North,General Outpatient,0,0,4.2,5,0,0
+PHC-EB-2156,58,Male,Izzi,Routine Immunization,0,0,10.4,0,1,0
+PHC-EB-2157,31,Male,Abakaliki,Routine Immunization,0,0,2.5,4,0,1
+PHC-EB-2158,51,Female,Ebonyi,Antenatal Care,1,0,1.6,21,2,1
+PHC-EB-2159,61,Male,Ebonyi,Routine Immunization,0,0,3.2,9,1,0
+PHC-EB-2160,57,Female,Ikwo,Routine Immunization,0,1,1.5,0,0,0
+PHC-EB-2161,51,Male,Abakaliki,General Outpatient,1,0,3.6,1,0,0
+PHC-EB-2162,11,Female,Afikpo North,Antenatal Care,0,0,11.0,8,1,1
+PHC-EB-2163,38,Male,Izzi,Chronic Disease (HTN/DM),1,0,4.8,17,2,1
+PHC-EB-2164,1,Male,Afikpo North,Antenatal Care,0,0,9.2,0,0,0
+PHC-EB-2165,2,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,1.3,13,0,1
+PHC-EB-2166,55,Female,Afikpo North,Antenatal Care,0,1,10.9,6,0,0
+PHC-EB-2167,58,Male,Ebonyi,Routine Immunization,0,1,4.6,6,0,0
+PHC-EB-2168,1,Female,Ebonyi,Routine Immunization,0,0,0.6,24,1,0
+PHC-EB-2169,1,Female,Ebonyi,Routine Immunization,0,0,5.0,10,0,0
+PHC-EB-2170,53,Female,Ebonyi,Routine Immunization,0,0,14.1,14,0,1
+PHC-EB-2171,0,Female,Ebonyi,Routine Immunization,0,0,0.9,3,4,1
+PHC-EB-2172,18,Male,Ikwo,Routine Immunization,0,0,4.4,6,0,0
+PHC-EB-2173,1,Female,Afikpo North,General Outpatient,0,0,11.6,7,0,1
+PHC-EB-2174,52,Female,Ikwo,General Outpatient,0,1,0.5,3,0,0
+PHC-EB-2175,43,Female,Ikwo,General Outpatient,0,0,5.0,6,1,0
+PHC-EB-2176,31,Female,Abakaliki,Antenatal Care,0,0,3.4,2,0,0
+PHC-EB-2177,69,Female,Abakaliki,General Outpatient,0,0,2.4,1,1,1
+PHC-EB-2178,31,Female,Abakaliki,Routine Immunization,0,0,4.9,3,1,1
+PHC-EB-2179,67,Female,Izzi,Routine Immunization,0,0,0.7,10,1,0
+PHC-EB-2180,54,Female,Abakaliki,Routine Immunization,1,0,6.8,19,0,1
+PHC-EB-2181,74,Male,Afikpo North,Antenatal Care,1,0,0.5,4,2,1
+PHC-EB-2182,55,Female,Ikwo,Antenatal Care,0,0,2.1,8,0,1
+PHC-EB-2183,16,Male,Afikpo North,Antenatal Care,0,0,3.7,0,0,1
+PHC-EB-2184,37,Female,Abakaliki,Antenatal Care,0,0,2.6,18,0,0
+PHC-EB-2185,23,Female,Izzi,General Outpatient,0,0,2.2,6,1,0
+PHC-EB-2186,68,Male,Izzi,General Outpatient,0,0,8.5,11,2,0
+PHC-EB-2187,69,Female,Ikwo,Chronic Disease (HTN/DM),1,0,12.8,12,0,0
+PHC-EB-2188,10,Male,Afikpo North,General Outpatient,0,0,9.8,2,0,1
+PHC-EB-2189,15,Male,Ebonyi,Antenatal Care,0,0,3.8,5,0,1
+PHC-EB-2190,72,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,10.2,25,0,1
+PHC-EB-2191,58,Male,Abakaliki,Chronic Disease (HTN/DM),1,1,11.9,0,0,0
+PHC-EB-2192,69,Female,Ebonyi,Routine Immunization,1,0,2.9,8,1,1
+PHC-EB-2193,2,Female,Izzi,Routine Immunization,0,0,2.0,25,1,1
+PHC-EB-2194,19,Female,Ikwo,Chronic Disease (HTN/DM),0,0,1.0,2,2,1
+PHC-EB-2195,58,Female,Ikwo,Routine Immunization,0,0,3.4,15,2,1
+PHC-EB-2196,35,Male,Izzi,Chronic Disease (HTN/DM),0,0,13.7,21,1,1
+PHC-EB-2197,18,Male,Abakaliki,Antenatal Care,0,0,4.2,10,0,1
+PHC-EB-2198,66,Male,Izzi,Antenatal Care,1,1,5.5,2,0,1
+PHC-EB-2199,18,Female,Abakaliki,Routine Immunization,0,0,1.0,3,2,1
+PHC-EB-2200,19,Female,Ebonyi,Routine Immunization,0,0,1.2,0,0,0
+PHC-EB-2201,70,Female,Izzi,General Outpatient,0,0,3.3,13,2,1
+PHC-EB-2202,51,Male,Abakaliki,Chronic Disease (HTN/DM),1,0,14.1,14,0,1
+PHC-EB-2203,32,Female,Ebonyi,Routine Immunization,0,0,2.5,7,0,0
+PHC-EB-2204,39,Male,Izzi,Antenatal Care,0,0,9.9,3,2,1
+PHC-EB-2205,38,Female,Ikwo,General Outpatient,1,0,1.1,0,0,0
+PHC-EB-2206,0,Female,Izzi,General Outpatient,0,0,4.8,10,3,1
+PHC-EB-2207,10,Male,Afikpo North,Antenatal Care,0,0,4.6,10,0,1
+PHC-EB-2208,56,Male,Izzi,Routine Immunization,0,0,9.3,19,1,1
+PHC-EB-2209,49,Female,Afikpo North,General Outpatient,0,0,0.5,10,1,1
+PHC-EB-2210,22,Male,Ebonyi,General Outpatient,0,0,1.4,13,1,1
+PHC-EB-2211,30,Female,Izzi,Routine Immunization,0,0,1.6,10,1,1
+PHC-EB-2212,41,Male,Ebonyi,Antenatal Care,0,0,14.0,7,0,1
+PHC-EB-2213,6,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,1.3,4,1,0
+PHC-EB-2214,15,Male,Abakaliki,General Outpatient,0,0,0.7,18,2,0
+PHC-EB-2215,59,Male,Ebonyi,Routine Immunization,0,0,3.9,8,2,1
+PHC-EB-2216,1,Female,Ebonyi,Antenatal Care,0,0,3.9,3,1,1
+PHC-EB-2217,0,Female,Izzi,General Outpatient,0,0,8.9,0,0,0
+PHC-EB-2218,47,Male,Izzi,Antenatal Care,0,0,13.9,2,1,0
+PHC-EB-2219,11,Female,Ikwo,Antenatal Care,0,0,4.0,6,0,0
+PHC-EB-2220,68,Male,Abakaliki,Routine Immunization,0,0,12.5,2,0,0
+PHC-EB-2221,36,Female,Ebonyi,Antenatal Care,1,0,6.3,1,0,0
+PHC-EB-2222,31,Male,Abakaliki,General Outpatient,0,0,1.9,5,1,1
+PHC-EB-2223,8,Male,Afikpo North,Antenatal Care,0,0,12.4,1,2,1
+PHC-EB-2224,18,Male,Ebonyi,General Outpatient,0,0,5.5,12,0,1
+PHC-EB-2225,47,Female,Abakaliki,Antenatal Care,0,0,2.9,5,0,0
+PHC-EB-2226,2,Male,Ikwo,Antenatal Care,0,0,5.6,6,1,0
+PHC-EB-2227,19,Female,Ikwo,Antenatal Care,0,0,2.8,1,0,0
+PHC-EB-2228,23,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,1.0,3,2,1
+PHC-EB-2229,53,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,6.2,4,0,1
+PHC-EB-2230,32,Male,Ikwo,Antenatal Care,0,0,8.3,12,2,1
+PHC-EB-2231,23,Male,Ikwo,General Outpatient,0,0,6.4,11,0,0
+PHC-EB-2232,74,Female,Afikpo North,General Outpatient,0,0,1.7,1,3,0
+PHC-EB-2233,71,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,14.6,7,1,0
+PHC-EB-2234,35,Female,Ikwo,Routine Immunization,0,0,0.6,2,0,0
+PHC-EB-2235,37,Female,Izzi,General Outpatient,0,0,2.3,34,1,1
+PHC-EB-2236,24,Female,Ikwo,Antenatal Care,0,0,1.9,23,1,1
+PHC-EB-2237,17,Male,Abakaliki,Routine Immunization,0,0,0.7,6,1,1
+PHC-EB-2238,65,Female,Abakaliki,Chronic Disease (HTN/DM),1,0,2.8,9,1,0
+PHC-EB-2239,53,Male,Ebonyi,Routine Immunization,0,0,4.9,12,1,1
+PHC-EB-2240,34,Male,Izzi,Antenatal Care,0,0,10.1,9,0,0
+PHC-EB-2241,60,Male,Abakaliki,Antenatal Care,1,0,21.1,9,0,0
+PHC-EB-2242,40,Male,Afikpo North,General Outpatient,1,0,7.9,24,1,1
+PHC-EB-2243,32,Male,Izzi,General Outpatient,0,0,3.3,7,0,0
+PHC-EB-2244,67,Female,Izzi,Routine Immunization,1,0,6.3,7,0,0
+PHC-EB-2245,32,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,8.8,14,0,1
+PHC-EB-2246,13,Female,Ikwo,Antenatal Care,0,0,3.3,8,1,0
+PHC-EB-2247,20,Female,Afikpo North,Antenatal Care,0,0,7.4,10,0,0
+PHC-EB-2248,47,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,3.5,2,2,1
+PHC-EB-2249,19,Female,Ikwo,Routine Immunization,0,0,2.7,3,2,1
+PHC-EB-2250,7,Male,Ikwo,Antenatal Care,0,0,3.9,1,0,0
+PHC-EB-2251,6,Male,Ikwo,Routine Immunization,0,0,5.6,5,1,0
+PHC-EB-2252,66,Female,Ikwo,General Outpatient,0,0,6.3,4,0,1
+PHC-EB-2253,16,Male,Ikwo,Antenatal Care,0,0,2.5,45,0,1
+PHC-EB-2254,32,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,4.3,7,1,0
+PHC-EB-2255,47,Female,Ebonyi,General Outpatient,1,0,11.3,12,1,1
+PHC-EB-2256,58,Male,Ebonyi,Antenatal Care,0,0,17.3,3,1,1
+PHC-EB-2257,21,Female,Abakaliki,General Outpatient,0,0,1.7,13,0,0
+PHC-EB-2258,29,Male,Ebonyi,Routine Immunization,0,0,1.5,7,1,0
+PHC-EB-2259,37,Female,Ebonyi,Routine Immunization,0,0,5.6,9,1,0
+PHC-EB-2260,50,Female,Afikpo North,General Outpatient,0,0,2.9,2,3,1
+PHC-EB-2261,53,Male,Ikwo,Chronic Disease (HTN/DM),0,0,0.6,6,0,0
+PHC-EB-2262,7,Female,Ikwo,Antenatal Care,0,0,2.4,7,0,1
+PHC-EB-2263,26,Female,Afikpo North,Routine Immunization,0,0,7.9,6,1,0
+PHC-EB-2264,26,Female,Ebonyi,Routine Immunization,0,0,7.7,19,0,0
+PHC-EB-2265,20,Male,Afikpo North,Routine Immunization,0,0,3.6,17,0,1
+PHC-EB-2266,29,Female,Abakaliki,Routine Immunization,0,0,3.4,27,1,1
+PHC-EB-2267,27,Female,Ikwo,Antenatal Care,0,0,4.4,8,0,0
+PHC-EB-2268,63,Female,Izzi,General Outpatient,0,0,1.6,27,0,0
+PHC-EB-2269,68,Female,Abakaliki,Routine Immunization,0,0,3.9,13,0,0
+PHC-EB-2270,60,Male,Abakaliki,Antenatal Care,0,0,0.5,2,2,1
+PHC-EB-2271,47,Male,Afikpo North,General Outpatient,1,0,3.4,4,0,0
+PHC-EB-2272,18,Female,Ebonyi,General Outpatient,0,0,2.3,2,1,0
+PHC-EB-2273,3,Male,Ikwo,Routine Immunization,0,0,5.6,0,0,0
+PHC-EB-2274,34,Female,Izzi,Antenatal Care,0,0,5.1,1,1,1
+PHC-EB-2275,63,Male,Abakaliki,General Outpatient,1,1,2.7,0,0,0
+PHC-EB-2276,48,Male,Izzi,Antenatal Care,0,0,0.5,9,1,0
+PHC-EB-2277,16,Female,Ebonyi,Antenatal Care,0,0,1.8,4,2,1
+PHC-EB-2278,43,Male,Ebonyi,General Outpatient,1,0,5.0,2,0,0
+PHC-EB-2279,29,Male,Izzi,Antenatal Care,0,0,0.8,11,0,0
+PHC-EB-2280,45,Female,Ikwo,Antenatal Care,0,0,1.0,13,0,0
+PHC-EB-2281,5,Female,Ebonyi,Antenatal Care,0,0,5.2,28,0,1
+PHC-EB-2282,36,Female,Izzi,Antenatal Care,1,0,6.8,8,1,1
+PHC-EB-2283,23,Male,Abakaliki,Antenatal Care,0,0,2.2,4,0,0
+PHC-EB-2284,45,Male,Izzi,Chronic Disease (HTN/DM),0,0,3.5,2,1,0
+PHC-EB-2285,52,Male,Izzi,Antenatal Care,0,0,13.6,1,1,1
+PHC-EB-2286,59,Male,Afikpo North,Antenatal Care,1,0,13.6,1,1,1
+PHC-EB-2287,62,Female,Ebonyi,Antenatal Care,0,0,2.2,4,0,0
+PHC-EB-2288,31,Male,Ikwo,Chronic Disease (HTN/DM),0,0,8.0,37,0,1
+PHC-EB-2289,32,Male,Ikwo,Routine Immunization,0,0,4.6,0,0,0
+PHC-EB-2290,66,Female,Afikpo North,Routine Immunization,0,0,17.2,1,1,1
+PHC-EB-2291,17,Female,Ikwo,Chronic Disease (HTN/DM),0,0,3.4,1,2,1
+PHC-EB-2292,24,Male,Izzi,Routine Immunization,0,0,7.2,9,0,1
+PHC-EB-2293,53,Female,Afikpo North,Routine Immunization,0,0,7.1,3,0,0
+PHC-EB-2294,57,Male,Abakaliki,Antenatal Care,0,0,3.6,4,0,0
+PHC-EB-2295,66,Female,Ebonyi,Routine Immunization,0,0,7.6,1,0,0
+PHC-EB-2296,45,Female,Ebonyi,Antenatal Care,0,0,1.9,4,1,0
+PHC-EB-2297,23,Male,Ebonyi,General Outpatient,0,0,1.1,0,0,0
+PHC-EB-2298,31,Female,Izzi,Antenatal Care,0,0,3.0,5,0,0
+PHC-EB-2299,46,Female,Abakaliki,Routine Immunization,0,0,13.4,0,0,1
+PHC-EB-2300,22,Female,Afikpo North,Antenatal Care,0,0,3.6,12,2,1
+PHC-EB-2301,65,Male,Afikpo North,Antenatal Care,0,0,5.0,6,0,1
+PHC-EB-2302,26,Female,Ebonyi,Routine Immunization,0,0,4.9,10,2,1
+PHC-EB-2303,1,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,1.1,4,0,1
+PHC-EB-2304,16,Female,Abakaliki,Routine Immunization,0,0,2.7,3,2,1
+PHC-EB-2305,32,Male,Abakaliki,General Outpatient,0,0,6.0,0,0,1
+PHC-EB-2306,8,Male,Ikwo,Antenatal Care,0,0,16.6,5,0,1
+PHC-EB-2307,42,Female,Ikwo,Antenatal Care,1,0,1.3,5,1,0
+PHC-EB-2308,47,Female,Ebonyi,Antenatal Care,0,0,2.9,4,0,0
+PHC-EB-2309,38,Female,Abakaliki,Antenatal Care,0,1,0.9,10,1,0
+PHC-EB-2310,41,Male,Abakaliki,Antenatal Care,0,0,1.7,13,3,0
+PHC-EB-2311,25,Female,Afikpo North,Antenatal Care,0,0,2.6,10,0,0
+PHC-EB-2312,49,Female,Afikpo North,General Outpatient,0,1,4.0,1,1,1
+PHC-EB-2313,24,Female,Ebonyi,Antenatal Care,0,0,1.7,7,1,1
+PHC-EB-2314,23,Female,Abakaliki,Routine Immunization,0,0,1.7,0,1,0
+PHC-EB-2315,12,Female,Ebonyi,Routine Immunization,0,0,7.3,9,0,0
+PHC-EB-2316,59,Male,Afikpo North,Routine Immunization,0,0,15.3,3,0,0
+PHC-EB-2317,6,Male,Afikpo North,Routine Immunization,0,0,2.3,1,0,0
+PHC-EB-2318,56,Female,Ikwo,Antenatal Care,0,0,5.7,15,1,1
+PHC-EB-2319,35,Female,Ebonyi,Antenatal Care,0,0,1.8,7,0,0
+PHC-EB-2320,44,Female,Ebonyi,General Outpatient,0,0,12.3,3,1,1
+PHC-EB-2321,19,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,5.5,0,1,0
+PHC-EB-2322,64,Male,Abakaliki,Antenatal Care,0,1,7.8,6,1,1
+PHC-EB-2323,7,Male,Ikwo,Antenatal Care,0,0,0.7,20,0,1
+PHC-EB-2324,15,Male,Izzi,Chronic Disease (HTN/DM),0,0,4.6,7,0,0
+PHC-EB-2325,13,Female,Izzi,Routine Immunization,0,0,3.9,27,0,1
+PHC-EB-2326,14,Male,Izzi,Routine Immunization,0,0,2.1,1,0,0
+PHC-EB-2327,65,Male,Ebonyi,Routine Immunization,0,0,1.9,6,1,1
+PHC-EB-2328,31,Female,Ebonyi,Antenatal Care,0,0,4.4,12,1,1
+PHC-EB-2329,62,Male,Afikpo North,Routine Immunization,0,0,6.0,5,0,1
+PHC-EB-2330,50,Female,Ebonyi,Routine Immunization,0,0,0.7,0,0,0
+PHC-EB-2331,24,Male,Ebonyi,Antenatal Care,0,0,4.3,6,3,1
+PHC-EB-2332,57,Female,Ebonyi,Routine Immunization,0,0,1.3,7,1,0
+PHC-EB-2333,62,Female,Ikwo,General Outpatient,0,0,1.2,10,1,0
+PHC-EB-2334,61,Male,Ebonyi,Routine Immunization,0,1,4.9,11,1,0
+PHC-EB-2335,21,Female,Abakaliki,Antenatal Care,0,0,2.2,11,0,0
+PHC-EB-2336,57,Female,Abakaliki,Routine Immunization,0,1,3.1,8,1,0
+PHC-EB-2337,57,Female,Afikpo North,General Outpatient,0,1,2.5,1,0,0
+PHC-EB-2338,48,Male,Ikwo,General Outpatient,1,0,5.2,4,0,0
+PHC-EB-2339,51,Female,Abakaliki,General Outpatient,0,0,3.4,11,1,0
+PHC-EB-2340,41,Female,Ikwo,Antenatal Care,0,0,15.4,23,0,1
+PHC-EB-2341,69,Male,Ikwo,General Outpatient,0,0,2.5,0,1,1
+PHC-EB-2342,14,Male,Afikpo North,General Outpatient,0,0,6.6,5,0,1
+PHC-EB-2343,53,Female,Ikwo,Antenatal Care,0,0,1.8,2,0,0
+PHC-EB-2344,59,Male,Ebonyi,Routine Immunization,0,0,3.7,1,0,0
+PHC-EB-2345,7,Male,Ikwo,Routine Immunization,0,0,4.1,5,0,0
+PHC-EB-2346,52,Male,Afikpo North,General Outpatient,1,0,2.3,7,0,0
+PHC-EB-2347,59,Female,Afikpo North,Antenatal Care,0,0,3.4,0,0,0
+PHC-EB-2348,4,Female,Afikpo North,Routine Immunization,0,0,2.0,11,1,1
+PHC-EB-2349,67,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,0.5,13,1,1
+PHC-EB-2350,5,Female,Ebonyi,General Outpatient,0,0,1.6,26,0,0
+PHC-EB-2351,46,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,5.9,1,1,1
+PHC-EB-2352,54,Female,Izzi,Chronic Disease (HTN/DM),0,0,7.1,7,1,1
+PHC-EB-2353,39,Male,Ebonyi,Antenatal Care,1,0,2.0,4,1,1
+PHC-EB-2354,51,Female,Ikwo,General Outpatient,1,0,2.9,3,0,0
+PHC-EB-2355,15,Female,Afikpo North,Routine Immunization,0,0,0.7,6,2,0
+PHC-EB-2356,12,Male,Izzi,Chronic Disease (HTN/DM),0,0,1.7,11,1,1
+PHC-EB-2357,29,Female,Ebonyi,Antenatal Care,0,0,7.3,0,0,1
+PHC-EB-2358,18,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,4.7,27,1,1
+PHC-EB-2359,16,Male,Afikpo North,General Outpatient,0,0,1.5,12,1,1
+PHC-EB-2360,62,Female,Abakaliki,General Outpatient,0,0,1.8,10,0,0
+PHC-EB-2361,18,Male,Ebonyi,Antenatal Care,0,0,8.1,11,1,1
+PHC-EB-2362,57,Male,Ebonyi,Antenatal Care,0,0,1.6,3,0,0
+PHC-EB-2363,54,Female,Izzi,General Outpatient,0,0,2.3,10,0,0
+PHC-EB-2364,61,Male,Ikwo,Antenatal Care,0,0,5.4,3,0,0
+PHC-EB-2365,22,Female,Abakaliki,General Outpatient,0,0,4.2,17,0,0
+PHC-EB-2366,8,Female,Izzi,Antenatal Care,0,0,3.3,1,0,1
+PHC-EB-2367,11,Female,Afikpo North,General Outpatient,0,0,10.8,2,1,1
+PHC-EB-2368,0,Female,Ikwo,Routine Immunization,0,0,1.6,6,0,0
+PHC-EB-2369,57,Male,Izzi,General Outpatient,1,1,6.6,3,0,1
+PHC-EB-2370,0,Female,Abakaliki,General Outpatient,0,0,1.3,4,0,1
+PHC-EB-2371,33,Female,Ebonyi,Routine Immunization,0,0,4.8,5,0,0
+PHC-EB-2372,47,Female,Afikpo North,Antenatal Care,0,0,9.7,15,2,1
+PHC-EB-2373,0,Female,Abakaliki,Antenatal Care,0,0,3.3,5,1,0
+PHC-EB-2374,15,Female,Ikwo,Routine Immunization,0,0,6.3,3,0,1
+PHC-EB-2375,60,Female,Ikwo,Routine Immunization,0,0,8.2,2,2,1
+PHC-EB-2376,63,Male,Ebonyi,General Outpatient,0,0,1.2,4,0,0
+PHC-EB-2377,62,Female,Ebonyi,Routine Immunization,0,0,6.0,5,1,1
+PHC-EB-2378,68,Female,Afikpo North,Routine Immunization,0,0,11.9,10,2,1
+PHC-EB-2379,21,Female,Afikpo North,Routine Immunization,0,0,4.4,1,3,0
+PHC-EB-2380,66,Female,Ebonyi,Antenatal Care,1,0,1.4,1,0,0
+PHC-EB-2381,25,Male,Ebonyi,Routine Immunization,0,0,1.1,3,1,1
+PHC-EB-2382,15,Female,Ikwo,Chronic Disease (HTN/DM),0,0,1.9,3,0,0
+PHC-EB-2383,50,Female,Ebonyi,Chronic Disease (HTN/DM),1,0,1.0,3,0,0
+PHC-EB-2384,56,Female,Izzi,Routine Immunization,0,0,3.7,12,1,0
+PHC-EB-2385,28,Male,Abakaliki,Routine Immunization,0,0,0.8,3,0,0
+PHC-EB-2386,68,Male,Ebonyi,General Outpatient,0,0,1.6,5,0,1
+PHC-EB-2387,46,Female,Afikpo North,Routine Immunization,1,0,3.1,7,1,0
+PHC-EB-2388,61,Male,Izzi,Antenatal Care,0,0,3.4,2,0,0
+PHC-EB-2389,68,Female,Afikpo North,Antenatal Care,0,0,4.2,9,1,0
+PHC-EB-2390,15,Male,Izzi,Routine Immunization,0,0,6.0,6,1,0
+PHC-EB-2391,47,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,0.7,4,1,1
+PHC-EB-2392,38,Female,Abakaliki,General Outpatient,0,0,0.9,12,2,1
+PHC-EB-2393,32,Female,Afikpo North,Antenatal Care,0,0,0.8,2,0,0
+PHC-EB-2394,22,Female,Izzi,Antenatal Care,0,0,3.0,16,0,1
+PHC-EB-2395,9,Female,Ikwo,General Outpatient,0,0,0.7,6,1,0
+PHC-EB-2396,68,Male,Ebonyi,General Outpatient,0,0,6.7,7,1,0
+PHC-EB-2397,33,Female,Abakaliki,General Outpatient,0,0,1.6,16,1,1
+PHC-EB-2398,51,Female,Ebonyi,General Outpatient,0,0,13.1,13,0,1
+PHC-EB-2399,9,Male,Ikwo,Antenatal Care,0,0,3.5,7,0,0
+PHC-EB-2400,18,Female,Abakaliki,General Outpatient,0,0,3.2,10,0,0
+PHC-EB-2401,57,Female,Ikwo,General Outpatient,0,0,7.3,4,1,1
+PHC-EB-2402,0,Female,Ebonyi,Antenatal Care,0,0,6.1,6,1,0
+PHC-EB-2403,68,Female,Izzi,General Outpatient,0,0,4.7,0,1,0
+PHC-EB-2404,3,Male,Ebonyi,Antenatal Care,0,0,12.8,0,0,1
+PHC-EB-2405,15,Female,Ebonyi,Antenatal Care,0,0,3.0,13,0,1
+PHC-EB-2406,23,Female,Ebonyi,Antenatal Care,0,0,7.9,0,1,1
+PHC-EB-2407,1,Female,Afikpo North,Antenatal Care,0,0,2.7,1,0,0
+PHC-EB-2408,31,Female,Ikwo,Routine Immunization,0,0,8.7,12,2,0
+PHC-EB-2409,23,Male,Ikwo,Routine Immunization,0,0,1.9,0,2,1
+PHC-EB-2410,11,Female,Ikwo,Routine Immunization,0,0,2.0,2,2,1
+PHC-EB-2411,49,Female,Afikpo North,Routine Immunization,0,0,5.6,6,0,0
+PHC-EB-2412,34,Male,Izzi,Antenatal Care,0,0,1.6,7,0,1
+PHC-EB-2413,32,Male,Ebonyi,Antenatal Care,0,0,1.7,11,0,0
+PHC-EB-2414,32,Female,Izzi,General Outpatient,0,0,2.1,5,1,0
+PHC-EB-2415,60,Female,Afikpo North,Routine Immunization,1,0,5.6,5,0,1
+PHC-EB-2416,50,Male,Ikwo,Antenatal Care,1,0,10.4,10,1,1
+PHC-EB-2417,42,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,5.6,5,1,0
+PHC-EB-2418,11,Female,Abakaliki,General Outpatient,0,0,8.4,7,0,1
+PHC-EB-2419,66,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,4.0,17,1,0
+PHC-EB-2420,64,Female,Izzi,Routine Immunization,1,0,0.8,4,0,0
+PHC-EB-2421,32,Female,Ikwo,Antenatal Care,0,0,1.0,3,0,0
+PHC-EB-2422,39,Female,Abakaliki,General Outpatient,0,0,4.1,0,0,0
+PHC-EB-2423,73,Female,Izzi,Antenatal Care,0,0,2.3,7,3,1
+PHC-EB-2424,42,Male,Afikpo North,Routine Immunization,0,0,1.6,0,2,1
+PHC-EB-2425,43,Female,Izzi,Antenatal Care,1,1,3.3,5,1,1
+PHC-EB-2426,28,Female,Izzi,General Outpatient,0,0,5.4,12,0,0
+PHC-EB-2427,12,Male,Izzi,Antenatal Care,0,0,2.7,6,2,0
+PHC-EB-2428,11,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,7.8,2,0,0
+PHC-EB-2429,45,Female,Izzi,Chronic Disease (HTN/DM),1,0,6.5,12,2,1
+PHC-EB-2430,1,Female,Izzi,Routine Immunization,0,0,6.5,2,0,0
+PHC-EB-2431,34,Female,Ebonyi,General Outpatient,0,0,19.5,10,0,1
+PHC-EB-2432,7,Female,Ebonyi,General Outpatient,0,0,2.1,7,1,1
+PHC-EB-2433,25,Male,Afikpo North,General Outpatient,0,0,5.2,1,0,0
+PHC-EB-2434,73,Female,Ikwo,Routine Immunization,1,0,9.2,18,0,1
+PHC-EB-2435,33,Female,Abakaliki,General Outpatient,0,0,4.4,1,2,1
+PHC-EB-2436,6,Male,Abakaliki,Routine Immunization,0,0,7.5,35,0,1
+PHC-EB-2437,67,Male,Izzi,Chronic Disease (HTN/DM),0,0,2.9,0,0,0
+PHC-EB-2438,57,Female,Afikpo North,Routine Immunization,0,1,4.5,2,5,1
+PHC-EB-2439,74,Female,Izzi,Routine Immunization,1,0,0.8,1,1,0
+PHC-EB-2440,28,Female,Abakaliki,General Outpatient,0,0,19.6,0,0,1
+PHC-EB-2441,35,Female,Ebonyi,General Outpatient,0,0,7.7,10,0,0
+PHC-EB-2442,20,Female,Ikwo,Routine Immunization,0,0,9.6,9,1,0
+PHC-EB-2443,35,Female,Afikpo North,Antenatal Care,0,0,5.8,12,1,1
+PHC-EB-2444,9,Male,Ebonyi,Routine Immunization,0,0,1.4,2,0,1
+PHC-EB-2445,72,Female,Ikwo,Chronic Disease (HTN/DM),0,1,0.6,4,0,1
+PHC-EB-2446,23,Male,Afikpo North,General Outpatient,0,0,9.5,8,0,1
+PHC-EB-2447,63,Female,Afikpo North,General Outpatient,1,0,2.8,4,0,0
+PHC-EB-2448,48,Male,Abakaliki,Antenatal Care,0,0,1.9,9,0,1
+PHC-EB-2449,35,Female,Ebonyi,Routine Immunization,0,0,4.2,7,1,1
+PHC-EB-2450,23,Male,Afikpo North,General Outpatient,0,0,3.0,0,0,0
+PHC-EB-2451,22,Female,Afikpo North,General Outpatient,0,0,5.2,11,0,1
+PHC-EB-2452,61,Female,Ikwo,Antenatal Care,0,0,3.5,9,1,1
+PHC-EB-2453,36,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,5.9,8,1,1
+PHC-EB-2454,11,Male,Izzi,Routine Immunization,0,0,9.1,1,0,0
+PHC-EB-2455,54,Female,Abakaliki,Antenatal Care,1,0,1.5,2,2,1
+PHC-EB-2456,12,Female,Izzi,Antenatal Care,0,0,2.3,3,0,0
+PHC-EB-2457,22,Female,Ebonyi,Antenatal Care,0,0,3.1,2,0,1
+PHC-EB-2458,29,Female,Ebonyi,Routine Immunization,0,0,15.2,2,0,0
+PHC-EB-2459,16,Female,Afikpo North,Antenatal Care,0,0,2.5,12,1,1
+PHC-EB-2460,61,Female,Ebonyi,Antenatal Care,0,0,2.7,7,0,0
+PHC-EB-2461,12,Male,Afikpo North,General Outpatient,0,0,5.3,6,0,1
+PHC-EB-2462,58,Male,Abakaliki,Antenatal Care,0,0,2.9,2,3,0
+PHC-EB-2463,18,Male,Ebonyi,Antenatal Care,0,0,14.1,19,1,1
+PHC-EB-2464,48,Female,Abakaliki,Routine Immunization,0,0,10.6,1,0,0
+PHC-EB-2465,11,Male,Abakaliki,Routine Immunization,0,0,3.7,12,0,0
+PHC-EB-2466,60,Male,Ebonyi,General Outpatient,1,0,5.2,26,1,1
+PHC-EB-2467,18,Male,Abakaliki,Routine Immunization,0,0,0.8,10,1,0
+PHC-EB-2468,8,Male,Ebonyi,General Outpatient,0,0,5.9,38,0,1
+PHC-EB-2469,70,Female,Ebonyi,General Outpatient,0,1,6.0,8,0,0
+PHC-EB-2470,27,Male,Ebonyi,Antenatal Care,0,0,2.5,1,0,0
+PHC-EB-2471,51,Female,Izzi,Antenatal Care,1,0,1.6,1,0,1
+PHC-EB-2472,15,Female,Abakaliki,Routine Immunization,0,0,11.6,3,0,0
+PHC-EB-2473,68,Female,Ikwo,Routine Immunization,1,0,3.0,0,0,0
+PHC-EB-2474,11,Male,Ebonyi,General Outpatient,0,0,5.3,8,0,0
+PHC-EB-2475,24,Male,Abakaliki,Routine Immunization,0,0,0.7,2,1,1
+PHC-EB-2476,51,Male,Afikpo North,Routine Immunization,0,0,2.9,13,1,1
+PHC-EB-2477,52,Male,Ebonyi,Antenatal Care,1,0,8.1,3,0,1
+PHC-EB-2478,22,Female,Ebonyi,Antenatal Care,0,0,2.7,5,1,1
+PHC-EB-2479,15,Female,Ikwo,Routine Immunization,0,0,4.7,26,0,1
+PHC-EB-2480,56,Female,Izzi,Routine Immunization,0,0,1.6,2,4,1
+PHC-EB-2481,38,Female,Izzi,Routine Immunization,0,1,2.9,9,0,0
+PHC-EB-2482,52,Female,Ebonyi,Antenatal Care,1,0,12.3,11,2,1
+PHC-EB-2483,41,Female,Abakaliki,General Outpatient,0,0,4.3,1,1,0
+PHC-EB-2484,57,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,10.9,5,0,0
+PHC-EB-2485,38,Male,Afikpo North,Antenatal Care,0,0,11.0,3,3,0
+PHC-EB-2486,13,Female,Abakaliki,Routine Immunization,0,0,13.5,11,0,1
+PHC-EB-2487,4,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,10.7,7,1,1
+PHC-EB-2488,34,Female,Afikpo North,Routine Immunization,0,0,0.5,5,1,0
+PHC-EB-2489,74,Female,Izzi,Routine Immunization,1,0,12.7,11,0,0
+PHC-EB-2490,17,Female,Abakaliki,Antenatal Care,0,0,1.2,2,0,1
+PHC-EB-2491,8,Female,Ikwo,General Outpatient,0,0,0.7,10,0,0
+PHC-EB-2492,73,Female,Ebonyi,Antenatal Care,0,0,0.8,15,1,0
+PHC-EB-2493,57,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,2.4,16,0,1
+PHC-EB-2494,16,Female,Afikpo North,General Outpatient,0,0,4.9,11,1,0
+PHC-EB-2495,6,Female,Ebonyi,General Outpatient,0,0,2.8,4,1,1
+PHC-EB-2496,45,Female,Izzi,General Outpatient,0,0,0.6,31,1,1
+PHC-EB-2497,12,Male,Ebonyi,Routine Immunization,0,0,3.4,3,0,0
+PHC-EB-2498,39,Male,Ebonyi,Routine Immunization,0,0,3.1,7,2,0
+PHC-EB-2499,41,Male,Izzi,Chronic Disease (HTN/DM),0,0,6.9,1,1,1
+PHC-EB-2500,8,Female,Izzi,Chronic Disease (HTN/DM),0,0,2.0,30,1,0
+PHC-EB-2501,49,Male,Ebonyi,Routine Immunization,0,0,1.6,9,0,0
+PHC-EB-2502,26,Male,Izzi,Chronic Disease (HTN/DM),0,0,1.8,10,0,0
+PHC-EB-2503,65,Female,Abakaliki,Routine Immunization,1,0,2.1,0,0,0
+PHC-EB-2504,4,Male,Izzi,Routine Immunization,0,0,4.6,11,1,0
+PHC-EB-2505,28,Female,Izzi,Routine Immunization,0,0,3.4,11,0,1
+PHC-EB-2506,36,Male,Ebonyi,Antenatal Care,0,0,2.3,8,0,1
+PHC-EB-2507,37,Male,Abakaliki,Antenatal Care,0,0,2.6,2,0,0
+PHC-EB-2508,7,Female,Ikwo,Antenatal Care,0,0,2.6,5,1,0
+PHC-EB-2509,64,Female,Ikwo,Routine Immunization,0,0,16.7,0,2,0
+PHC-EB-2510,16,Male,Afikpo North,Routine Immunization,0,0,1.7,4,1,0
+PHC-EB-2511,70,Female,Izzi,Routine Immunization,0,0,8.2,2,0,1
+PHC-EB-2512,44,Female,Izzi,Chronic Disease (HTN/DM),0,0,6.0,3,0,1
+PHC-EB-2513,3,Male,Abakaliki,Routine Immunization,0,0,0.5,1,0,0
+PHC-EB-2514,35,Female,Ikwo,Routine Immunization,0,0,22.9,2,1,1
+PHC-EB-2515,69,Female,Afikpo North,Antenatal Care,0,0,6.9,0,0,0
+PHC-EB-2516,30,Female,Abakaliki,Antenatal Care,0,0,5.7,19,1,1
+PHC-EB-2517,18,Female,Izzi,General Outpatient,0,0,2.8,5,0,1
+PHC-EB-2518,60,Female,Ikwo,Routine Immunization,0,0,4.1,3,2,1
+PHC-EB-2519,53,Female,Afikpo North,General Outpatient,1,1,1.8,5,1,0
+PHC-EB-2520,38,Female,Ebonyi,Antenatal Care,0,0,0.7,7,0,1
+PHC-EB-2521,73,Female,Ikwo,Routine Immunization,0,1,8.6,19,0,1
+PHC-EB-2522,18,Male,Afikpo North,Antenatal Care,0,0,10.7,1,1,1
+PHC-EB-2523,38,Male,Abakaliki,Antenatal Care,1,0,1.3,2,0,0
+PHC-EB-2524,66,Female,Ebonyi,Antenatal Care,0,0,7.5,29,2,1
+PHC-EB-2525,44,Male,Afikpo North,Antenatal Care,1,0,6.6,3,0,0
+PHC-EB-2526,12,Female,Afikpo North,Antenatal Care,0,0,1.4,0,0,0
+PHC-EB-2527,57,Female,Izzi,Antenatal Care,0,0,3.0,1,0,0
+PHC-EB-2528,19,Female,Ikwo,Chronic Disease (HTN/DM),0,0,3.0,0,1,0
+PHC-EB-2529,71,Male,Izzi,Antenatal Care,0,0,6.9,35,2,1
+PHC-EB-2530,60,Female,Ebonyi,Antenatal Care,0,0,8.7,2,0,0
+PHC-EB-2531,38,Female,Afikpo North,Antenatal Care,0,1,0.9,20,3,1
+PHC-EB-2532,0,Male,Izzi,Routine Immunization,0,0,4.2,42,0,0
+PHC-EB-2533,2,Female,Ikwo,Antenatal Care,0,0,7.0,7,1,0
+PHC-EB-2534,61,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,7.4,0,0,0
+PHC-EB-2535,62,Female,Abakaliki,Chronic Disease (HTN/DM),1,1,1.2,0,0,0
+PHC-EB-2536,24,Male,Izzi,Antenatal Care,0,0,3.9,5,1,1
+PHC-EB-2537,55,Male,Ebonyi,Routine Immunization,0,0,9.3,4,1,0
+PHC-EB-2538,32,Female,Abakaliki,Antenatal Care,0,0,2.2,7,1,1
+PHC-EB-2539,37,Female,Izzi,General Outpatient,1,0,3.0,4,0,0
+PHC-EB-2540,5,Female,Ebonyi,Routine Immunization,0,0,7.8,21,3,1
+PHC-EB-2541,57,Male,Ebonyi,Antenatal Care,0,0,0.9,5,1,0
+PHC-EB-2542,43,Female,Izzi,Antenatal Care,0,0,9.3,9,1,1
+PHC-EB-2543,44,Female,Ebonyi,General Outpatient,0,0,2.2,17,0,0
+PHC-EB-2544,31,Female,Afikpo North,Routine Immunization,0,0,0.5,1,0,0
+PHC-EB-2545,44,Female,Izzi,Antenatal Care,0,0,1.7,2,1,0
+PHC-EB-2546,60,Female,Ebonyi,General Outpatient,1,0,0.9,0,2,1
+PHC-EB-2547,46,Female,Abakaliki,Routine Immunization,1,1,0.9,1,1,0
+PHC-EB-2548,20,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,5.8,5,1,1
+PHC-EB-2549,74,Female,Afikpo North,Antenatal Care,0,0,1.6,3,0,1
+PHC-EB-2550,35,Female,Izzi,General Outpatient,1,1,12.8,4,0,1
+PHC-EB-2551,18,Male,Ebonyi,General Outpatient,0,0,3.8,31,1,1
+PHC-EB-2552,19,Female,Ebonyi,Antenatal Care,0,0,3.3,1,0,0
+PHC-EB-2553,56,Male,Abakaliki,General Outpatient,0,0,3.1,6,0,0
+PHC-EB-2554,17,Male,Afikpo North,Routine Immunization,0,0,5.8,0,0,0
+PHC-EB-2555,46,Female,Abakaliki,Chronic Disease (HTN/DM),1,0,3.2,2,1,1
+PHC-EB-2556,48,Female,Abakaliki,Antenatal Care,0,0,1.1,5,1,0
+PHC-EB-2557,13,Male,Afikpo North,General Outpatient,0,0,10.0,22,1,1
+PHC-EB-2558,14,Female,Izzi,Routine Immunization,0,0,3.0,3,1,0
+PHC-EB-2559,30,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,0.8,0,2,0
+PHC-EB-2560,0,Female,Izzi,Routine Immunization,0,0,3.9,3,2,0
+PHC-EB-2561,53,Male,Ikwo,Chronic Disease (HTN/DM),0,1,5.2,1,0,0
+PHC-EB-2562,2,Female,Ikwo,Chronic Disease (HTN/DM),0,0,2.0,2,0,0
+PHC-EB-2563,15,Male,Ikwo,Antenatal Care,0,0,7.8,7,0,1
+PHC-EB-2564,56,Female,Afikpo North,General Outpatient,0,0,5.5,0,0,0
+PHC-EB-2565,74,Male,Abakaliki,Chronic Disease (HTN/DM),0,1,5.2,4,1,0
+PHC-EB-2566,11,Female,Izzi,Antenatal Care,0,0,3.0,7,0,1
+PHC-EB-2567,73,Male,Ebonyi,Routine Immunization,0,0,15.2,4,1,1
+PHC-EB-2568,15,Female,Ikwo,Routine Immunization,0,0,1.9,0,4,0
+PHC-EB-2569,71,Male,Izzi,Antenatal Care,0,0,4.4,33,1,1
+PHC-EB-2570,23,Female,Ikwo,Antenatal Care,0,0,2.2,3,0,0
+PHC-EB-2571,27,Male,Ikwo,Antenatal Care,0,0,6.6,11,1,1
+PHC-EB-2572,7,Female,Ebonyi,Antenatal Care,0,0,0.7,3,2,1
+PHC-EB-2573,35,Male,Afikpo North,Routine Immunization,1,0,0.7,5,0,0
+PHC-EB-2574,7,Male,Abakaliki,Antenatal Care,0,0,8.0,3,0,1
+PHC-EB-2575,57,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,3.1,3,2,1
+PHC-EB-2576,59,Female,Izzi,General Outpatient,0,0,2.4,0,0,0
+PHC-EB-2577,49,Female,Afikpo North,Antenatal Care,0,1,4.7,3,0,1
+PHC-EB-2578,27,Male,Izzi,General Outpatient,0,0,5.9,17,1,1
+PHC-EB-2579,40,Female,Izzi,General Outpatient,0,0,1.5,9,0,0
+PHC-EB-2580,63,Female,Abakaliki,Chronic Disease (HTN/DM),1,0,1.4,1,3,1
+PHC-EB-2581,26,Male,Ebonyi,Antenatal Care,0,0,14.8,6,1,1
+PHC-EB-2582,62,Male,Abakaliki,Antenatal Care,0,0,4.5,17,0,1
+PHC-EB-2583,16,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,2.7,9,1,1
+PHC-EB-2584,72,Male,Izzi,Chronic Disease (HTN/DM),0,0,7.8,1,0,0
+PHC-EB-2585,32,Male,Ikwo,General Outpatient,0,0,3.9,15,1,0
+PHC-EB-2586,28,Female,Ikwo,General Outpatient,0,0,1.7,2,1,1
+PHC-EB-2587,12,Male,Izzi,Antenatal Care,0,0,1.5,4,0,1
+PHC-EB-2588,45,Female,Abakaliki,Routine Immunization,0,0,2.8,5,1,0
+PHC-EB-2589,34,Female,Ebonyi,Antenatal Care,0,0,9.3,14,0,1
+PHC-EB-2590,5,Female,Abakaliki,Antenatal Care,0,0,0.8,20,1,1
+PHC-EB-2591,68,Female,Izzi,General Outpatient,1,0,1.6,20,1,1
+PHC-EB-2592,46,Male,Izzi,Antenatal Care,0,0,10.6,0,1,1
+PHC-EB-2593,24,Female,Ebonyi,Routine Immunization,0,0,1.1,19,2,1
+PHC-EB-2594,65,Female,Afikpo North,Chronic Disease (HTN/DM),1,0,5.0,0,1,0
+PHC-EB-2595,9,Female,Afikpo North,Antenatal Care,0,0,1.6,2,0,1
+PHC-EB-2596,55,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,4.7,5,1,1
+PHC-EB-2597,29,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,2.7,5,0,1
+PHC-EB-2598,4,Female,Ikwo,Routine Immunization,0,0,1.0,7,0,1
+PHC-EB-2599,32,Female,Afikpo North,Antenatal Care,0,0,4.4,5,1,1
+PHC-EB-2600,64,Male,Afikpo North,Antenatal Care,1,0,5.7,21,1,1
+PHC-EB-2601,17,Female,Afikpo North,Routine Immunization,0,0,5.6,2,3,1
+PHC-EB-2602,48,Female,Ikwo,Antenatal Care,1,1,5.1,2,0,1
+PHC-EB-2603,10,Female,Afikpo North,Antenatal Care,0,0,3.6,19,0,1
+PHC-EB-2604,25,Male,Ikwo,Chronic Disease (HTN/DM),0,0,3.8,0,2,1
+PHC-EB-2605,62,Female,Ebonyi,Antenatal Care,0,0,5.0,7,0,0
+PHC-EB-2606,58,Female,Abakaliki,General Outpatient,1,0,5.8,8,0,0
+PHC-EB-2607,26,Female,Ebonyi,Antenatal Care,0,0,5.3,5,1,0
+PHC-EB-2608,48,Male,Abakaliki,Routine Immunization,0,0,4.5,9,1,0
+PHC-EB-2609,32,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,1.3,1,0,0
+PHC-EB-2610,0,Male,Abakaliki,Antenatal Care,0,0,1.6,14,2,1
+PHC-EB-2611,20,Female,Abakaliki,Antenatal Care,0,0,1.9,1,0,1
+PHC-EB-2612,54,Female,Izzi,General Outpatient,0,0,11.8,4,2,1
+PHC-EB-2613,5,Male,Abakaliki,General Outpatient,0,0,6.9,0,0,1
+PHC-EB-2614,68,Female,Abakaliki,General Outpatient,0,0,4.1,6,0,1
+PHC-EB-2615,4,Male,Izzi,Antenatal Care,0,0,1.8,8,0,1
+PHC-EB-2616,2,Male,Afikpo North,Antenatal Care,0,0,1.0,22,1,1
+PHC-EB-2617,52,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,10.8,10,1,1
+PHC-EB-2618,22,Female,Izzi,Chronic Disease (HTN/DM),0,0,10.5,6,0,1
+PHC-EB-2619,52,Male,Ikwo,Routine Immunization,0,1,1.0,21,0,1
+PHC-EB-2620,36,Female,Abakaliki,General Outpatient,1,0,7.7,5,0,0
+PHC-EB-2621,73,Male,Abakaliki,Routine Immunization,0,0,3.2,6,0,0
+PHC-EB-2622,73,Male,Izzi,Routine Immunization,0,1,2.3,7,0,0
+PHC-EB-2623,16,Male,Izzi,Antenatal Care,0,0,6.5,4,2,1
+PHC-EB-2624,72,Female,Ikwo,Routine Immunization,0,0,4.8,14,2,1
+PHC-EB-2625,0,Female,Afikpo North,Routine Immunization,0,0,7.3,1,0,0
+PHC-EB-2626,50,Female,Ebonyi,Antenatal Care,1,0,0.8,6,1,1
+PHC-EB-2627,44,Male,Afikpo North,Routine Immunization,0,0,2.2,10,0,0
+PHC-EB-2628,3,Female,Abakaliki,General Outpatient,0,0,2.2,18,0,0
+PHC-EB-2629,61,Female,Izzi,General Outpatient,0,0,2.3,16,3,1
+PHC-EB-2630,64,Male,Ikwo,General Outpatient,0,0,3.6,5,0,1
+PHC-EB-2631,31,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,2.0,8,3,0
+PHC-EB-2632,33,Female,Ikwo,Antenatal Care,0,0,3.1,3,0,0
+PHC-EB-2633,71,Female,Afikpo North,Routine Immunization,1,0,2.6,4,1,0
+PHC-EB-2634,38,Female,Abakaliki,General Outpatient,0,0,6.5,18,1,1
+PHC-EB-2635,25,Female,Ebonyi,Routine Immunization,0,0,4.7,20,1,1
+PHC-EB-2636,33,Female,Ikwo,Routine Immunization,0,0,5.3,17,1,0
+PHC-EB-2637,53,Female,Ikwo,Antenatal Care,1,0,1.6,1,1,1
+PHC-EB-2638,2,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,2.3,14,2,1
+PHC-EB-2639,49,Male,Ikwo,Routine Immunization,0,0,0.6,23,1,1
+PHC-EB-2640,11,Female,Ikwo,Chronic Disease (HTN/DM),0,0,1.0,3,0,1
+PHC-EB-2641,64,Female,Afikpo North,Routine Immunization,1,0,1.9,5,0,0
+PHC-EB-2642,53,Male,Afikpo North,General Outpatient,0,0,0.8,11,1,0
+PHC-EB-2643,4,Female,Ebonyi,General Outpatient,0,0,4.7,6,0,1
+PHC-EB-2644,56,Female,Abakaliki,General Outpatient,0,0,28.8,39,2,1
+PHC-EB-2645,16,Male,Ikwo,Routine Immunization,0,0,1.0,4,2,1
+PHC-EB-2646,46,Male,Abakaliki,Routine Immunization,0,0,8.2,9,1,1
+PHC-EB-2647,22,Male,Ebonyi,General Outpatient,0,0,1.1,12,1,0
+PHC-EB-2648,13,Male,Ebonyi,Routine Immunization,0,0,5.5,5,1,0
+PHC-EB-2649,65,Male,Afikpo North,Routine Immunization,0,0,5.1,15,1,1
+PHC-EB-2650,74,Female,Ikwo,Antenatal Care,1,0,11.0,6,0,1
+PHC-EB-2651,50,Male,Izzi,Chronic Disease (HTN/DM),0,0,1.0,4,0,0
+PHC-EB-2652,37,Female,Ebonyi,Antenatal Care,1,0,2.2,0,1,0
+PHC-EB-2653,63,Male,Ikwo,General Outpatient,1,0,0.9,3,0,0
+PHC-EB-2654,37,Female,Abakaliki,Routine Immunization,0,0,2.9,10,0,0
+PHC-EB-2655,49,Female,Afikpo North,Routine Immunization,0,0,11.4,19,1,0
+PHC-EB-2656,29,Female,Abakaliki,General Outpatient,0,0,7.3,2,1,0
+PHC-EB-2657,50,Male,Ebonyi,Antenatal Care,1,0,6.3,3,0,0
+PHC-EB-2658,62,Female,Ebonyi,Routine Immunization,1,0,3.9,1,2,1
+PHC-EB-2659,51,Male,Abakaliki,General Outpatient,0,0,10.2,9,0,1
+PHC-EB-2660,37,Male,Ebonyi,General Outpatient,1,0,3.2,25,0,1
+PHC-EB-2661,29,Female,Ikwo,Antenatal Care,0,0,1.2,8,1,0
+PHC-EB-2662,50,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,8.7,7,1,0
+PHC-EB-2663,4,Male,Afikpo North,General Outpatient,0,0,2.0,6,0,1
+PHC-EB-2664,28,Male,Ikwo,Chronic Disease (HTN/DM),0,0,0.7,0,0,1
+PHC-EB-2665,3,Female,Izzi,Routine Immunization,0,0,1.1,10,1,1
+PHC-EB-2666,9,Female,Ebonyi,Routine Immunization,0,0,4.7,7,0,0
+PHC-EB-2667,55,Female,Ebonyi,Chronic Disease (HTN/DM),0,1,4.7,8,1,1
+PHC-EB-2668,16,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,1.9,17,1,1
+PHC-EB-2669,73,Male,Afikpo North,Routine Immunization,0,0,6.3,11,0,1
+PHC-EB-2670,16,Female,Abakaliki,Antenatal Care,0,0,7.2,11,2,0
+PHC-EB-2671,68,Male,Abakaliki,Routine Immunization,0,0,11.9,20,1,1
+PHC-EB-2672,33,Female,Abakaliki,Routine Immunization,0,0,4.5,35,1,1
+PHC-EB-2673,5,Female,Afikpo North,Antenatal Care,0,0,7.3,6,1,1
+PHC-EB-2674,52,Male,Abakaliki,Antenatal Care,0,0,6.8,0,0,0
+PHC-EB-2675,65,Male,Abakaliki,Chronic Disease (HTN/DM),1,0,1.8,4,0,0
+PHC-EB-2676,42,Female,Izzi,Antenatal Care,0,0,2.2,12,0,1
+PHC-EB-2677,74,Female,Abakaliki,General Outpatient,0,1,3.4,0,0,0
+PHC-EB-2678,22,Female,Ebonyi,Antenatal Care,0,0,0.6,0,0,1
+PHC-EB-2679,54,Female,Afikpo North,Routine Immunization,0,0,2.1,0,1,0
+PHC-EB-2680,74,Female,Ikwo,Antenatal Care,1,0,3.4,10,1,1
+PHC-EB-2681,15,Female,Izzi,Antenatal Care,0,0,1.0,5,4,1
+PHC-EB-2682,7,Female,Afikpo North,General Outpatient,0,0,1.1,3,2,0
+PHC-EB-2683,3,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,3.3,0,1,0
+PHC-EB-2684,3,Female,Ebonyi,Antenatal Care,0,0,6.4,10,1,0
+PHC-EB-2685,55,Female,Abakaliki,Routine Immunization,0,0,8.6,3,1,1
+PHC-EB-2686,24,Female,Ebonyi,Routine Immunization,0,0,4.1,2,2,0
+PHC-EB-2687,66,Male,Abakaliki,Chronic Disease (HTN/DM),0,1,3.4,8,0,1
+PHC-EB-2688,66,Male,Abakaliki,General Outpatient,0,0,2.7,6,0,0
+PHC-EB-2689,26,Female,Afikpo North,Routine Immunization,0,0,1.5,3,0,1
+PHC-EB-2690,31,Male,Abakaliki,General Outpatient,0,0,1.2,8,0,0
+PHC-EB-2691,49,Female,Izzi,General Outpatient,0,0,7.6,2,0,1
+PHC-EB-2692,60,Female,Izzi,Antenatal Care,1,1,3.3,12,1,0
+PHC-EB-2693,50,Female,Izzi,Routine Immunization,0,0,7.5,2,1,1
+PHC-EB-2694,18,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,6.0,1,0,0
+PHC-EB-2695,20,Male,Ebonyi,General Outpatient,0,0,1.5,11,1,0
+PHC-EB-2696,4,Male,Ikwo,Routine Immunization,0,0,3.7,9,0,0
+PHC-EB-2697,41,Female,Abakaliki,Routine Immunization,0,1,3.1,1,0,0
+PHC-EB-2698,60,Male,Ikwo,Routine Immunization,0,1,3.0,0,0,0
+PHC-EB-2699,21,Female,Ebonyi,Routine Immunization,0,0,4.0,14,0,1
+PHC-EB-2700,20,Female,Ebonyi,General Outpatient,0,0,18.6,11,0,0
+PHC-EB-2701,69,Female,Afikpo North,Routine Immunization,0,0,8.0,3,0,1
+PHC-EB-2702,0,Female,Izzi,General Outpatient,0,0,11.0,8,1,1
+PHC-EB-2703,4,Female,Izzi,Chronic Disease (HTN/DM),0,0,0.6,1,0,1
+PHC-EB-2704,11,Female,Ebonyi,Antenatal Care,0,0,1.2,5,2,1
+PHC-EB-2705,45,Female,Afikpo North,Routine Immunization,0,0,0.9,0,1,0
+PHC-EB-2706,33,Female,Afikpo North,Routine Immunization,0,0,1.9,3,0,1
+PHC-EB-2707,48,Male,Abakaliki,General Outpatient,0,0,3.1,0,2,0
+PHC-EB-2708,44,Female,Izzi,Antenatal Care,0,0,5.1,5,1,1
+PHC-EB-2709,26,Male,Ebonyi,General Outpatient,0,0,3.6,4,0,1
+PHC-EB-2710,72,Female,Ikwo,Chronic Disease (HTN/DM),0,0,11.0,4,0,1
+PHC-EB-2711,25,Male,Izzi,Routine Immunization,0,0,13.1,0,0,1
+PHC-EB-2712,46,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,1.3,3,1,0
+PHC-EB-2713,55,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,9.1,11,1,0
+PHC-EB-2714,62,Female,Ebonyi,Antenatal Care,1,0,3.5,3,0,0
+PHC-EB-2715,47,Male,Izzi,Antenatal Care,0,0,3.2,9,1,0
+PHC-EB-2716,60,Female,Ikwo,Chronic Disease (HTN/DM),1,1,7.4,3,0,0
+PHC-EB-2717,25,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,0.9,4,0,0
+PHC-EB-2718,35,Female,Abakaliki,Antenatal Care,0,0,10.1,6,1,0
+PHC-EB-2719,0,Female,Izzi,Antenatal Care,0,0,5.5,23,0,0
+PHC-EB-2720,7,Female,Ikwo,Antenatal Care,0,0,9.9,0,1,0
+PHC-EB-2721,51,Male,Abakaliki,Chronic Disease (HTN/DM),0,1,23.9,0,0,1
+PHC-EB-2722,46,Male,Ebonyi,Antenatal Care,0,0,3.8,7,1,0
+PHC-EB-2723,55,Female,Abakaliki,Routine Immunization,0,0,0.9,23,0,1
+PHC-EB-2724,13,Male,Ikwo,General Outpatient,0,0,1.3,35,1,1
+PHC-EB-2725,27,Female,Afikpo North,Antenatal Care,0,0,2.3,5,0,1
+PHC-EB-2726,1,Male,Afikpo North,General Outpatient,0,0,1.0,4,0,0
+PHC-EB-2727,25,Female,Izzi,Antenatal Care,0,0,8.1,8,0,0
+PHC-EB-2728,13,Female,Ikwo,Chronic Disease (HTN/DM),0,0,2.1,6,1,0
+PHC-EB-2729,58,Male,Abakaliki,Antenatal Care,0,0,17.3,7,1,1
+PHC-EB-2730,55,Male,Abakaliki,General Outpatient,0,0,6.0,16,0,1
+PHC-EB-2731,6,Male,Afikpo North,General Outpatient,0,0,1.4,10,0,0
+PHC-EB-2732,2,Male,Afikpo North,Antenatal Care,0,0,3.4,5,3,0
+PHC-EB-2733,22,Male,Ebonyi,Antenatal Care,0,0,3.3,4,1,0
+PHC-EB-2734,17,Female,Afikpo North,Routine Immunization,0,0,3.6,7,2,1
+PHC-EB-2735,37,Male,Ebonyi,Antenatal Care,0,0,4.0,4,0,0
+PHC-EB-2736,14,Male,Abakaliki,General Outpatient,0,0,0.6,4,1,0
+PHC-EB-2737,63,Female,Ebonyi,General Outpatient,0,0,5.7,0,0,1
+PHC-EB-2738,27,Male,Ebonyi,Routine Immunization,0,0,3.5,1,2,0
+PHC-EB-2739,73,Female,Izzi,General Outpatient,0,0,7.5,5,0,1
+PHC-EB-2740,38,Male,Afikpo North,General Outpatient,0,0,8.1,13,1,1
+PHC-EB-2741,56,Male,Ebonyi,General Outpatient,1,0,1.7,2,0,0
+PHC-EB-2742,16,Male,Abakaliki,Routine Immunization,0,0,0.7,5,1,0
+PHC-EB-2743,43,Male,Ikwo,Antenatal Care,0,0,6.0,3,1,0
+PHC-EB-2744,24,Male,Ebonyi,Antenatal Care,0,0,17.6,0,2,1
+PHC-EB-2745,16,Female,Afikpo North,Routine Immunization,0,0,3.2,24,2,1
+PHC-EB-2746,12,Male,Izzi,Routine Immunization,0,0,1.9,15,1,1
+PHC-EB-2747,24,Female,Abakaliki,Routine Immunization,0,0,1.3,0,1,0
+PHC-EB-2748,67,Female,Izzi,Antenatal Care,0,0,2.0,9,2,0
+PHC-EB-2749,9,Female,Ikwo,General Outpatient,0,0,2.3,3,0,1
+PHC-EB-2750,66,Female,Ebonyi,Antenatal Care,1,0,3.0,41,0,1
+PHC-EB-2751,17,Female,Ebonyi,Antenatal Care,0,0,5.3,2,1,1
+PHC-EB-2752,33,Male,Afikpo North,Routine Immunization,0,0,1.9,2,1,1
+PHC-EB-2753,7,Female,Ebonyi,Antenatal Care,0,0,0.7,6,0,0
+PHC-EB-2754,39,Female,Abakaliki,Routine Immunization,0,0,2.6,14,0,0
+PHC-EB-2755,41,Female,Ikwo,Routine Immunization,1,0,9.2,1,1,0
+PHC-EB-2756,40,Female,Izzi,Routine Immunization,0,0,3.6,9,2,1
+PHC-EB-2757,5,Male,Ikwo,Routine Immunization,0,0,15.6,0,0,1
+PHC-EB-2758,51,Female,Ebonyi,Antenatal Care,1,0,3.7,19,2,1
+PHC-EB-2759,25,Female,Izzi,Antenatal Care,0,0,2.0,0,1,0
+PHC-EB-2760,63,Female,Afikpo North,Chronic Disease (HTN/DM),0,1,1.5,19,0,1
+PHC-EB-2761,58,Female,Ikwo,Routine Immunization,1,0,5.8,5,0,0
+PHC-EB-2762,55,Female,Izzi,Routine Immunization,1,0,4.0,4,1,1
+PHC-EB-2763,58,Female,Izzi,Antenatal Care,0,0,4.7,28,0,0
+PHC-EB-2764,69,Male,Izzi,Routine Immunization,1,0,6.8,36,0,0
+PHC-EB-2765,32,Male,Abakaliki,Routine Immunization,0,0,6.3,8,0,0
+PHC-EB-2766,52,Female,Ikwo,Routine Immunization,0,0,0.7,1,0,0
+PHC-EB-2767,21,Male,Izzi,General Outpatient,0,0,7.8,5,0,0
+PHC-EB-2768,20,Female,Ikwo,Antenatal Care,0,0,3.9,5,0,0
+PHC-EB-2769,69,Female,Izzi,Antenatal Care,0,0,2.7,5,1,0
+PHC-EB-2770,69,Male,Afikpo North,General Outpatient,0,0,4.0,6,0,0
+PHC-EB-2771,3,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,4.8,0,0,0
+PHC-EB-2772,74,Male,Afikpo North,Antenatal Care,0,0,1.2,9,1,1
+PHC-EB-2773,61,Female,Ebonyi,Routine Immunization,0,0,2.9,9,0,1
+PHC-EB-2774,61,Female,Izzi,Antenatal Care,1,0,2.3,0,2,1
+PHC-EB-2775,23,Female,Ebonyi,Antenatal Care,0,0,2.4,6,0,1
+PHC-EB-2776,54,Male,Ikwo,Routine Immunization,0,0,0.9,6,0,0
+PHC-EB-2777,8,Female,Ebonyi,Antenatal Care,0,0,1.3,8,1,0
+PHC-EB-2778,2,Male,Ikwo,General Outpatient,0,0,1.3,0,1,0
+PHC-EB-2779,30,Female,Ikwo,Routine Immunization,0,0,2.6,7,0,0
+PHC-EB-2780,39,Female,Ikwo,Antenatal Care,0,0,10.6,2,1,1
+PHC-EB-2781,35,Female,Ebonyi,Antenatal Care,0,0,1.5,5,0,1
+PHC-EB-2782,23,Female,Izzi,General Outpatient,0,0,2.9,11,0,1
+PHC-EB-2783,5,Male,Ebonyi,Antenatal Care,0,0,2.2,9,0,0
+PHC-EB-2784,65,Female,Izzi,General Outpatient,0,0,7.5,0,1,0
+PHC-EB-2785,74,Male,Izzi,Routine Immunization,1,0,0.7,6,1,0
+PHC-EB-2786,3,Male,Ikwo,Routine Immunization,0,0,1.5,27,0,1
+PHC-EB-2787,5,Female,Ebonyi,Antenatal Care,0,0,1.6,1,4,1
+PHC-EB-2788,50,Male,Izzi,Antenatal Care,1,0,22.8,14,2,1
+PHC-EB-2789,61,Female,Afikpo North,Antenatal Care,0,1,4.3,9,0,0
+PHC-EB-2790,56,Female,Izzi,Antenatal Care,0,0,1.2,11,1,1
+PHC-EB-2791,65,Female,Afikpo North,Routine Immunization,0,0,1.9,2,0,0
+PHC-EB-2792,74,Female,Ebonyi,General Outpatient,0,0,1.3,2,0,0
+PHC-EB-2793,7,Female,Ebonyi,Antenatal Care,0,0,1.1,18,1,1
+PHC-EB-2794,25,Female,Ebonyi,Antenatal Care,0,0,7.7,3,0,1
+PHC-EB-2795,50,Female,Izzi,Routine Immunization,0,0,3.6,0,2,1
+PHC-EB-2796,44,Female,Abakaliki,General Outpatient,0,0,5.0,7,0,0
+PHC-EB-2797,43,Male,Izzi,Chronic Disease (HTN/DM),0,0,2.3,1,1,0
+PHC-EB-2798,4,Male,Izzi,Routine Immunization,0,0,4.1,12,0,0
+PHC-EB-2799,69,Female,Ikwo,Routine Immunization,1,0,1.8,8,0,0
+PHC-EB-2800,25,Female,Ikwo,Routine Immunization,0,0,2.2,16,1,1
+PHC-EB-2801,67,Male,Izzi,Chronic Disease (HTN/DM),0,1,5.3,12,0,0
+PHC-EB-2802,18,Female,Afikpo North,General Outpatient,0,0,1.2,0,0,1
+PHC-EB-2803,19,Male,Ikwo,Routine Immunization,0,0,4.8,3,0,0
+PHC-EB-2804,11,Female,Izzi,Antenatal Care,0,0,9.1,11,2,1
+PHC-EB-2805,46,Female,Abakaliki,Antenatal Care,0,1,1.1,4,0,0
+PHC-EB-2806,0,Female,Afikpo North,Routine Immunization,0,0,10.7,28,0,1
+PHC-EB-2807,13,Female,Ebonyi,General Outpatient,0,0,0.9,10,1,0
+PHC-EB-2808,63,Female,Izzi,Routine Immunization,1,0,2.4,0,0,1
+PHC-EB-2809,37,Female,Izzi,Antenatal Care,0,0,4.7,16,1,1
+PHC-EB-2810,36,Male,Afikpo North,General Outpatient,0,0,4.2,0,0,0
+PHC-EB-2811,10,Male,Ikwo,General Outpatient,0,0,1.0,1,0,0
+PHC-EB-2812,2,Female,Ikwo,Antenatal Care,0,0,7.7,10,0,1
+PHC-EB-2813,32,Male,Ikwo,General Outpatient,0,0,16.8,15,0,1
+PHC-EB-2814,5,Female,Ebonyi,Routine Immunization,0,0,1.4,6,1,0
+PHC-EB-2815,49,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,10.6,2,0,1
+PHC-EB-2816,9,Male,Afikpo North,General Outpatient,0,0,4.2,3,2,1
+PHC-EB-2817,4,Female,Ikwo,Routine Immunization,0,0,12.9,3,1,0
+PHC-EB-2818,22,Female,Ikwo,General Outpatient,0,0,1.4,3,2,1
+PHC-EB-2819,9,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,7.6,2,0,0
+PHC-EB-2820,43,Female,Abakaliki,Routine Immunization,0,0,0.8,7,0,0
+PHC-EB-2821,1,Male,Izzi,Antenatal Care,0,0,10.2,18,1,1
+PHC-EB-2822,12,Male,Izzi,General Outpatient,0,0,5.5,2,1,1
+PHC-EB-2823,39,Male,Afikpo North,Antenatal Care,0,0,2.6,1,1,0
+PHC-EB-2824,1,Male,Afikpo North,Routine Immunization,0,0,1.5,14,0,0
+PHC-EB-2825,64,Female,Ebonyi,Chronic Disease (HTN/DM),0,1,8.1,10,0,0
+PHC-EB-2826,62,Female,Ebonyi,General Outpatient,0,0,4.7,20,0,1
+PHC-EB-2827,72,Female,Abakaliki,Routine Immunization,0,0,2.5,1,1,1
+PHC-EB-2828,16,Female,Izzi,Antenatal Care,0,0,3.1,1,1,1
+PHC-EB-2829,8,Female,Abakaliki,Routine Immunization,0,0,8.4,6,2,1
+PHC-EB-2830,74,Male,Abakaliki,Antenatal Care,0,1,2.4,7,0,0
+PHC-EB-2831,14,Female,Izzi,Antenatal Care,0,0,0.9,5,0,0
+PHC-EB-2832,23,Female,Ebonyi,General Outpatient,0,0,11.4,7,1,1
+PHC-EB-2833,37,Female,Izzi,Antenatal Care,0,0,2.7,1,0,0
+PHC-EB-2834,34,Male,Ikwo,Routine Immunization,0,0,2.4,5,0,0
+PHC-EB-2835,48,Male,Ikwo,Routine Immunization,0,0,1.5,8,1,1
+PHC-EB-2836,68,Female,Ikwo,Chronic Disease (HTN/DM),0,0,10.7,4,0,0
+PHC-EB-2837,61,Female,Afikpo North,Routine Immunization,0,0,1.6,8,0,0
+PHC-EB-2838,59,Male,Ebonyi,Antenatal Care,0,1,5.1,4,0,0
+PHC-EB-2839,49,Female,Ebonyi,Antenatal Care,0,0,10.1,3,0,0
+PHC-EB-2840,74,Female,Afikpo North,Routine Immunization,0,0,0.7,2,0,1
+PHC-EB-2841,8,Male,Abakaliki,Routine Immunization,0,0,8.4,4,3,1
+PHC-EB-2842,33,Male,Ikwo,Routine Immunization,0,0,2.9,0,1,0
+PHC-EB-2843,34,Female,Ikwo,Routine Immunization,0,0,5.3,8,0,1
+PHC-EB-2844,0,Male,Abakaliki,Antenatal Care,0,0,2.6,14,2,0
+PHC-EB-2845,39,Male,Izzi,Routine Immunization,1,0,5.9,3,3,0
+PHC-EB-2846,63,Female,Izzi,Routine Immunization,0,0,1.8,0,1,1
+PHC-EB-2847,21,Male,Ebonyi,Antenatal Care,0,0,0.6,33,0,1
+PHC-EB-2848,59,Male,Afikpo North,Antenatal Care,0,0,13.8,2,1,1
+PHC-EB-2849,63,Male,Ebonyi,Antenatal Care,0,0,0.6,1,0,0
+PHC-EB-2850,71,Male,Izzi,Antenatal Care,0,1,8.3,3,0,0
+PHC-EB-2851,10,Female,Abakaliki,General Outpatient,0,0,1.3,10,0,1
+PHC-EB-2852,13,Female,Ebonyi,Antenatal Care,0,0,2.7,2,2,0
+PHC-EB-2853,59,Female,Ikwo,Antenatal Care,1,0,8.3,6,2,1
+PHC-EB-2854,29,Female,Ikwo,Antenatal Care,0,0,1.5,4,1,1
+PHC-EB-2855,34,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,9.5,0,0,0
+PHC-EB-2856,36,Male,Izzi,Chronic Disease (HTN/DM),0,0,3.6,3,0,1
+PHC-EB-2857,4,Male,Ikwo,Antenatal Care,0,0,2.6,10,1,0
+PHC-EB-2858,25,Male,Ikwo,Routine Immunization,0,0,5.4,7,1,1
+PHC-EB-2859,61,Male,Afikpo North,Antenatal Care,1,0,2.4,0,0,0
+PHC-EB-2860,3,Male,Ebonyi,Routine Immunization,0,0,2.4,1,0,0
+PHC-EB-2861,41,Female,Izzi,Antenatal Care,0,0,6.5,8,1,1
+PHC-EB-2862,17,Female,Ebonyi,General Outpatient,0,0,2.2,13,1,0
+PHC-EB-2863,39,Female,Izzi,Routine Immunization,0,0,1.5,3,1,0
+PHC-EB-2864,71,Male,Ikwo,Chronic Disease (HTN/DM),0,0,7.9,7,3,1
+PHC-EB-2865,38,Female,Afikpo North,Antenatal Care,0,1,7.9,1,1,1
+PHC-EB-2866,13,Male,Ebonyi,General Outpatient,0,0,3.6,2,2,1
+PHC-EB-2867,31,Female,Ikwo,General Outpatient,0,0,3.9,0,0,1
+PHC-EB-2868,50,Male,Izzi,Antenatal Care,0,1,5.9,11,0,0
+PHC-EB-2869,37,Male,Ebonyi,Routine Immunization,0,0,3.7,4,1,1
+PHC-EB-2870,22,Male,Ebonyi,Antenatal Care,0,0,2.9,13,0,0
+PHC-EB-2871,62,Male,Ikwo,Antenatal Care,0,0,24.2,9,1,1
+PHC-EB-2872,14,Male,Ebonyi,Antenatal Care,0,0,1.2,13,0,0
+PHC-EB-2873,24,Male,Afikpo North,Routine Immunization,0,0,4.5,2,0,1
+PHC-EB-2874,16,Male,Afikpo North,Routine Immunization,0,0,10.3,1,0,1
+PHC-EB-2875,65,Male,Ikwo,Chronic Disease (HTN/DM),1,0,5.7,27,0,1
+PHC-EB-2876,52,Male,Izzi,Antenatal Care,0,0,10.1,9,0,1
+PHC-EB-2877,50,Female,Ikwo,Chronic Disease (HTN/DM),0,0,2.3,14,1,1
+PHC-EB-2878,38,Female,Afikpo North,Antenatal Care,0,0,1.9,0,1,1
+PHC-EB-2879,50,Female,Abakaliki,General Outpatient,1,0,9.1,3,1,0
+PHC-EB-2880,69,Female,Abakaliki,Routine Immunization,0,0,2.8,10,0,1
+PHC-EB-2881,5,Female,Ebonyi,Antenatal Care,0,0,6.1,0,0,0
+PHC-EB-2882,66,Male,Ebonyi,Chronic Disease (HTN/DM),0,1,1.2,6,1,1
+PHC-EB-2883,6,Male,Abakaliki,Antenatal Care,0,0,6.8,4,0,0
+PHC-EB-2884,50,Male,Afikpo North,General Outpatient,1,0,4.1,0,1,0
+PHC-EB-2885,71,Female,Ebonyi,Routine Immunization,0,0,1.9,2,1,0
+PHC-EB-2886,41,Female,Ikwo,Routine Immunization,1,0,3.6,2,1,1
+PHC-EB-2887,63,Female,Ikwo,Routine Immunization,1,0,5.9,0,1,0
+PHC-EB-2888,14,Female,Afikpo North,General Outpatient,0,0,0.6,7,0,0
+PHC-EB-2889,28,Female,Ebonyi,Antenatal Care,0,0,5.1,2,1,0
+PHC-EB-2890,32,Female,Ikwo,General Outpatient,0,0,4.0,2,0,1
+PHC-EB-2891,26,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,1.6,17,0,0
+PHC-EB-2892,35,Male,Ebonyi,Antenatal Care,0,0,6.8,4,1,0
+PHC-EB-2893,28,Female,Ikwo,Antenatal Care,0,0,2.1,3,3,1
+PHC-EB-2894,37,Female,Abakaliki,General Outpatient,0,0,2.0,10,1,1
+PHC-EB-2895,56,Female,Ikwo,Routine Immunization,0,0,3.4,18,2,0
+PHC-EB-2896,26,Female,Afikpo North,Routine Immunization,0,0,5.6,0,1,0
+PHC-EB-2897,54,Male,Izzi,Antenatal Care,0,0,12.4,4,1,1
+PHC-EB-2898,32,Female,Ikwo,Routine Immunization,0,0,1.2,7,4,1
+PHC-EB-2899,67,Female,Ebonyi,Antenatal Care,0,0,2.8,3,1,1
+PHC-EB-2900,65,Female,Ebonyi,Routine Immunization,0,0,0.8,11,2,1
+PHC-EB-2901,9,Female,Ikwo,General Outpatient,0,0,6.9,27,0,1
+PHC-EB-2902,4,Male,Izzi,Antenatal Care,0,0,3.2,22,0,0
+PHC-EB-2903,73,Male,Ikwo,Routine Immunization,0,1,6.0,2,1,0
+PHC-EB-2904,37,Male,Izzi,Chronic Disease (HTN/DM),1,0,2.3,2,1,0
+PHC-EB-2905,12,Female,Izzi,General Outpatient,0,0,8.9,24,0,1
+PHC-EB-2906,30,Female,Afikpo North,General Outpatient,0,0,3.9,4,0,1
+PHC-EB-2907,46,Female,Ebonyi,Routine Immunization,1,0,13.4,1,1,1
+PHC-EB-2908,51,Male,Ebonyi,General Outpatient,0,0,0.9,9,1,1
+PHC-EB-2909,55,Female,Izzi,Antenatal Care,0,0,3.7,2,0,1
+PHC-EB-2910,14,Female,Ebonyi,Antenatal Care,0,0,7.0,2,1,1
+PHC-EB-2911,28,Female,Abakaliki,Antenatal Care,0,0,4.6,16,2,0
+PHC-EB-2912,7,Male,Izzi,Routine Immunization,0,0,0.6,1,0,0
+PHC-EB-2913,4,Female,Ebonyi,General Outpatient,0,0,16.6,0,0,1
+PHC-EB-2914,28,Female,Abakaliki,Routine Immunization,0,0,2.1,2,0,0
+PHC-EB-2915,46,Female,Afikpo North,General Outpatient,0,0,1.8,7,1,1
+PHC-EB-2916,67,Male,Ebonyi,General Outpatient,0,0,3.5,1,0,0
+PHC-EB-2917,44,Female,Abakaliki,Routine Immunization,0,0,4.0,4,0,0
+PHC-EB-2918,1,Male,Ikwo,Routine Immunization,0,0,7.0,7,0,0
+PHC-EB-2919,26,Female,Ikwo,Routine Immunization,0,0,2.7,14,0,0
+PHC-EB-2920,35,Male,Abakaliki,Routine Immunization,0,0,3.1,2,1,1
+PHC-EB-2921,35,Male,Izzi,Antenatal Care,1,0,3.9,13,0,1
+PHC-EB-2922,25,Female,Izzi,Chronic Disease (HTN/DM),0,0,2.8,2,0,0
+PHC-EB-2923,42,Male,Ebonyi,Antenatal Care,0,0,11.6,8,1,1
+PHC-EB-2924,26,Female,Ikwo,Antenatal Care,0,0,9.1,4,1,1
+PHC-EB-2925,68,Male,Izzi,Chronic Disease (HTN/DM),1,0,3.2,0,2,1
+PHC-EB-2926,19,Male,Izzi,Antenatal Care,0,0,0.5,9,2,1
+PHC-EB-2927,10,Female,Ikwo,General Outpatient,0,0,10.9,1,0,1
+PHC-EB-2928,73,Male,Afikpo North,Routine Immunization,1,0,1.1,1,1,0
+PHC-EB-2929,37,Male,Izzi,Routine Immunization,0,0,1.8,3,2,1
+PHC-EB-2930,5,Female,Abakaliki,Antenatal Care,0,0,1.2,8,1,0
+PHC-EB-2931,71,Female,Ebonyi,Routine Immunization,0,0,1.4,2,0,0
+PHC-EB-2932,22,Male,Izzi,Routine Immunization,0,0,7.8,1,1,1
+PHC-EB-2933,46,Male,Izzi,General Outpatient,1,0,4.4,0,0,1
+PHC-EB-2934,45,Female,Afikpo North,Routine Immunization,1,0,14.6,4,1,0
+PHC-EB-2935,11,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,1.7,4,0,1
+PHC-EB-2936,12,Female,Ebonyi,Antenatal Care,0,0,3.5,2,0,1
+PHC-EB-2937,61,Female,Izzi,Routine Immunization,0,0,17.6,0,2,1
+PHC-EB-2938,59,Female,Ebonyi,Routine Immunization,1,0,8.4,4,0,0
+PHC-EB-2939,42,Male,Ikwo,Chronic Disease (HTN/DM),0,0,6.4,12,0,0
+PHC-EB-2940,67,Female,Izzi,Antenatal Care,0,0,1.4,9,0,0
+PHC-EB-2941,4,Male,Izzi,Routine Immunization,0,0,7.1,15,0,1
+PHC-EB-2942,36,Female,Ikwo,Chronic Disease (HTN/DM),0,0,2.4,0,0,0
+PHC-EB-2943,71,Female,Afikpo North,Antenatal Care,1,0,3.9,26,0,1
+PHC-EB-2944,30,Female,Izzi,Chronic Disease (HTN/DM),0,0,4.7,3,0,0
+PHC-EB-2945,8,Female,Ebonyi,Antenatal Care,0,0,4.7,36,0,1
+PHC-EB-2946,50,Male,Abakaliki,General Outpatient,0,0,6.3,2,3,0
+PHC-EB-2947,28,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,5.4,4,0,1
+PHC-EB-2948,39,Male,Afikpo North,General Outpatient,1,1,0.8,3,1,1
+PHC-EB-2949,40,Male,Abakaliki,Routine Immunization,0,0,3.3,3,1,1
+PHC-EB-2950,10,Male,Ebonyi,Antenatal Care,0,0,5.4,14,2,1
+PHC-EB-2951,22,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,2.1,10,1,0
+PHC-EB-2952,0,Male,Ikwo,Routine Immunization,0,0,2.2,37,1,1
+PHC-EB-2953,45,Male,Afikpo North,Antenatal Care,1,0,1.1,7,1,1
+PHC-EB-2954,20,Female,Ikwo,General Outpatient,0,0,2.9,4,0,0
+PHC-EB-2955,35,Male,Abakaliki,Routine Immunization,0,0,20.0,0,1,1
+PHC-EB-2956,53,Female,Ikwo,Antenatal Care,0,0,2.0,44,1,1
+PHC-EB-2957,56,Female,Afikpo North,Antenatal Care,0,0,3.9,6,2,0
+PHC-EB-2958,0,Male,Izzi,Antenatal Care,0,0,6.6,9,0,1
+PHC-EB-2959,62,Female,Izzi,Routine Immunization,1,0,0.6,4,0,0
+PHC-EB-2960,53,Female,Abakaliki,General Outpatient,1,0,10.9,6,1,1
+PHC-EB-2961,54,Male,Izzi,Routine Immunization,1,0,2.7,22,0,1
+PHC-EB-2962,39,Female,Ikwo,General Outpatient,0,0,9.7,1,1,0
+PHC-EB-2963,14,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,0.7,2,0,0
+PHC-EB-2964,20,Male,Afikpo North,General Outpatient,0,0,1.2,1,0,1
+PHC-EB-2965,46,Female,Abakaliki,Antenatal Care,1,0,2.3,12,0,0
+PHC-EB-2966,72,Female,Abakaliki,General Outpatient,0,0,2.4,0,1,0
+PHC-EB-2967,52,Male,Ebonyi,Routine Immunization,0,0,9.0,0,1,0
+PHC-EB-2968,8,Male,Ebonyi,Routine Immunization,0,0,0.6,2,0,0
+PHC-EB-2969,73,Female,Abakaliki,General Outpatient,0,0,5.1,5,1,0
+PHC-EB-2970,51,Male,Izzi,Routine Immunization,0,0,1.1,4,1,0
+PHC-EB-2971,56,Male,Ebonyi,Chronic Disease (HTN/DM),1,0,8.3,0,0,1
+PHC-EB-2972,25,Female,Afikpo North,Antenatal Care,0,0,7.3,24,1,0
+PHC-EB-2973,40,Female,Ikwo,General Outpatient,0,0,3.6,23,0,0
+PHC-EB-2974,34,Female,Ebonyi,Antenatal Care,0,0,1.6,2,0,0
+PHC-EB-2975,62,Male,Abakaliki,Chronic Disease (HTN/DM),1,0,5.0,10,1,1
+PHC-EB-2976,24,Female,Izzi,Antenatal Care,0,0,1.3,6,1,0
+PHC-EB-2977,74,Female,Ikwo,Antenatal Care,1,0,1.4,2,0,0
+PHC-EB-2978,37,Male,Ebonyi,Routine Immunization,0,1,4.9,2,0,1
+PHC-EB-2979,1,Male,Izzi,Routine Immunization,0,0,21.8,5,2,1
+PHC-EB-2980,6,Female,Izzi,Antenatal Care,0,0,10.5,4,1,1
+PHC-EB-2981,33,Female,Izzi,Routine Immunization,0,0,4.5,2,3,1
+PHC-EB-2982,16,Female,Abakaliki,Routine Immunization,0,0,4.0,12,1,1
+PHC-EB-2983,42,Female,Afikpo North,Antenatal Care,0,0,29.4,5,1,1
+PHC-EB-2984,58,Male,Izzi,Antenatal Care,0,0,4.1,8,1,0
+PHC-EB-2985,50,Male,Ikwo,General Outpatient,0,0,3.0,1,0,0
+PHC-EB-2986,53,Female,Ebonyi,General Outpatient,0,1,11.3,5,0,0
+PHC-EB-2987,23,Female,Ikwo,General Outpatient,0,0,1.7,2,0,0
+PHC-EB-2988,24,Male,Abakaliki,General Outpatient,0,0,1.0,5,0,1
+PHC-EB-2989,70,Female,Abakaliki,Antenatal Care,0,1,5.0,11,1,0
+PHC-EB-2990,51,Female,Ikwo,Antenatal Care,0,1,1.0,11,1,0
+PHC-EB-2991,69,Female,Afikpo North,Antenatal Care,0,0,2.6,3,0,0
+PHC-EB-2992,32,Female,Abakaliki,General Outpatient,0,0,3.0,9,0,0
+PHC-EB-2993,48,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,4.1,22,0,0
+PHC-EB-2994,28,Female,Ikwo,Routine Immunization,0,0,22.0,7,1,1
+PHC-EB-2995,62,Female,Abakaliki,Antenatal Care,0,0,1.6,1,0,0
+PHC-EB-2996,21,Female,Afikpo North,Antenatal Care,0,0,2.6,8,0,0
+PHC-EB-2997,25,Male,Afikpo North,Routine Immunization,0,0,1.1,0,1,0
+PHC-EB-2998,27,Female,Afikpo North,Routine Immunization,0,0,4.7,16,0,0
+PHC-EB-2999,48,Female,Ebonyi,Antenatal Care,0,0,6.4,5,1,0
+PHC-EB-3000,70,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,3.5,3,2,1
+PHC-EB-3001,48,Female,Afikpo North,Routine Immunization,0,0,1.8,0,0,0
+PHC-EB-3002,19,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,4.9,3,1,1
+PHC-EB-3003,62,Male,Izzi,General Outpatient,0,0,4.0,18,2,1
+PHC-EB-3004,60,Female,Abakaliki,General Outpatient,0,0,1.3,0,1,0
+PHC-EB-3005,48,Female,Afikpo North,General Outpatient,0,0,2.8,5,0,0
+PHC-EB-3006,70,Male,Abakaliki,General Outpatient,1,0,3.1,20,1,1
+PHC-EB-3007,0,Female,Ikwo,General Outpatient,0,0,18.7,3,1,1
+PHC-EB-3008,12,Female,Abakaliki,General Outpatient,0,0,9.0,4,1,1
+PHC-EB-3009,50,Female,Ebonyi,Routine Immunization,0,0,6.5,6,1,0
+PHC-EB-3010,55,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,10.4,4,2,1
+PHC-EB-3011,61,Female,Abakaliki,General Outpatient,1,0,6.5,1,5,1
+PHC-EB-3012,31,Male,Abakaliki,General Outpatient,0,0,11.0,0,0,0
+PHC-EB-3013,29,Male,Izzi,Chronic Disease (HTN/DM),0,0,0.8,7,0,0
+PHC-EB-3014,28,Female,Izzi,Antenatal Care,0,0,3.2,19,1,0
+PHC-EB-3015,48,Male,Ikwo,Antenatal Care,1,0,6.7,0,1,1
+PHC-EB-3016,44,Female,Ebonyi,Routine Immunization,1,0,4.4,1,0,0
+PHC-EB-3017,29,Female,Abakaliki,Routine Immunization,0,0,1.4,3,2,0
+PHC-EB-3018,15,Male,Abakaliki,General Outpatient,0,0,2.4,12,2,0
+PHC-EB-3019,39,Male,Abakaliki,Routine Immunization,0,0,2.2,2,0,0
+PHC-EB-3020,18,Female,Abakaliki,Routine Immunization,0,0,1.9,16,0,0
+PHC-EB-3021,17,Female,Izzi,Routine Immunization,0,0,2.4,0,0,1
+PHC-EB-3022,0,Female,Ikwo,Antenatal Care,0,0,3.8,22,0,1
+PHC-EB-3023,46,Male,Afikpo North,General Outpatient,0,1,9.2,6,0,0
+PHC-EB-3024,65,Female,Ebonyi,General Outpatient,1,0,6.6,8,0,0
+PHC-EB-3025,37,Female,Abakaliki,Antenatal Care,0,0,8.6,3,1,0
+PHC-EB-3026,50,Female,Ikwo,Routine Immunization,1,0,10.2,11,1,0
+PHC-EB-3027,62,Female,Afikpo North,Routine Immunization,0,1,2.9,1,2,1
+PHC-EB-3028,3,Male,Ikwo,Antenatal Care,0,0,2.4,0,3,0
+PHC-EB-3029,0,Female,Izzi,Antenatal Care,0,0,0.8,3,0,0
+PHC-EB-3030,7,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,12.5,15,0,1
+PHC-EB-3031,28,Female,Ikwo,Routine Immunization,0,0,0.8,11,0,0
+PHC-EB-3032,54,Male,Izzi,Antenatal Care,0,0,6.6,5,0,1
+PHC-EB-3033,2,Female,Ikwo,Antenatal Care,0,0,2.6,6,0,0
+PHC-EB-3034,31,Female,Ikwo,General Outpatient,0,0,13.9,1,1,0
+PHC-EB-3035,9,Female,Afikpo North,General Outpatient,0,0,2.9,14,2,1
+PHC-EB-3036,73,Female,Izzi,General Outpatient,0,1,8.1,12,0,0
+PHC-EB-3037,33,Female,Abakaliki,Antenatal Care,0,0,2.0,8,0,1
+PHC-EB-3038,54,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,2.1,4,2,0
+PHC-EB-3039,31,Male,Afikpo North,Routine Immunization,0,0,4.6,26,2,1
+PHC-EB-3040,49,Female,Izzi,Antenatal Care,0,0,28.4,16,1,1
+PHC-EB-3041,6,Female,Ikwo,Routine Immunization,0,0,3.8,8,0,0
+PHC-EB-3042,7,Female,Izzi,Routine Immunization,0,0,12.9,3,1,1
+PHC-EB-3043,64,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,7.4,7,0,1
+PHC-EB-3044,56,Male,Ebonyi,Chronic Disease (HTN/DM),1,0,7.7,6,0,1
+PHC-EB-3045,66,Male,Abakaliki,Antenatal Care,1,0,3.1,3,2,1
+PHC-EB-3046,58,Female,Abakaliki,Chronic Disease (HTN/DM),1,1,2.7,2,0,0
+PHC-EB-3047,71,Female,Ebonyi,General Outpatient,0,0,1.5,4,0,0
+PHC-EB-3048,53,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,15.5,6,1,1
+PHC-EB-3049,66,Male,Afikpo North,Antenatal Care,0,0,14.9,4,3,1
+PHC-EB-3050,50,Female,Ikwo,Routine Immunization,1,0,6.7,2,0,1
+PHC-EB-3051,7,Male,Abakaliki,Antenatal Care,0,0,2.1,11,0,1
+PHC-EB-3052,33,Male,Ikwo,General Outpatient,0,0,1.8,5,1,0
+PHC-EB-3053,34,Female,Abakaliki,Antenatal Care,0,0,20.6,0,1,1
+PHC-EB-3054,31,Male,Ebonyi,Routine Immunization,0,0,0.8,3,1,0
+PHC-EB-3055,45,Female,Afikpo North,Routine Immunization,1,0,8.8,16,0,0
+PHC-EB-3056,15,Male,Afikpo North,Routine Immunization,0,0,2.5,11,1,0
+PHC-EB-3057,67,Female,Ebonyi,General Outpatient,0,1,2.9,3,2,1
+PHC-EB-3058,36,Female,Ikwo,Chronic Disease (HTN/DM),1,0,8.5,21,0,1
+PHC-EB-3059,53,Male,Ikwo,General Outpatient,0,0,0.9,0,0,0
+PHC-EB-3060,13,Male,Izzi,Chronic Disease (HTN/DM),0,0,2.5,25,0,1
+PHC-EB-3061,54,Male,Abakaliki,Antenatal Care,1,0,14.2,2,0,1
+PHC-EB-3062,47,Female,Ikwo,Routine Immunization,1,0,5.9,0,2,1
+PHC-EB-3063,6,Male,Ebonyi,Routine Immunization,0,0,6.8,4,2,1
+PHC-EB-3064,73,Female,Ikwo,Antenatal Care,0,0,6.9,3,0,1
+PHC-EB-3065,6,Male,Afikpo North,Routine Immunization,0,0,0.8,6,0,0
+PHC-EB-3066,32,Female,Abakaliki,General Outpatient,0,0,1.5,12,1,1
+PHC-EB-3067,22,Male,Izzi,Routine Immunization,0,0,3.5,14,1,1
+PHC-EB-3068,18,Male,Abakaliki,General Outpatient,0,0,2.6,4,1,1
+PHC-EB-3069,18,Male,Afikpo North,Routine Immunization,0,0,2.9,4,2,1
+PHC-EB-3070,35,Female,Afikpo North,Antenatal Care,1,0,7.3,1,3,1
+PHC-EB-3071,28,Female,Afikpo North,Antenatal Care,0,0,0.6,0,0,0
+PHC-EB-3072,59,Male,Afikpo North,Routine Immunization,0,0,5.4,8,2,0
+PHC-EB-3073,1,Female,Ebonyi,Antenatal Care,0,0,0.5,0,1,0
+PHC-EB-3074,0,Male,Izzi,Antenatal Care,0,0,0.8,10,1,1
+PHC-EB-3075,46,Female,Afikpo North,Routine Immunization,0,0,2.9,6,0,1
+PHC-EB-3076,68,Female,Afikpo North,Routine Immunization,1,0,8.8,1,0,1
+PHC-EB-3077,19,Male,Ikwo,Routine Immunization,0,0,1.2,6,0,0
+PHC-EB-3078,10,Female,Izzi,General Outpatient,0,0,4.1,1,0,0
+PHC-EB-3079,1,Female,Abakaliki,General Outpatient,0,0,5.6,4,1,0
+PHC-EB-3080,66,Female,Izzi,Routine Immunization,0,0,1.7,12,0,0
+PHC-EB-3081,11,Female,Izzi,General Outpatient,0,0,3.7,4,1,0
+PHC-EB-3082,19,Male,Izzi,General Outpatient,0,0,11.4,1,0,0
+PHC-EB-3083,4,Female,Afikpo North,General Outpatient,0,0,3.7,10,2,1
+PHC-EB-3084,36,Male,Afikpo North,Routine Immunization,0,0,1.3,1,0,0
+PHC-EB-3085,37,Male,Ebonyi,Antenatal Care,0,0,4.9,10,2,0
+PHC-EB-3086,8,Female,Abakaliki,General Outpatient,0,0,4.5,5,2,1
+PHC-EB-3087,52,Male,Ikwo,Routine Immunization,0,0,0.6,4,0,0
+PHC-EB-3088,43,Female,Izzi,Chronic Disease (HTN/DM),0,0,0.9,14,1,0
+PHC-EB-3089,23,Female,Abakaliki,General Outpatient,0,0,1.3,9,0,1
+PHC-EB-3090,73,Male,Abakaliki,Routine Immunization,1,0,1.2,0,0,0
+PHC-EB-3091,29,Female,Ebonyi,Antenatal Care,0,0,1.9,2,0,1
+PHC-EB-3092,58,Female,Ikwo,Antenatal Care,0,0,3.2,16,0,0
+PHC-EB-3093,13,Female,Izzi,Routine Immunization,0,0,2.6,0,1,0
+PHC-EB-3094,8,Female,Ikwo,Routine Immunization,0,0,10.5,6,1,1
+PHC-EB-3095,39,Female,Ebonyi,Antenatal Care,1,0,4.8,10,0,1
+PHC-EB-3096,65,Male,Afikpo North,Routine Immunization,0,0,9.9,7,0,0
+PHC-EB-3097,24,Male,Abakaliki,Antenatal Care,0,0,3.9,11,0,0
+PHC-EB-3098,72,Female,Izzi,Chronic Disease (HTN/DM),0,0,0.9,10,0,1
+PHC-EB-3099,21,Female,Afikpo North,Antenatal Care,0,0,3.3,9,1,1
+PHC-EB-3100,3,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,8.3,13,0,1
+PHC-EB-3101,25,Female,Ikwo,Chronic Disease (HTN/DM),0,0,1.5,8,0,0
+PHC-EB-3102,57,Female,Abakaliki,Routine Immunization,0,0,0.9,4,0,0
+PHC-EB-3103,28,Female,Izzi,General Outpatient,0,0,2.3,4,2,1
+PHC-EB-3104,36,Female,Afikpo North,Routine Immunization,1,0,2.7,9,0,0
+PHC-EB-3105,74,Female,Afikpo North,General Outpatient,0,0,2.1,16,1,0
+PHC-EB-3106,69,Female,Abakaliki,Routine Immunization,1,0,1.2,2,1,0
+PHC-EB-3107,17,Male,Ikwo,Antenatal Care,0,0,1.8,3,3,1
+PHC-EB-3108,41,Male,Ebonyi,Routine Immunization,1,0,5.7,20,0,0
+PHC-EB-3109,40,Female,Ikwo,Routine Immunization,0,0,2.7,6,0,0
+PHC-EB-3110,37,Male,Ikwo,Routine Immunization,1,0,5.0,1,0,0
+PHC-EB-3111,33,Male,Ikwo,Antenatal Care,0,0,4.0,8,2,1
+PHC-EB-3112,16,Female,Abakaliki,Routine Immunization,0,0,4.1,36,0,1
+PHC-EB-3113,36,Female,Abakaliki,Antenatal Care,1,1,1.8,13,0,1
+PHC-EB-3114,24,Male,Ebonyi,Antenatal Care,0,0,3.8,10,1,1
+PHC-EB-3115,26,Male,Ikwo,Antenatal Care,0,0,0.6,1,0,0
+PHC-EB-3116,56,Female,Abakaliki,Antenatal Care,0,0,3.0,16,0,1
+PHC-EB-3117,30,Male,Ebonyi,Antenatal Care,0,0,4.3,5,0,1
+PHC-EB-3118,5,Female,Ebonyi,General Outpatient,0,0,1.4,17,4,1
+PHC-EB-3119,39,Male,Ikwo,Antenatal Care,0,0,1.8,3,1,1
+PHC-EB-3120,11,Male,Izzi,General Outpatient,0,0,1.6,0,1,0
+PHC-EB-3121,52,Female,Ikwo,Antenatal Care,0,0,0.8,5,1,0
+PHC-EB-3122,70,Male,Izzi,Chronic Disease (HTN/DM),0,0,2.4,2,0,0
+PHC-EB-3123,9,Female,Ebonyi,Routine Immunization,0,0,17.9,9,2,1
+PHC-EB-3124,44,Male,Abakaliki,Antenatal Care,1,0,2.5,24,0,0
+PHC-EB-3125,16,Male,Afikpo North,Routine Immunization,0,0,3.3,9,2,1
+PHC-EB-3126,25,Female,Ebonyi,Routine Immunization,0,0,5.3,17,1,1
+PHC-EB-3127,61,Male,Abakaliki,Routine Immunization,1,0,5.2,4,0,0
+PHC-EB-3128,45,Female,Ebonyi,Antenatal Care,0,0,14.0,11,1,1
+PHC-EB-3129,63,Male,Ikwo,Chronic Disease (HTN/DM),0,0,9.3,14,0,1
+PHC-EB-3130,1,Female,Izzi,Routine Immunization,0,0,7.6,9,0,0
+PHC-EB-3131,53,Male,Ebonyi,Routine Immunization,0,0,14.1,5,0,1
+PHC-EB-3132,64,Female,Abakaliki,General Outpatient,0,1,1.7,7,0,1
+PHC-EB-3133,50,Male,Ikwo,Routine Immunization,1,0,4.8,9,0,0
+PHC-EB-3134,52,Female,Afikpo North,General Outpatient,0,1,10.3,2,0,1
+PHC-EB-3135,35,Male,Ikwo,Routine Immunization,1,0,4.9,12,0,1
+PHC-EB-3136,25,Male,Izzi,General Outpatient,0,0,17.6,23,0,1
+PHC-EB-3137,28,Male,Ikwo,Antenatal Care,0,0,1.0,4,0,0
+PHC-EB-3138,20,Male,Afikpo North,General Outpatient,0,0,3.1,9,1,1
+PHC-EB-3139,10,Male,Abakaliki,General Outpatient,0,0,17.5,10,0,1
+PHC-EB-3140,39,Female,Ebonyi,Antenatal Care,0,0,2.6,8,3,1
+PHC-EB-3141,10,Female,Izzi,Antenatal Care,0,0,6.6,6,1,1
+PHC-EB-3142,35,Female,Afikpo North,Antenatal Care,0,0,0.6,16,0,0
+PHC-EB-3143,58,Male,Izzi,Chronic Disease (HTN/DM),1,0,5.8,4,0,1
+PHC-EB-3144,38,Male,Ikwo,Antenatal Care,0,0,12.8,0,0,1
+PHC-EB-3145,53,Female,Izzi,Routine Immunization,1,0,2.7,14,1,1
+PHC-EB-3146,54,Male,Afikpo North,Antenatal Care,0,0,0.6,8,1,1
+PHC-EB-3147,23,Male,Ebonyi,Routine Immunization,0,0,0.6,14,0,1
+PHC-EB-3148,21,Female,Ebonyi,Routine Immunization,0,0,10.5,1,0,0
+PHC-EB-3149,68,Female,Izzi,Chronic Disease (HTN/DM),1,0,6.3,0,0,0
+PHC-EB-3150,55,Female,Abakaliki,Routine Immunization,0,0,1.0,21,4,1
+PHC-EB-3151,32,Female,Izzi,General Outpatient,0,0,0.8,1,0,1
+PHC-EB-3152,35,Male,Ikwo,Routine Immunization,0,0,7.9,12,0,0
+PHC-EB-3153,19,Female,Ebonyi,Antenatal Care,0,0,8.0,13,0,1
+PHC-EB-3154,61,Female,Ebonyi,Antenatal Care,1,1,1.1,9,1,0
+PHC-EB-3155,72,Male,Ebonyi,Routine Immunization,1,0,2.1,1,0,1
+PHC-EB-3156,25,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,7.3,8,2,0
+PHC-EB-3157,65,Male,Abakaliki,Chronic Disease (HTN/DM),1,0,3.9,17,1,1
+PHC-EB-3158,72,Female,Afikpo North,Antenatal Care,0,0,14.6,4,1,0
+PHC-EB-3159,72,Female,Izzi,Antenatal Care,0,0,3.5,4,0,0
+PHC-EB-3160,39,Male,Izzi,Antenatal Care,0,0,5.6,4,1,1
+PHC-EB-3161,16,Female,Ikwo,Chronic Disease (HTN/DM),0,0,3.7,0,2,0
+PHC-EB-3162,0,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,13.4,17,1,1
+PHC-EB-3163,60,Female,Abakaliki,General Outpatient,0,0,2.8,15,0,1
+PHC-EB-3164,42,Female,Ikwo,Routine Immunization,0,0,1.7,48,1,1
+PHC-EB-3165,41,Female,Ikwo,Routine Immunization,1,0,2.3,6,0,1
+PHC-EB-3166,24,Female,Abakaliki,Routine Immunization,0,0,9.1,10,1,0
+PHC-EB-3167,38,Female,Izzi,Antenatal Care,0,0,3.6,1,1,1
+PHC-EB-3168,34,Female,Ebonyi,Routine Immunization,0,0,2.5,8,0,0
+PHC-EB-3169,2,Male,Izzi,Antenatal Care,0,0,4.0,8,0,1
+PHC-EB-3170,43,Female,Ikwo,Antenatal Care,0,1,1.1,18,0,1
+PHC-EB-3171,50,Male,Ebonyi,Chronic Disease (HTN/DM),0,1,0.5,13,1,0
+PHC-EB-3172,11,Female,Afikpo North,General Outpatient,0,0,2.0,21,0,0
+PHC-EB-3173,18,Female,Ikwo,Routine Immunization,0,0,4.7,15,0,1
+PHC-EB-3174,43,Female,Izzi,Routine Immunization,1,0,6.1,15,0,0
+PHC-EB-3175,58,Female,Izzi,Routine Immunization,0,1,8.4,0,0,0
+PHC-EB-3176,48,Female,Izzi,General Outpatient,1,0,12.3,14,2,1
+PHC-EB-3177,60,Female,Abakaliki,General Outpatient,0,0,2.9,7,0,0
+PHC-EB-3178,16,Male,Ikwo,General Outpatient,0,0,6.6,3,1,1
+PHC-EB-3179,73,Female,Ebonyi,General Outpatient,0,0,0.8,0,2,0
+PHC-EB-3180,56,Female,Izzi,Antenatal Care,1,0,0.8,8,0,0
+PHC-EB-3181,54,Male,Izzi,Routine Immunization,0,0,1.1,3,1,1
+PHC-EB-3182,46,Female,Abakaliki,Routine Immunization,0,0,3.2,4,1,0
+PHC-EB-3183,11,Female,Ebonyi,Routine Immunization,0,0,1.6,8,1,0
+PHC-EB-3184,61,Female,Ikwo,General Outpatient,0,0,2.0,18,3,1
+PHC-EB-3185,7,Male,Afikpo North,Routine Immunization,0,0,5.2,13,0,0
+PHC-EB-3186,20,Female,Abakaliki,Antenatal Care,0,0,2.5,4,0,0
+PHC-EB-3187,69,Female,Ikwo,Routine Immunization,0,0,4.2,3,0,0
+PHC-EB-3188,71,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,2.9,2,0,1
+PHC-EB-3189,24,Male,Izzi,Antenatal Care,0,0,1.3,3,1,0
+PHC-EB-3190,11,Female,Izzi,General Outpatient,0,0,0.8,0,1,1
+PHC-EB-3191,14,Male,Ebonyi,Routine Immunization,0,0,1.7,27,1,1
+PHC-EB-3192,58,Female,Afikpo North,Antenatal Care,0,0,0.8,6,0,0
+PHC-EB-3193,25,Male,Izzi,Routine Immunization,0,0,4.8,1,0,0
+PHC-EB-3194,25,Male,Izzi,General Outpatient,0,0,7.6,3,0,0
+PHC-EB-3195,46,Female,Ebonyi,Routine Immunization,0,0,2.4,6,1,1
+PHC-EB-3196,31,Female,Ikwo,Chronic Disease (HTN/DM),0,0,2.7,5,0,1
+PHC-EB-3197,9,Female,Izzi,Antenatal Care,0,0,8.1,0,1,0
+PHC-EB-3198,15,Female,Abakaliki,Antenatal Care,0,0,1.6,23,1,0
+PHC-EB-3199,70,Male,Abakaliki,Chronic Disease (HTN/DM),1,0,1.1,2,2,0
+PHC-EB-3200,16,Female,Ikwo,Routine Immunization,0,0,3.6,0,0,0
+PHC-EB-3201,22,Female,Afikpo North,Routine Immunization,0,0,5.2,0,0,1
+PHC-EB-3202,25,Female,Ebonyi,General Outpatient,0,0,4.6,6,1,1
+PHC-EB-3203,6,Male,Abakaliki,Routine Immunization,0,0,6.1,1,0,0
+PHC-EB-3204,13,Female,Abakaliki,General Outpatient,0,0,0.8,0,1,1
+PHC-EB-3205,6,Female,Ikwo,Antenatal Care,0,0,3.0,3,0,1
+PHC-EB-3206,8,Female,Afikpo North,Antenatal Care,0,0,1.7,7,1,0
+PHC-EB-3207,47,Male,Afikpo North,Antenatal Care,1,0,6.9,0,0,1
+PHC-EB-3208,71,Male,Ikwo,General Outpatient,0,0,9.8,2,2,1
+PHC-EB-3209,58,Female,Abakaliki,Antenatal Care,0,0,2.0,4,2,0
+PHC-EB-3210,38,Female,Ebonyi,General Outpatient,0,0,1.0,1,0,1
+PHC-EB-3211,17,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,1.8,5,0,0
+PHC-EB-3212,58,Female,Afikpo North,Routine Immunization,1,0,1.0,0,2,1
+PHC-EB-3213,16,Male,Abakaliki,Routine Immunization,0,0,2.3,0,2,1
+PHC-EB-3214,13,Male,Ebonyi,Routine Immunization,0,0,4.0,5,1,1
+PHC-EB-3215,30,Female,Izzi,Routine Immunization,0,0,16.9,2,1,0
+PHC-EB-3216,23,Male,Abakaliki,Routine Immunization,0,0,2.8,0,1,0
+PHC-EB-3217,59,Female,Ikwo,General Outpatient,0,0,1.6,4,1,0
+PHC-EB-3218,44,Male,Izzi,Chronic Disease (HTN/DM),1,1,1.3,19,2,1
+PHC-EB-3219,2,Male,Ikwo,Chronic Disease (HTN/DM),0,0,1.4,10,0,0
+PHC-EB-3220,36,Female,Ikwo,Chronic Disease (HTN/DM),1,0,1.5,13,2,1
+PHC-EB-3221,42,Male,Ikwo,Chronic Disease (HTN/DM),0,0,7.0,16,1,1
+PHC-EB-3222,39,Female,Abakaliki,Routine Immunization,0,0,0.8,28,0,0
+PHC-EB-3223,54,Female,Afikpo North,General Outpatient,0,0,27.3,11,0,1
+PHC-EB-3224,38,Female,Izzi,Chronic Disease (HTN/DM),1,0,3.8,7,1,1
+PHC-EB-3225,14,Female,Ebonyi,Routine Immunization,0,0,4.0,3,1,1
+PHC-EB-3226,3,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,2.5,1,2,0
+PHC-EB-3227,24,Male,Abakaliki,Routine Immunization,0,0,5.8,9,0,1
+PHC-EB-3228,12,Female,Ikwo,General Outpatient,0,0,3.4,41,3,1
+PHC-EB-3229,32,Male,Ebonyi,General Outpatient,0,0,2.3,4,1,0
+PHC-EB-3230,15,Male,Izzi,Chronic Disease (HTN/DM),0,0,1.9,10,0,0
+PHC-EB-3231,41,Female,Afikpo North,Antenatal Care,0,0,12.2,5,1,1
+PHC-EB-3232,65,Female,Afikpo North,General Outpatient,0,1,2.0,4,0,1
+PHC-EB-3233,54,Female,Ebonyi,Routine Immunization,0,1,3.1,4,0,0
+PHC-EB-3234,41,Male,Abakaliki,Antenatal Care,0,0,2.4,5,1,1
+PHC-EB-3235,33,Male,Izzi,General Outpatient,0,0,0.9,3,0,0
+PHC-EB-3236,29,Female,Ebonyi,Routine Immunization,0,0,1.4,10,2,1
+PHC-EB-3237,12,Male,Ikwo,General Outpatient,0,0,1.4,16,0,1
+PHC-EB-3238,12,Male,Izzi,Routine Immunization,0,0,5.8,16,1,0
+PHC-EB-3239,17,Female,Afikpo North,Routine Immunization,0,0,2.8,2,0,0
+PHC-EB-3240,31,Female,Ebonyi,General Outpatient,0,0,7.4,17,0,1
+PHC-EB-3241,38,Female,Afikpo North,Routine Immunization,0,0,6.1,3,0,0
+PHC-EB-3242,45,Female,Afikpo North,Antenatal Care,1,1,1.5,2,0,0
+PHC-EB-3243,28,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,4.2,10,0,1
+PHC-EB-3244,61,Female,Abakaliki,Routine Immunization,0,0,6.6,2,1,0
+PHC-EB-3245,61,Female,Afikpo North,General Outpatient,0,0,5.0,0,1,0
+PHC-EB-3246,56,Female,Ikwo,Routine Immunization,0,1,4.6,3,1,1
+PHC-EB-3247,15,Male,Ikwo,Routine Immunization,0,0,6.6,9,0,1
+PHC-EB-3248,55,Female,Izzi,Routine Immunization,0,0,0.8,3,1,0
+PHC-EB-3249,9,Male,Afikpo North,Routine Immunization,0,0,6.4,7,0,0
+PHC-EB-3250,29,Female,Afikpo North,Routine Immunization,0,0,1.9,8,2,1
+PHC-EB-3251,24,Female,Ebonyi,Routine Immunization,0,0,4.3,10,3,1
+PHC-EB-3252,4,Male,Abakaliki,Routine Immunization,0,0,1.7,17,0,0
+PHC-EB-3253,64,Female,Izzi,Antenatal Care,0,1,8.7,4,0,1
+PHC-EB-3254,48,Female,Afikpo North,Routine Immunization,0,0,3.4,1,1,0
+PHC-EB-3255,2,Male,Ebonyi,Antenatal Care,0,0,5.1,3,0,1
+PHC-EB-3256,44,Female,Abakaliki,Antenatal Care,0,0,7.6,4,1,1
+PHC-EB-3257,13,Female,Izzi,Chronic Disease (HTN/DM),0,0,10.7,9,1,1
+PHC-EB-3258,29,Female,Izzi,General Outpatient,0,0,6.4,0,0,1
+PHC-EB-3259,67,Female,Afikpo North,General Outpatient,0,0,1.2,2,1,0
+PHC-EB-3260,17,Female,Izzi,Routine Immunization,0,0,9.2,11,0,1
+PHC-EB-3261,61,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,4.8,8,0,1
+PHC-EB-3262,36,Male,Izzi,General Outpatient,0,0,4.7,10,1,1
+PHC-EB-3263,24,Male,Ikwo,General Outpatient,0,0,11.9,13,1,1
+PHC-EB-3264,47,Male,Ebonyi,Routine Immunization,0,0,1.8,11,1,1
+PHC-EB-3265,64,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,1.7,8,3,1
+PHC-EB-3266,52,Male,Abakaliki,General Outpatient,0,0,3.7,4,0,1
+PHC-EB-3267,72,Female,Afikpo North,Chronic Disease (HTN/DM),1,0,6.8,32,0,1
+PHC-EB-3268,14,Male,Afikpo North,Antenatal Care,0,0,3.2,6,1,1
+PHC-EB-3269,48,Male,Ikwo,Antenatal Care,0,0,5.0,1,1,0
+PHC-EB-3270,67,Male,Abakaliki,Antenatal Care,0,0,3.2,2,0,0
+PHC-EB-3271,11,Female,Abakaliki,Antenatal Care,0,0,4.7,9,1,1
+PHC-EB-3272,58,Female,Abakaliki,Chronic Disease (HTN/DM),1,0,8.3,20,0,0
+PHC-EB-3273,36,Female,Abakaliki,Antenatal Care,0,0,1.4,1,0,0
+PHC-EB-3274,60,Male,Izzi,Antenatal Care,1,0,5.8,0,1,0
+PHC-EB-3275,42,Female,Ebonyi,Antenatal Care,0,1,7.5,16,1,1
+PHC-EB-3276,69,Male,Ebonyi,Antenatal Care,0,0,3.2,19,0,0
+PHC-EB-3277,38,Female,Ikwo,Antenatal Care,0,0,2.3,2,2,0
+PHC-EB-3278,55,Female,Izzi,General Outpatient,0,0,0.6,3,0,1
+PHC-EB-3279,62,Female,Abakaliki,Routine Immunization,0,0,7.7,8,1,1
+PHC-EB-3280,45,Female,Abakaliki,Antenatal Care,0,0,2.3,3,1,0
+PHC-EB-3281,10,Female,Afikpo North,Routine Immunization,0,0,2.5,16,0,1
+PHC-EB-3282,61,Female,Afikpo North,Routine Immunization,1,0,2.3,0,0,0
+PHC-EB-3283,24,Male,Ikwo,Antenatal Care,0,0,3.6,0,1,0
+PHC-EB-3284,70,Female,Abakaliki,General Outpatient,0,0,6.0,1,0,0
+PHC-EB-3285,51,Female,Ikwo,General Outpatient,0,0,7.2,2,3,1
+PHC-EB-3286,3,Male,Izzi,General Outpatient,0,0,2.7,0,0,0
+PHC-EB-3287,58,Male,Ebonyi,General Outpatient,0,0,5.4,0,1,0
+PHC-EB-3288,71,Male,Abakaliki,Antenatal Care,0,0,6.2,11,0,1
+PHC-EB-3289,19,Female,Izzi,Chronic Disease (HTN/DM),0,0,2.1,1,1,0
+PHC-EB-3290,62,Male,Abakaliki,General Outpatient,0,0,1.0,19,0,1
+PHC-EB-3291,53,Male,Afikpo North,Chronic Disease (HTN/DM),0,1,10.6,3,0,1
+PHC-EB-3292,73,Female,Ikwo,Antenatal Care,0,0,5.6,8,1,0
+PHC-EB-3293,56,Female,Afikpo North,Chronic Disease (HTN/DM),1,0,5.2,1,2,1
+PHC-EB-3294,40,Female,Ebonyi,General Outpatient,0,0,0.8,2,0,1
+PHC-EB-3295,2,Female,Afikpo North,General Outpatient,0,0,8.2,6,0,1
+PHC-EB-3296,5,Male,Abakaliki,Antenatal Care,0,0,4.3,6,1,1
+PHC-EB-3297,4,Female,Afikpo North,General Outpatient,0,0,9.0,11,1,1
+PHC-EB-3298,4,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,17.0,11,0,0
+PHC-EB-3299,53,Female,Ebonyi,General Outpatient,0,0,14.7,8,0,1
+PHC-EB-3300,46,Female,Afikpo North,Routine Immunization,0,0,9.2,4,1,1
+PHC-EB-3301,48,Female,Ikwo,Chronic Disease (HTN/DM),0,0,0.5,17,0,1
+PHC-EB-3302,8,Female,Ikwo,Routine Immunization,0,0,10.3,7,1,1
+PHC-EB-3303,19,Male,Ikwo,Routine Immunization,0,0,0.9,36,1,1
+PHC-EB-3304,60,Male,Afikpo North,Routine Immunization,1,0,9.1,13,1,1
+PHC-EB-3305,34,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,2.0,0,0,0
+PHC-EB-3306,49,Female,Afikpo North,Antenatal Care,0,0,4.7,3,1,0
+PHC-EB-3307,61,Female,Abakaliki,Routine Immunization,1,0,0.7,6,1,1
+PHC-EB-3308,16,Male,Ebonyi,General Outpatient,0,0,7.1,9,0,0
+PHC-EB-3309,2,Female,Ikwo,General Outpatient,0,0,1.0,6,0,0
+PHC-EB-3310,31,Female,Abakaliki,Routine Immunization,0,0,2.9,12,1,0
+PHC-EB-3311,12,Female,Ikwo,Chronic Disease (HTN/DM),0,0,8.2,2,0,1
+PHC-EB-3312,72,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,5.8,1,0,0
+PHC-EB-3313,67,Female,Afikpo North,Antenatal Care,1,0,0.5,0,1,0
+PHC-EB-3314,13,Female,Ikwo,Routine Immunization,0,0,2.8,6,4,1
+PHC-EB-3315,10,Male,Afikpo North,Antenatal Care,0,0,0.7,9,3,1
+PHC-EB-3316,55,Female,Ikwo,Routine Immunization,0,0,5.5,3,3,0
+PHC-EB-3317,66,Female,Izzi,Routine Immunization,0,0,16.1,7,0,1
+PHC-EB-3318,28,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,5.3,0,1,0
+PHC-EB-3319,8,Male,Izzi,General Outpatient,0,0,1.6,0,0,1
+PHC-EB-3320,66,Female,Abakaliki,Antenatal Care,0,0,2.5,9,1,0
+PHC-EB-3321,24,Female,Ebonyi,Antenatal Care,0,0,17.4,3,0,1
+PHC-EB-3322,41,Female,Ikwo,Routine Immunization,0,1,1.6,8,0,1
+PHC-EB-3323,8,Male,Ebonyi,Routine Immunization,0,0,4.2,13,0,0
+PHC-EB-3324,39,Female,Ebonyi,Antenatal Care,0,1,2.8,14,0,1
+PHC-EB-3325,24,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,7.1,1,0,1
+PHC-EB-3326,4,Male,Izzi,Chronic Disease (HTN/DM),0,0,9.6,5,0,1
+PHC-EB-3327,10,Female,Afikpo North,Routine Immunization,0,0,2.4,10,2,1
+PHC-EB-3328,58,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,5.4,11,0,0
+PHC-EB-3329,37,Male,Afikpo North,Routine Immunization,0,0,4.1,12,0,0
+PHC-EB-3330,71,Female,Ebonyi,General Outpatient,0,1,2.0,2,2,1
+PHC-EB-3331,4,Female,Afikpo North,Routine Immunization,0,0,1.9,1,0,1
+PHC-EB-3332,47,Female,Izzi,Antenatal Care,1,0,4.0,6,1,1
+PHC-EB-3333,17,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,1.3,10,0,0
+PHC-EB-3334,69,Male,Izzi,Routine Immunization,0,0,8.0,3,1,1
+PHC-EB-3335,36,Female,Izzi,General Outpatient,0,0,0.8,0,1,0
+PHC-EB-3336,59,Male,Abakaliki,Routine Immunization,1,0,0.9,9,1,0
+PHC-EB-3337,47,Female,Izzi,Antenatal Care,1,0,2.4,2,1,0
+PHC-EB-3338,27,Female,Ikwo,Antenatal Care,0,0,1.1,1,0,0
+PHC-EB-3339,68,Female,Ikwo,Routine Immunization,0,0,3.4,1,1,0
+PHC-EB-3340,39,Female,Ikwo,General Outpatient,1,0,2.8,2,0,1
+PHC-EB-3341,44,Female,Afikpo North,Routine Immunization,0,1,6.3,7,0,0
+PHC-EB-3342,61,Female,Izzi,General Outpatient,0,0,14.3,3,0,0
+PHC-EB-3343,57,Female,Abakaliki,General Outpatient,1,0,6.8,0,0,1
+PHC-EB-3344,66,Male,Abakaliki,General Outpatient,1,1,1.4,0,1,0
+PHC-EB-3345,55,Female,Afikpo North,Routine Immunization,0,0,12.8,2,0,0
+PHC-EB-3346,39,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,2.7,8,0,0
+PHC-EB-3347,39,Female,Ikwo,Routine Immunization,0,0,3.4,0,1,1
+PHC-EB-3348,32,Male,Izzi,Routine Immunization,0,0,3.0,6,0,0
+PHC-EB-3349,5,Female,Abakaliki,Antenatal Care,0,0,2.0,0,0,0
+PHC-EB-3350,18,Female,Abakaliki,Antenatal Care,0,0,10.6,1,0,0
+PHC-EB-3351,39,Male,Ebonyi,Antenatal Care,0,0,2.3,1,1,1
+PHC-EB-3352,58,Female,Ebonyi,General Outpatient,1,0,4.4,0,0,0
+PHC-EB-3353,58,Female,Ebonyi,Antenatal Care,1,0,1.7,8,0,1
+PHC-EB-3354,47,Male,Izzi,Antenatal Care,0,0,7.7,4,1,0
+PHC-EB-3355,40,Female,Ikwo,General Outpatient,1,0,7.2,13,1,1
+PHC-EB-3356,12,Female,Ikwo,Routine Immunization,0,0,2.1,0,0,0
+PHC-EB-3357,44,Female,Ikwo,Antenatal Care,0,0,5.6,1,2,0
+PHC-EB-3358,52,Female,Izzi,Antenatal Care,0,0,6.0,2,0,1
+PHC-EB-3359,41,Female,Izzi,General Outpatient,0,0,4.2,11,0,0
+PHC-EB-3360,62,Female,Ebonyi,Antenatal Care,1,0,4.6,2,2,0
+PHC-EB-3361,26,Female,Abakaliki,Routine Immunization,0,0,4.3,4,0,0
+PHC-EB-3362,37,Female,Afikpo North,Routine Immunization,0,0,0.9,2,0,0
+PHC-EB-3363,59,Male,Afikpo North,General Outpatient,1,0,5.5,0,0,0
+PHC-EB-3364,6,Female,Abakaliki,General Outpatient,0,0,3.4,21,0,1
+PHC-EB-3365,4,Female,Ebonyi,General Outpatient,0,0,3.1,6,1,1
+PHC-EB-3366,44,Male,Abakaliki,Antenatal Care,0,0,9.3,12,0,1
+PHC-EB-3367,57,Male,Abakaliki,Antenatal Care,0,0,0.6,8,1,0
+PHC-EB-3368,30,Female,Afikpo North,Antenatal Care,0,0,1.8,5,0,0
+PHC-EB-3369,22,Male,Ebonyi,Antenatal Care,0,0,1.1,0,0,0
+PHC-EB-3370,41,Female,Izzi,Antenatal Care,0,0,0.7,8,0,0
+PHC-EB-3371,9,Female,Afikpo North,Antenatal Care,0,0,2.0,1,2,1
+PHC-EB-3372,31,Male,Izzi,Routine Immunization,0,0,20.6,4,0,0
+PHC-EB-3373,52,Female,Ebonyi,General Outpatient,1,0,1.9,7,0,1
+PHC-EB-3374,29,Female,Abakaliki,Routine Immunization,0,0,5.4,11,1,1
+PHC-EB-3375,38,Female,Ikwo,General Outpatient,0,0,1.1,9,0,0
+PHC-EB-3376,30,Female,Ikwo,Routine Immunization,0,0,4.6,8,0,1
+PHC-EB-3377,1,Female,Ebonyi,Antenatal Care,0,0,19.2,1,0,1
+PHC-EB-3378,11,Male,Ikwo,Routine Immunization,0,0,2.1,3,3,1
+PHC-EB-3379,38,Female,Izzi,Antenatal Care,0,0,9.0,0,2,0
+PHC-EB-3380,65,Male,Ikwo,Antenatal Care,0,1,27.6,9,0,1
+PHC-EB-3381,12,Female,Ebonyi,Routine Immunization,0,0,4.5,23,1,1
+PHC-EB-3382,45,Male,Ebonyi,Chronic Disease (HTN/DM),1,0,2.2,2,1,0
+PHC-EB-3383,26,Male,Izzi,General Outpatient,0,0,5.5,0,2,1
+PHC-EB-3384,16,Male,Ikwo,Antenatal Care,0,0,8.9,5,1,1
+PHC-EB-3385,59,Female,Ikwo,General Outpatient,0,0,1.3,15,0,1
+PHC-EB-3386,63,Female,Abakaliki,General Outpatient,1,0,3.2,6,0,1
+PHC-EB-3387,34,Female,Afikpo North,General Outpatient,0,0,2.2,0,0,0
+PHC-EB-3388,69,Male,Ebonyi,General Outpatient,0,1,2.0,28,1,0
+PHC-EB-3389,29,Male,Abakaliki,Routine Immunization,0,0,9.4,13,2,1
+PHC-EB-3390,70,Female,Ebonyi,Antenatal Care,0,1,3.0,1,1,0
+PHC-EB-3391,73,Female,Abakaliki,Routine Immunization,0,0,2.4,19,1,1
+PHC-EB-3392,62,Female,Afikpo North,Routine Immunization,0,0,4.7,4,2,0
+PHC-EB-3393,27,Female,Abakaliki,Routine Immunization,0,0,1.6,3,0,1
+PHC-EB-3394,59,Female,Ebonyi,Routine Immunization,0,0,1.7,4,1,0
+PHC-EB-3395,36,Male,Ikwo,Chronic Disease (HTN/DM),0,0,3.8,14,1,0
+PHC-EB-3396,21,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,2.9,8,1,1
+PHC-EB-3397,67,Female,Izzi,Chronic Disease (HTN/DM),0,1,2.1,0,1,0
+PHC-EB-3398,19,Female,Izzi,General Outpatient,0,0,0.7,24,0,1
+PHC-EB-3399,67,Female,Izzi,Chronic Disease (HTN/DM),0,0,3.8,1,0,1
+PHC-EB-3400,63,Female,Izzi,Antenatal Care,0,0,8.1,10,1,1
+PHC-EB-3401,16,Female,Afikpo North,Antenatal Care,0,0,9.1,7,0,1
+PHC-EB-3402,11,Female,Ikwo,Routine Immunization,0,0,1.7,1,2,0
+PHC-EB-3403,21,Male,Ikwo,General Outpatient,0,0,4.6,1,0,1
+PHC-EB-3404,16,Female,Ebonyi,Routine Immunization,0,0,9.2,15,0,0
+PHC-EB-3405,9,Female,Abakaliki,General Outpatient,0,0,2.9,4,1,1
+PHC-EB-3406,64,Male,Ebonyi,Antenatal Care,0,0,12.6,8,2,0
+PHC-EB-3407,21,Male,Ebonyi,Antenatal Care,0,0,11.0,5,0,1
+PHC-EB-3408,49,Female,Ebonyi,General Outpatient,1,1,1.6,10,1,1
+PHC-EB-3409,13,Female,Ebonyi,Antenatal Care,0,0,1.8,5,3,1
+PHC-EB-3410,63,Female,Ikwo,Routine Immunization,0,0,1.4,2,0,0
+PHC-EB-3411,46,Male,Abakaliki,Antenatal Care,0,1,1.5,3,2,1
+PHC-EB-3412,28,Male,Ebonyi,Routine Immunization,0,0,11.2,15,1,1
+PHC-EB-3413,35,Male,Ikwo,General Outpatient,0,0,12.5,4,1,1
+PHC-EB-3414,51,Female,Ebonyi,Routine Immunization,0,0,0.7,1,3,0
+PHC-EB-3415,6,Male,Izzi,Routine Immunization,0,0,4.6,21,1,1
+PHC-EB-3416,28,Female,Ebonyi,Antenatal Care,0,0,4.2,12,0,1
+PHC-EB-3417,10,Female,Ebonyi,General Outpatient,0,0,2.7,0,1,0
+PHC-EB-3418,32,Female,Afikpo North,Routine Immunization,0,0,5.0,53,0,1
+PHC-EB-3419,5,Female,Izzi,General Outpatient,0,0,13.7,9,0,1
+PHC-EB-3420,31,Female,Abakaliki,General Outpatient,0,0,1.3,1,0,1
+PHC-EB-3421,50,Male,Ebonyi,Antenatal Care,0,0,1.1,2,2,1
+PHC-EB-3422,74,Male,Abakaliki,Chronic Disease (HTN/DM),1,0,0.7,9,1,0
+PHC-EB-3423,57,Female,Izzi,General Outpatient,0,0,2.5,11,1,0
+PHC-EB-3424,25,Female,Ebonyi,Routine Immunization,0,0,2.4,2,1,1
+PHC-EB-3425,45,Female,Afikpo North,Antenatal Care,0,0,3.0,2,0,0
+PHC-EB-3426,28,Female,Ikwo,Chronic Disease (HTN/DM),0,0,3.6,2,1,1
+PHC-EB-3427,3,Female,Afikpo North,General Outpatient,0,0,6.9,7,2,1
+PHC-EB-3428,12,Male,Afikpo North,Antenatal Care,0,0,2.7,1,1,1
+PHC-EB-3429,38,Female,Ikwo,Routine Immunization,1,1,2.3,0,0,0
+PHC-EB-3430,14,Female,Ikwo,General Outpatient,0,0,8.4,8,1,1
+PHC-EB-3431,28,Female,Ikwo,General Outpatient,0,0,9.0,11,1,1
+PHC-EB-3432,28,Male,Ebonyi,General Outpatient,0,0,1.7,5,1,0
+PHC-EB-3433,74,Male,Abakaliki,Routine Immunization,1,0,2.2,3,0,0
+PHC-EB-3434,31,Male,Abakaliki,General Outpatient,0,0,8.3,4,1,0
+PHC-EB-3435,1,Male,Ikwo,Routine Immunization,0,0,0.9,3,1,1
+PHC-EB-3436,46,Female,Afikpo North,Antenatal Care,0,0,2.3,25,1,1
+PHC-EB-3437,21,Female,Izzi,General Outpatient,0,0,3.2,11,0,0
+PHC-EB-3438,74,Male,Ikwo,Chronic Disease (HTN/DM),0,0,1.4,1,0,0
+PHC-EB-3439,26,Female,Afikpo North,Antenatal Care,0,0,1.4,3,2,1
+PHC-EB-3440,66,Female,Afikpo North,Routine Immunization,0,0,3.0,6,0,0
+PHC-EB-3441,55,Female,Ebonyi,General Outpatient,0,0,6.8,7,4,1
+PHC-EB-3442,20,Female,Ebonyi,Routine Immunization,0,0,8.8,4,2,1
+PHC-EB-3443,46,Female,Abakaliki,General Outpatient,0,0,17.9,12,0,1
+PHC-EB-3444,58,Female,Abakaliki,General Outpatient,0,0,0.8,11,0,1
+PHC-EB-3445,5,Male,Izzi,Antenatal Care,0,0,1.6,5,1,0
+PHC-EB-3446,18,Female,Izzi,Chronic Disease (HTN/DM),0,0,6.9,15,0,0
+PHC-EB-3447,56,Female,Izzi,General Outpatient,0,0,4.0,10,0,1
+PHC-EB-3448,68,Female,Izzi,Chronic Disease (HTN/DM),1,0,2.3,11,0,1
+PHC-EB-3449,2,Female,Afikpo North,General Outpatient,0,0,1.5,24,0,1
+PHC-EB-3450,0,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,2.0,2,1,0
+PHC-EB-3451,57,Female,Abakaliki,Antenatal Care,0,0,3.0,2,4,1
+PHC-EB-3452,37,Female,Ebonyi,Routine Immunization,1,0,1.4,17,0,1
+PHC-EB-3453,14,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,15.5,11,0,1
+PHC-EB-3454,33,Female,Ikwo,Antenatal Care,0,0,1.0,20,1,0
+PHC-EB-3455,60,Female,Afikpo North,Antenatal Care,0,0,19.6,0,1,1
+PHC-EB-3456,34,Female,Izzi,General Outpatient,0,0,8.8,7,2,1
+PHC-EB-3457,63,Female,Izzi,General Outpatient,1,0,3.0,1,0,0
+PHC-EB-3458,24,Female,Ikwo,Antenatal Care,0,0,6.6,5,1,0
+PHC-EB-3459,23,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,5.5,1,1,0
+PHC-EB-3460,11,Female,Izzi,General Outpatient,0,0,1.6,1,0,0
+PHC-EB-3461,17,Female,Ebonyi,Routine Immunization,0,0,2.4,0,1,0
+PHC-EB-3462,14,Female,Ikwo,General Outpatient,0,0,3.7,7,3,1
+PHC-EB-3463,26,Male,Ebonyi,Routine Immunization,0,0,5.1,3,0,0
+PHC-EB-3464,71,Male,Ebonyi,Antenatal Care,0,0,4.0,0,2,1
+PHC-EB-3465,59,Male,Ebonyi,Antenatal Care,0,0,3.4,3,0,0
+PHC-EB-3466,45,Male,Izzi,Routine Immunization,0,0,3.1,1,0,0
+PHC-EB-3467,16,Female,Abakaliki,Routine Immunization,0,0,3.6,22,1,0
+PHC-EB-3468,52,Male,Afikpo North,General Outpatient,0,0,3.1,3,0,1
+PHC-EB-3469,7,Female,Ebonyi,General Outpatient,0,0,4.0,3,1,0
+PHC-EB-3470,26,Female,Ebonyi,Routine Immunization,0,0,10.4,14,1,1
+PHC-EB-3471,45,Female,Ebonyi,General Outpatient,0,0,5.0,8,0,0
+PHC-EB-3472,49,Female,Abakaliki,Antenatal Care,0,0,6.3,9,0,1
+PHC-EB-3473,70,Male,Ikwo,Antenatal Care,0,0,4.6,7,0,0
+PHC-EB-3474,2,Female,Izzi,Chronic Disease (HTN/DM),0,0,5.1,22,0,1
+PHC-EB-3475,63,Male,Abakaliki,Antenatal Care,1,0,4.4,1,0,0
+PHC-EB-3476,43,Female,Ebonyi,Antenatal Care,1,0,0.6,35,0,1
+PHC-EB-3477,52,Female,Abakaliki,General Outpatient,0,0,35.7,13,1,1
+PHC-EB-3478,23,Female,Abakaliki,Routine Immunization,0,0,0.7,6,2,1
+PHC-EB-3479,59,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,2.8,8,0,0
+PHC-EB-3480,2,Male,Ikwo,Antenatal Care,0,0,1.0,8,1,0
+PHC-EB-3481,19,Female,Afikpo North,Antenatal Care,0,0,1.0,0,0,0
+PHC-EB-3482,45,Female,Izzi,Antenatal Care,0,0,7.6,1,0,1
+PHC-EB-3483,14,Male,Ikwo,Routine Immunization,0,0,3.0,25,1,1
+PHC-EB-3484,24,Female,Ikwo,Routine Immunization,0,0,7.8,5,0,0
+PHC-EB-3485,70,Male,Afikpo North,Routine Immunization,0,1,1.9,3,1,1
+PHC-EB-3486,16,Female,Ikwo,Chronic Disease (HTN/DM),0,0,1.8,11,0,1
+PHC-EB-3487,8,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,1.8,5,1,1
+PHC-EB-3488,37,Female,Abakaliki,Antenatal Care,0,0,4.8,0,1,0
+PHC-EB-3489,47,Female,Ebonyi,Routine Immunization,1,0,8.1,10,2,1
+PHC-EB-3490,59,Female,Ikwo,Routine Immunization,0,1,3.2,10,0,1
+PHC-EB-3491,62,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,2.6,1,0,0
+PHC-EB-3492,1,Male,Izzi,Chronic Disease (HTN/DM),0,0,16.9,24,2,1
+PHC-EB-3493,71,Male,Abakaliki,Antenatal Care,0,0,1.1,1,0,0
+PHC-EB-3494,10,Female,Izzi,General Outpatient,0,0,3.5,4,0,0
+PHC-EB-3495,63,Female,Afikpo North,Routine Immunization,1,1,2.9,0,1,0
+PHC-EB-3496,71,Female,Abakaliki,Antenatal Care,0,0,1.0,7,0,1
+PHC-EB-3497,20,Female,Izzi,Antenatal Care,0,0,1.9,3,0,0
+PHC-EB-3498,17,Male,Afikpo North,Routine Immunization,0,0,0.6,3,1,1
+PHC-EB-3499,63,Female,Izzi,Routine Immunization,0,0,9.9,13,0,1
+PHC-EB-3500,37,Female,Afikpo North,Antenatal Care,0,0,4.7,0,0,1
+PHC-EB-3501,31,Female,Afikpo North,General Outpatient,0,0,8.1,12,0,0
+PHC-EB-3502,10,Male,Abakaliki,Antenatal Care,0,0,3.8,6,3,1
+PHC-EB-3503,44,Female,Ebonyi,Routine Immunization,0,0,4.6,33,2,1
+PHC-EB-3504,32,Female,Afikpo North,Antenatal Care,0,0,5.9,6,0,0
+PHC-EB-3505,40,Female,Afikpo North,Antenatal Care,1,1,11.2,0,2,1
+PHC-EB-3506,7,Female,Abakaliki,Routine Immunization,0,0,0.9,0,0,0
+PHC-EB-3507,10,Female,Ebonyi,Antenatal Care,0,0,2.3,16,2,1
+PHC-EB-3508,50,Female,Ikwo,Routine Immunization,0,0,6.1,14,0,1
+PHC-EB-3509,40,Male,Ikwo,Antenatal Care,1,0,14.8,3,0,0
+PHC-EB-3510,16,Female,Ebonyi,Routine Immunization,0,0,18.3,7,0,1
+PHC-EB-3511,45,Male,Izzi,Antenatal Care,0,0,5.1,5,2,0
+PHC-EB-3512,31,Male,Abakaliki,General Outpatient,0,0,1.5,26,0,0
+PHC-EB-3513,53,Male,Ebonyi,General Outpatient,0,1,1.1,23,3,1
+PHC-EB-3514,19,Female,Ikwo,Antenatal Care,0,0,13.6,32,2,1
+PHC-EB-3515,32,Female,Afikpo North,Routine Immunization,0,0,3.1,15,1,1
+PHC-EB-3516,73,Female,Ikwo,Antenatal Care,0,0,1.5,18,2,1
+PHC-EB-3517,39,Male,Afikpo North,Routine Immunization,0,0,12.7,1,1,1
+PHC-EB-3518,31,Female,Abakaliki,Antenatal Care,0,0,1.0,13,2,1
+PHC-EB-3519,1,Male,Afikpo North,Routine Immunization,0,0,6.4,9,1,0
+PHC-EB-3520,32,Female,Ebonyi,Routine Immunization,0,0,4.9,25,0,1
+PHC-EB-3521,29,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,0.9,6,0,0
+PHC-EB-3522,32,Female,Izzi,Routine Immunization,0,0,2.4,0,1,1
+PHC-EB-3523,25,Female,Ebonyi,Routine Immunization,0,0,1.2,7,1,1
+PHC-EB-3524,21,Female,Abakaliki,Routine Immunization,0,0,4.7,9,1,1
+PHC-EB-3525,65,Female,Ebonyi,Chronic Disease (HTN/DM),0,1,3.4,1,1,1
+PHC-EB-3526,37,Female,Izzi,General Outpatient,1,0,0.5,3,3,1
+PHC-EB-3527,45,Female,Abakaliki,Antenatal Care,0,0,17.2,7,1,1
+PHC-EB-3528,14,Female,Ikwo,General Outpatient,0,0,2.4,3,2,1
+PHC-EB-3529,43,Female,Izzi,Routine Immunization,0,0,1.8,3,4,1
+PHC-EB-3530,48,Female,Abakaliki,General Outpatient,0,0,1.6,1,0,0
+PHC-EB-3531,74,Male,Afikpo North,General Outpatient,1,0,1.3,22,0,1
+PHC-EB-3532,60,Male,Ebonyi,Antenatal Care,0,1,32.2,10,0,1
+PHC-EB-3533,66,Male,Abakaliki,General Outpatient,1,0,2.1,0,1,1
+PHC-EB-3534,5,Female,Ebonyi,Antenatal Care,0,0,2.8,11,1,1
+PHC-EB-3535,8,Female,Afikpo North,Antenatal Care,0,0,9.7,10,1,1
+PHC-EB-3536,5,Female,Abakaliki,Antenatal Care,0,0,5.1,0,0,1
+PHC-EB-3537,72,Female,Ikwo,General Outpatient,0,0,2.6,3,0,0
+PHC-EB-3538,31,Female,Izzi,Antenatal Care,0,0,10.8,7,0,1
+PHC-EB-3539,40,Male,Abakaliki,Antenatal Care,0,0,6.7,4,2,1
+PHC-EB-3540,7,Female,Afikpo North,General Outpatient,0,0,1.7,11,1,0
+PHC-EB-3541,71,Female,Abakaliki,Antenatal Care,1,0,5.1,4,1,1
+PHC-EB-3542,49,Male,Ebonyi,Antenatal Care,0,0,12.0,1,1,0
+PHC-EB-3543,61,Male,Abakaliki,Antenatal Care,1,0,3.6,29,0,1
+PHC-EB-3544,61,Male,Ikwo,Routine Immunization,0,0,6.5,2,0,1
+PHC-EB-3545,6,Female,Abakaliki,Routine Immunization,0,0,16.4,9,0,1
+PHC-EB-3546,74,Female,Izzi,Antenatal Care,0,0,5.8,1,1,0
+PHC-EB-3547,3,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,1.0,3,1,1
+PHC-EB-3548,5,Female,Ebonyi,General Outpatient,0,0,1.8,4,1,1
+PHC-EB-3549,57,Female,Abakaliki,Routine Immunization,0,0,4.6,1,0,0
+PHC-EB-3550,21,Female,Ikwo,Antenatal Care,0,0,2.0,4,2,1
+PHC-EB-3551,25,Male,Afikpo North,Routine Immunization,0,0,14.7,1,1,0
+PHC-EB-3552,2,Female,Abakaliki,General Outpatient,0,0,2.8,6,0,1
+PHC-EB-3553,40,Male,Abakaliki,Antenatal Care,0,1,3.2,8,2,1
+PHC-EB-3554,59,Male,Izzi,Antenatal Care,1,0,5.9,0,1,0
+PHC-EB-3555,13,Female,Ikwo,Chronic Disease (HTN/DM),0,0,3.8,16,0,0
+PHC-EB-3556,74,Male,Afikpo North,Antenatal Care,0,0,2.7,1,4,0
+PHC-EB-3557,11,Female,Ebonyi,Routine Immunization,0,0,0.9,1,1,0
+PHC-EB-3558,11,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,4.6,8,0,0
+PHC-EB-3559,12,Male,Afikpo North,General Outpatient,0,0,9.6,4,0,1
+PHC-EB-3560,24,Female,Ebonyi,Routine Immunization,0,0,5.7,5,1,0
+PHC-EB-3561,44,Male,Ikwo,General Outpatient,0,0,2.7,1,2,1
+PHC-EB-3562,18,Female,Ikwo,Antenatal Care,0,0,1.1,12,1,1
+PHC-EB-3563,54,Female,Afikpo North,General Outpatient,1,0,8.1,7,0,1
+PHC-EB-3564,44,Female,Ebonyi,Routine Immunization,1,0,13.3,1,1,1
+PHC-EB-3565,7,Female,Ikwo,General Outpatient,0,0,2.7,3,2,0
+PHC-EB-3566,52,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,6.4,13,1,1
+PHC-EB-3567,54,Male,Ikwo,Chronic Disease (HTN/DM),0,1,2.9,6,0,0
+PHC-EB-3568,31,Male,Ikwo,Chronic Disease (HTN/DM),0,0,3.6,0,0,1
+PHC-EB-3569,50,Male,Ikwo,Routine Immunization,0,0,8.6,3,0,0
+PHC-EB-3570,43,Female,Izzi,Routine Immunization,0,0,0.9,2,0,0
+PHC-EB-3571,69,Male,Ebonyi,Routine Immunization,0,0,3.9,5,2,1
+PHC-EB-3572,17,Male,Afikpo North,General Outpatient,0,0,1.6,14,0,0
+PHC-EB-3573,21,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,2.4,4,0,1
+PHC-EB-3574,36,Female,Ebonyi,Antenatal Care,0,0,5.2,4,0,1
+PHC-EB-3575,55,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,0.6,18,1,0
+PHC-EB-3576,58,Male,Ebonyi,General Outpatient,0,0,4.6,6,0,0
+PHC-EB-3577,2,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,2.0,6,1,0
+PHC-EB-3578,27,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,5.5,2,0,1
+PHC-EB-3579,73,Female,Afikpo North,Antenatal Care,0,1,1.2,7,1,1
+PHC-EB-3580,34,Female,Abakaliki,Antenatal Care,0,0,6.5,6,1,0
+PHC-EB-3581,60,Female,Ikwo,Antenatal Care,1,0,5.2,3,0,0
+PHC-EB-3582,53,Female,Ikwo,Antenatal Care,1,0,16.5,36,0,1
+PHC-EB-3583,62,Female,Afikpo North,General Outpatient,0,0,11.4,16,1,0
+PHC-EB-3584,6,Male,Ikwo,General Outpatient,0,0,2.0,10,1,0
+PHC-EB-3585,48,Female,Ebonyi,Chronic Disease (HTN/DM),1,0,0.6,6,0,0
+PHC-EB-3586,30,Male,Abakaliki,General Outpatient,0,0,5.3,4,0,1
+PHC-EB-3587,57,Male,Ebonyi,Antenatal Care,0,0,4.7,1,0,1
+PHC-EB-3588,60,Female,Ikwo,Antenatal Care,0,0,0.6,2,3,0
+PHC-EB-3589,23,Male,Abakaliki,Antenatal Care,0,0,1.1,11,2,1
+PHC-EB-3590,19,Male,Ebonyi,Routine Immunization,0,0,4.5,4,1,0
+PHC-EB-3591,36,Male,Afikpo North,Routine Immunization,1,0,11.4,16,3,0
+PHC-EB-3592,3,Male,Ebonyi,Antenatal Care,0,0,11.2,1,0,0
+PHC-EB-3593,19,Male,Ikwo,Routine Immunization,0,0,1.2,5,0,1
+PHC-EB-3594,59,Female,Abakaliki,Antenatal Care,0,0,2.7,8,2,0
+PHC-EB-3595,23,Female,Afikpo North,General Outpatient,0,0,0.7,5,0,0
+PHC-EB-3596,49,Male,Abakaliki,Routine Immunization,1,0,3.4,17,0,0
+PHC-EB-3597,48,Female,Afikpo North,Routine Immunization,0,0,6.8,35,1,1
+PHC-EB-3598,50,Female,Abakaliki,Routine Immunization,0,0,7.5,0,1,1
+PHC-EB-3599,35,Female,Ikwo,Chronic Disease (HTN/DM),1,0,3.6,1,0,0
+PHC-EB-3600,65,Male,Afikpo North,Antenatal Care,1,0,1.0,1,1,1
+PHC-EB-3601,33,Female,Izzi,Routine Immunization,0,0,2.7,8,0,1
+PHC-EB-3602,35,Male,Abakaliki,General Outpatient,0,0,12.6,3,0,1
+PHC-EB-3603,5,Female,Abakaliki,Routine Immunization,0,0,1.7,10,0,1
+PHC-EB-3604,38,Female,Ebonyi,Chronic Disease (HTN/DM),0,1,2.2,4,1,0
+PHC-EB-3605,41,Female,Afikpo North,Routine Immunization,0,0,6.7,7,1,1
+PHC-EB-3606,57,Female,Izzi,Routine Immunization,1,0,6.5,11,4,1
+PHC-EB-3607,11,Male,Ikwo,Antenatal Care,0,0,11.4,6,0,0
+PHC-EB-3608,2,Male,Ebonyi,General Outpatient,0,0,2.7,6,1,1
+PHC-EB-3609,17,Male,Izzi,Antenatal Care,0,0,3.8,0,0,0
+PHC-EB-3610,39,Female,Afikpo North,Antenatal Care,1,0,3.3,4,0,0
+PHC-EB-3611,20,Female,Izzi,Routine Immunization,0,0,12.3,6,0,1
+PHC-EB-3612,14,Male,Abakaliki,Routine Immunization,0,0,7.1,4,1,0
+PHC-EB-3613,25,Male,Abakaliki,Antenatal Care,0,0,8.5,18,0,1
+PHC-EB-3614,7,Female,Ebonyi,General Outpatient,0,0,1.1,18,1,0
+PHC-EB-3615,41,Female,Afikpo North,General Outpatient,1,0,7.6,13,1,1
+PHC-EB-3616,43,Female,Afikpo North,Antenatal Care,0,0,3.1,3,1,1
+PHC-EB-3617,13,Male,Izzi,Routine Immunization,0,0,0.6,9,0,0
+PHC-EB-3618,1,Male,Ebonyi,General Outpatient,0,0,0.8,3,0,1
+PHC-EB-3619,36,Female,Afikpo North,Routine Immunization,0,0,5.6,2,0,0
+PHC-EB-3620,68,Female,Abakaliki,Routine Immunization,0,0,2.6,3,2,1
+PHC-EB-3621,37,Male,Izzi,Routine Immunization,0,0,9.6,0,0,1
+PHC-EB-3622,40,Female,Ikwo,General Outpatient,1,1,6.5,3,0,1
+PHC-EB-3623,61,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,0.6,4,0,1
+PHC-EB-3624,59,Female,Ebonyi,General Outpatient,0,0,5.7,24,0,1
+PHC-EB-3625,13,Female,Afikpo North,Antenatal Care,0,0,1.5,2,1,1
+PHC-EB-3626,1,Female,Abakaliki,Routine Immunization,0,0,3.0,18,1,1
+PHC-EB-3627,69,Male,Ikwo,Chronic Disease (HTN/DM),0,0,4.9,2,1,1
+PHC-EB-3628,16,Male,Ikwo,Antenatal Care,0,0,9.8,1,2,0
+PHC-EB-3629,27,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,3.2,5,0,1
+PHC-EB-3630,65,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,7.9,8,2,1
+PHC-EB-3631,34,Female,Izzi,Antenatal Care,0,0,7.4,0,1,0
+PHC-EB-3632,4,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,2.9,1,0,0
+PHC-EB-3633,64,Female,Ikwo,Routine Immunization,0,1,3.6,4,0,0
+PHC-EB-3634,39,Male,Ebonyi,General Outpatient,0,0,5.9,3,0,0
+PHC-EB-3635,55,Male,Ebonyi,Routine Immunization,0,0,0.6,9,2,1
+PHC-EB-3636,35,Female,Izzi,Routine Immunization,0,1,10.5,5,0,1
+PHC-EB-3637,44,Female,Ebonyi,General Outpatient,0,0,7.1,1,1,1
+PHC-EB-3638,22,Female,Ebonyi,General Outpatient,0,0,1.8,17,0,0
+PHC-EB-3639,46,Female,Ebonyi,Antenatal Care,0,0,18.4,2,1,1
+PHC-EB-3640,30,Female,Ebonyi,Routine Immunization,0,0,1.4,10,0,0
+PHC-EB-3641,10,Male,Ebonyi,Antenatal Care,0,0,11.5,11,0,0
+PHC-EB-3642,9,Male,Ikwo,Routine Immunization,0,0,2.3,25,0,1
+PHC-EB-3643,66,Female,Abakaliki,Routine Immunization,1,0,7.0,5,4,1
+PHC-EB-3644,13,Female,Afikpo North,Routine Immunization,0,0,3.2,7,1,0
+PHC-EB-3645,73,Female,Ebonyi,Routine Immunization,0,0,6.5,3,1,1
+PHC-EB-3646,9,Male,Afikpo North,Antenatal Care,0,0,1.3,8,1,1
+PHC-EB-3647,0,Female,Afikpo North,Antenatal Care,0,0,1.9,4,3,1
+PHC-EB-3648,4,Female,Ikwo,Antenatal Care,0,0,1.0,4,0,0
+PHC-EB-3649,19,Female,Ebonyi,Routine Immunization,0,0,9.5,15,1,1
+PHC-EB-3650,7,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,2.1,0,0,1
+PHC-EB-3651,42,Female,Ebonyi,Antenatal Care,0,0,5.8,16,0,1
+PHC-EB-3652,0,Male,Izzi,Chronic Disease (HTN/DM),0,0,8.2,14,0,1
+PHC-EB-3653,56,Female,Izzi,General Outpatient,0,0,10.9,5,1,1
+PHC-EB-3654,63,Male,Izzi,General Outpatient,0,0,1.0,5,1,1
+PHC-EB-3655,27,Female,Afikpo North,General Outpatient,0,0,10.6,3,0,0
+PHC-EB-3656,36,Male,Izzi,General Outpatient,0,0,1.5,40,0,0
+PHC-EB-3657,46,Male,Ikwo,Antenatal Care,0,1,6.5,0,0,0
+PHC-EB-3658,36,Female,Ikwo,Routine Immunization,0,1,6.4,6,0,1
+PHC-EB-3659,48,Female,Afikpo North,General Outpatient,1,1,0.5,8,0,1
+PHC-EB-3660,43,Female,Ebonyi,Routine Immunization,0,1,1.6,21,1,1
+PHC-EB-3661,55,Male,Abakaliki,General Outpatient,1,0,3.5,11,1,1
+PHC-EB-3662,27,Female,Ebonyi,Antenatal Care,0,0,3.0,8,2,1
+PHC-EB-3663,5,Male,Ebonyi,General Outpatient,0,0,11.8,0,0,0
+PHC-EB-3664,60,Female,Ebonyi,Routine Immunization,1,0,2.5,3,0,0
+PHC-EB-3665,19,Male,Ebonyi,Routine Immunization,0,0,12.9,1,0,0
+PHC-EB-3666,1,Male,Abakaliki,Routine Immunization,0,0,3.3,16,0,1
+PHC-EB-3667,72,Male,Izzi,General Outpatient,1,0,15.5,10,0,1
+PHC-EB-3668,36,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,6.5,11,0,1
+PHC-EB-3669,19,Female,Ikwo,Routine Immunization,0,0,8.5,8,0,0
+PHC-EB-3670,25,Male,Afikpo North,General Outpatient,0,0,1.0,5,1,1
+PHC-EB-3671,28,Female,Afikpo North,Routine Immunization,0,0,4.5,1,1,0
+PHC-EB-3672,0,Female,Ikwo,Antenatal Care,0,0,1.2,3,0,0
+PHC-EB-3673,34,Female,Ebonyi,Antenatal Care,0,0,2.1,1,2,0
+PHC-EB-3674,69,Female,Abakaliki,Antenatal Care,0,0,4.9,10,1,0
+PHC-EB-3675,58,Female,Izzi,Routine Immunization,0,0,6.3,1,0,0
+PHC-EB-3676,68,Female,Afikpo North,Routine Immunization,0,0,0.7,9,0,0
+PHC-EB-3677,32,Female,Izzi,General Outpatient,0,0,3.9,9,1,0
+PHC-EB-3678,50,Male,Abakaliki,General Outpatient,0,0,4.2,4,0,1
+PHC-EB-3679,11,Male,Afikpo North,Antenatal Care,0,0,0.9,1,0,0
+PHC-EB-3680,19,Male,Izzi,Antenatal Care,0,0,3.6,2,3,1
+PHC-EB-3681,52,Male,Abakaliki,Antenatal Care,1,1,6.1,3,2,1
+PHC-EB-3682,42,Female,Izzi,Routine Immunization,1,0,0.7,9,1,0
+PHC-EB-3683,49,Female,Ebonyi,Antenatal Care,1,0,6.9,0,1,0
+PHC-EB-3684,28,Female,Abakaliki,Antenatal Care,0,0,4.4,13,4,1
+PHC-EB-3685,56,Female,Izzi,Chronic Disease (HTN/DM),0,0,8.6,11,0,1
+PHC-EB-3686,38,Male,Ebonyi,General Outpatient,0,0,1.6,1,0,1
+PHC-EB-3687,55,Female,Ebonyi,Antenatal Care,0,0,8.6,9,1,1
+PHC-EB-3688,42,Female,Abakaliki,Routine Immunization,1,0,0.9,8,0,0
+PHC-EB-3689,49,Female,Ikwo,Routine Immunization,1,0,2.8,10,0,0
+PHC-EB-3690,22,Female,Afikpo North,General Outpatient,0,0,1.5,1,1,0
+PHC-EB-3691,43,Male,Abakaliki,Routine Immunization,1,0,9.9,1,2,1
+PHC-EB-3692,37,Female,Ebonyi,Antenatal Care,0,0,6.0,2,0,1
+PHC-EB-3693,22,Male,Ebonyi,General Outpatient,0,0,0.6,3,2,1
+PHC-EB-3694,44,Female,Abakaliki,Routine Immunization,0,0,0.5,12,0,1
+PHC-EB-3695,51,Female,Ikwo,Antenatal Care,0,0,2.0,10,0,1
+PHC-EB-3696,49,Male,Afikpo North,Routine Immunization,0,0,1.2,20,0,1
+PHC-EB-3697,7,Female,Izzi,Routine Immunization,0,0,5.0,0,0,1
+PHC-EB-3698,0,Male,Abakaliki,Routine Immunization,0,0,5.4,0,0,0
+PHC-EB-3699,7,Male,Afikpo North,Antenatal Care,0,0,13.3,9,2,1
+PHC-EB-3700,28,Male,Afikpo North,Routine Immunization,0,0,14.2,2,3,0
+PHC-EB-3701,4,Male,Ebonyi,Antenatal Care,0,0,5.3,3,0,0
+PHC-EB-3702,46,Female,Izzi,General Outpatient,0,1,0.5,6,2,1
+PHC-EB-3703,33,Male,Abakaliki,Antenatal Care,0,0,2.5,0,0,0
+PHC-EB-3704,64,Female,Ebonyi,Antenatal Care,0,0,3.7,8,1,0
+PHC-EB-3705,54,Male,Ebonyi,General Outpatient,1,0,3.6,3,0,0
+PHC-EB-3706,42,Male,Ikwo,General Outpatient,0,0,4.7,7,1,0
+PHC-EB-3707,73,Male,Afikpo North,General Outpatient,0,0,15.0,14,2,1
+PHC-EB-3708,29,Male,Abakaliki,Routine Immunization,0,0,10.2,1,0,1
+PHC-EB-3709,16,Female,Abakaliki,Antenatal Care,0,0,1.0,20,0,1
+PHC-EB-3710,25,Male,Abakaliki,General Outpatient,0,0,1.9,5,0,0
+PHC-EB-3711,7,Male,Ebonyi,General Outpatient,0,0,8.6,20,1,1
+PHC-EB-3712,46,Male,Ikwo,Antenatal Care,0,0,8.3,1,0,0
+PHC-EB-3713,71,Male,Izzi,Chronic Disease (HTN/DM),0,0,1.9,7,0,0
+PHC-EB-3714,45,Female,Ebonyi,Antenatal Care,0,0,6.4,4,0,1
+PHC-EB-3715,67,Female,Izzi,Chronic Disease (HTN/DM),1,0,5.5,11,0,0
+PHC-EB-3716,32,Female,Ikwo,Chronic Disease (HTN/DM),0,0,3.4,7,1,0
+PHC-EB-3717,0,Male,Afikpo North,General Outpatient,0,0,1.5,5,0,0
+PHC-EB-3718,18,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,10.4,19,0,1
+PHC-EB-3719,30,Female,Izzi,General Outpatient,0,0,5.6,3,1,0
+PHC-EB-3720,13,Female,Ebonyi,Antenatal Care,0,0,1.3,1,1,0
+PHC-EB-3721,52,Male,Izzi,Routine Immunization,1,0,6.0,7,1,1
+PHC-EB-3722,47,Female,Afikpo North,Antenatal Care,1,0,6.6,7,2,0
+PHC-EB-3723,68,Female,Abakaliki,Routine Immunization,1,0,10.3,4,0,0
+PHC-EB-3724,61,Female,Izzi,General Outpatient,0,0,1.6,5,2,0
+PHC-EB-3725,65,Female,Afikpo North,Routine Immunization,0,0,20.7,25,0,1
+PHC-EB-3726,63,Female,Ebonyi,Routine Immunization,0,0,1.2,10,1,1
+PHC-EB-3727,69,Female,Ikwo,Routine Immunization,0,0,4.6,0,1,1
+PHC-EB-3728,62,Female,Ebonyi,Chronic Disease (HTN/DM),1,0,5.3,1,0,1
+PHC-EB-3729,72,Male,Abakaliki,Antenatal Care,0,1,2.9,29,1,1
+PHC-EB-3730,32,Male,Ebonyi,Routine Immunization,0,0,3.4,10,3,1
+PHC-EB-3731,40,Female,Ebonyi,Antenatal Care,0,0,10.5,19,1,1
+PHC-EB-3732,47,Male,Ebonyi,General Outpatient,0,0,5.2,2,1,1
+PHC-EB-3733,12,Female,Ebonyi,Antenatal Care,0,0,3.6,10,0,0
+PHC-EB-3734,72,Female,Abakaliki,General Outpatient,0,0,1.1,9,1,0
+PHC-EB-3735,30,Female,Afikpo North,Antenatal Care,0,0,0.5,2,0,1
+PHC-EB-3736,74,Female,Izzi,Antenatal Care,0,0,1.1,6,0,1
+PHC-EB-3737,67,Female,Ikwo,Chronic Disease (HTN/DM),1,0,14.6,7,1,1
+PHC-EB-3738,3,Female,Izzi,Antenatal Care,0,0,7.0,5,1,0
+PHC-EB-3739,18,Female,Izzi,Routine Immunization,0,0,15.9,13,0,1
+PHC-EB-3740,69,Male,Ikwo,Antenatal Care,1,0,0.7,13,0,0
+PHC-EB-3741,12,Female,Abakaliki,Routine Immunization,0,0,5.6,14,1,1
+PHC-EB-3742,22,Female,Ikwo,Routine Immunization,0,0,0.7,12,0,0
+PHC-EB-3743,74,Female,Abakaliki,Routine Immunization,1,1,7.4,5,0,1
+PHC-EB-3744,0,Female,Izzi,Antenatal Care,0,0,2.7,3,0,0
+PHC-EB-3745,53,Female,Abakaliki,Routine Immunization,0,0,1.0,13,0,0
+PHC-EB-3746,70,Female,Afikpo North,General Outpatient,0,1,4.3,5,1,0
+PHC-EB-3747,14,Male,Ikwo,General Outpatient,0,0,2.0,2,1,1
+PHC-EB-3748,64,Female,Afikpo North,Routine Immunization,0,0,5.3,5,0,0
+PHC-EB-3749,70,Female,Izzi,Routine Immunization,0,0,5.3,1,0,0
+PHC-EB-3750,14,Male,Ikwo,Antenatal Care,0,0,6.0,9,1,1
+PHC-EB-3751,20,Female,Izzi,Antenatal Care,0,0,22.5,3,1,1
+PHC-EB-3752,18,Female,Afikpo North,Antenatal Care,0,0,2.7,2,1,1
+PHC-EB-3753,59,Male,Izzi,Antenatal Care,0,0,3.3,24,1,1
+PHC-EB-3754,32,Female,Ikwo,Antenatal Care,0,0,7.8,11,2,1
+PHC-EB-3755,48,Female,Ikwo,Routine Immunization,0,0,4.4,12,0,1
+PHC-EB-3756,34,Female,Izzi,Routine Immunization,0,0,0.7,7,3,0
+PHC-EB-3757,43,Female,Ikwo,Chronic Disease (HTN/DM),1,0,8.8,14,0,0
+PHC-EB-3758,10,Female,Ikwo,Antenatal Care,0,0,0.7,11,1,0
+PHC-EB-3759,71,Female,Izzi,General Outpatient,0,0,1.3,7,1,0
+PHC-EB-3760,73,Female,Afikpo North,General Outpatient,1,0,1.0,25,1,1
+PHC-EB-3761,65,Female,Ikwo,Routine Immunization,0,0,0.9,1,1,1
+PHC-EB-3762,45,Male,Ikwo,Antenatal Care,0,0,0.6,22,1,1
+PHC-EB-3763,8,Female,Ikwo,Antenatal Care,0,0,0.8,4,0,1
+PHC-EB-3764,2,Female,Ikwo,Antenatal Care,0,0,3.1,5,1,0
+PHC-EB-3765,25,Female,Izzi,Antenatal Care,0,0,1.8,1,3,1
+PHC-EB-3766,71,Male,Afikpo North,General Outpatient,0,0,1.1,6,1,1
+PHC-EB-3767,47,Female,Afikpo North,Antenatal Care,1,0,5.3,7,2,1
+PHC-EB-3768,65,Male,Abakaliki,Antenatal Care,1,0,1.7,47,0,1
+PHC-EB-3769,69,Female,Ikwo,General Outpatient,0,0,0.6,28,0,1
+PHC-EB-3770,27,Female,Ikwo,General Outpatient,0,0,2.9,26,1,0
+PHC-EB-3771,25,Female,Abakaliki,Routine Immunization,0,0,2.2,3,1,0
+PHC-EB-3772,24,Female,Afikpo North,General Outpatient,0,0,2.2,37,2,1
+PHC-EB-3773,11,Female,Ebonyi,Routine Immunization,0,0,3.2,4,3,0
+PHC-EB-3774,4,Female,Ebonyi,Antenatal Care,0,0,5.5,14,0,1
+PHC-EB-3775,47,Female,Afikpo North,Routine Immunization,0,1,4.8,1,0,1
+PHC-EB-3776,36,Female,Ikwo,Routine Immunization,1,0,13.0,5,0,0
+PHC-EB-3777,43,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,3.8,26,0,0
+PHC-EB-3778,14,Male,Izzi,Antenatal Care,0,0,3.4,22,0,1
+PHC-EB-3779,42,Female,Izzi,Routine Immunization,1,1,1.6,9,1,1
+PHC-EB-3780,47,Female,Abakaliki,Routine Immunization,0,0,6.8,12,1,0
+PHC-EB-3781,69,Female,Afikpo North,Routine Immunization,1,0,1.2,1,2,0
+PHC-EB-3782,45,Male,Afikpo North,Antenatal Care,1,0,3.5,10,1,1
+PHC-EB-3783,42,Female,Ebonyi,Antenatal Care,0,0,3.0,7,1,0
+PHC-EB-3784,20,Male,Ikwo,General Outpatient,0,0,5.3,0,0,0
+PHC-EB-3785,22,Female,Afikpo North,Routine Immunization,0,0,11.7,0,0,0
+PHC-EB-3786,46,Female,Ebonyi,Routine Immunization,1,0,13.7,0,1,1
+PHC-EB-3787,14,Female,Ebonyi,Antenatal Care,0,0,1.3,10,1,1
+PHC-EB-3788,24,Male,Afikpo North,Antenatal Care,0,0,1.9,1,2,1
+PHC-EB-3789,35,Female,Ebonyi,Routine Immunization,0,0,8.0,4,0,1
+PHC-EB-3790,74,Female,Abakaliki,General Outpatient,0,1,3.8,3,1,1
+PHC-EB-3791,50,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,3.2,6,1,1
+PHC-EB-3792,14,Female,Afikpo North,Routine Immunization,0,0,6.1,9,0,0
+PHC-EB-3793,67,Male,Ikwo,Routine Immunization,0,0,4.6,9,0,0
+PHC-EB-3794,20,Female,Abakaliki,General Outpatient,0,0,16.4,5,0,1
+PHC-EB-3795,12,Male,Abakaliki,Routine Immunization,0,0,4.4,4,0,1
+PHC-EB-3796,18,Female,Afikpo North,Routine Immunization,0,0,3.3,3,0,0
+PHC-EB-3797,33,Female,Izzi,Antenatal Care,0,0,4.0,15,0,1
+PHC-EB-3798,67,Male,Ebonyi,General Outpatient,1,0,7.9,3,0,0
+PHC-EB-3799,51,Female,Abakaliki,Routine Immunization,1,0,4.8,2,0,0
+PHC-EB-3800,26,Female,Izzi,General Outpatient,0,0,5.2,10,2,1
+PHC-EB-3801,28,Female,Ikwo,General Outpatient,0,0,16.5,3,0,1
+PHC-EB-3802,27,Female,Izzi,Antenatal Care,0,0,4.8,14,0,1
+PHC-EB-3803,34,Female,Afikpo North,General Outpatient,0,0,2.7,3,1,1
+PHC-EB-3804,7,Female,Ikwo,General Outpatient,0,0,5.8,9,0,1
+PHC-EB-3805,15,Female,Ikwo,Routine Immunization,0,0,5.3,0,0,1
+PHC-EB-3806,35,Female,Izzi,Antenatal Care,1,0,0.6,3,1,1
+PHC-EB-3807,29,Female,Afikpo North,Antenatal Care,0,0,3.3,3,0,1
+PHC-EB-3808,17,Female,Abakaliki,Routine Immunization,0,0,6.6,13,1,1
+PHC-EB-3809,1,Male,Izzi,Routine Immunization,0,0,3.6,26,2,0
+PHC-EB-3810,48,Male,Abakaliki,Routine Immunization,0,0,7.3,4,2,0
+PHC-EB-3811,3,Male,Izzi,Antenatal Care,0,0,3.2,13,2,1
+PHC-EB-3812,74,Female,Abakaliki,Chronic Disease (HTN/DM),0,1,18.9,9,0,1
+PHC-EB-3813,6,Female,Izzi,Antenatal Care,0,0,2.1,26,1,0
+PHC-EB-3814,73,Female,Ikwo,Antenatal Care,0,0,0.9,13,0,0
+PHC-EB-3815,38,Female,Ebonyi,Routine Immunization,0,0,3.0,0,0,1
+PHC-EB-3816,12,Female,Ikwo,Routine Immunization,0,0,4.0,9,1,1
+PHC-EB-3817,30,Female,Abakaliki,Antenatal Care,0,0,2.4,5,1,1
+PHC-EB-3818,70,Female,Afikpo North,Antenatal Care,1,0,1.7,0,0,0
+PHC-EB-3819,62,Male,Ikwo,Antenatal Care,0,0,5.5,2,0,1
+PHC-EB-3820,55,Female,Ebonyi,General Outpatient,0,0,2.6,19,0,1
+PHC-EB-3821,41,Female,Abakaliki,General Outpatient,0,0,5.0,20,3,0
+PHC-EB-3822,60,Female,Ikwo,Routine Immunization,0,0,7.3,12,1,1
+PHC-EB-3823,41,Female,Izzi,General Outpatient,1,0,6.9,31,0,1
+PHC-EB-3824,55,Male,Afikpo North,General Outpatient,1,0,2.6,12,0,0
+PHC-EB-3825,35,Female,Abakaliki,Antenatal Care,0,1,4.3,0,1,1
+PHC-EB-3826,67,Female,Ikwo,Chronic Disease (HTN/DM),1,0,3.2,2,0,0
+PHC-EB-3827,6,Female,Abakaliki,General Outpatient,0,0,9.7,0,1,0
+PHC-EB-3828,53,Female,Izzi,Antenatal Care,1,0,10.0,0,2,0
+PHC-EB-3829,0,Female,Ebonyi,Antenatal Care,0,0,2.4,1,0,1
+PHC-EB-3830,43,Male,Ikwo,Antenatal Care,0,0,0.9,5,1,1
+PHC-EB-3831,44,Male,Abakaliki,Antenatal Care,0,0,1.3,14,0,1
+PHC-EB-3832,46,Male,Abakaliki,General Outpatient,0,0,2.6,15,1,0
+PHC-EB-3833,12,Female,Abakaliki,Routine Immunization,0,0,4.2,7,0,1
+PHC-EB-3834,21,Male,Ebonyi,General Outpatient,0,0,5.3,20,1,1
+PHC-EB-3835,20,Female,Abakaliki,General Outpatient,0,0,2.3,5,0,0
+PHC-EB-3836,8,Female,Afikpo North,General Outpatient,0,0,5.5,17,0,1
+PHC-EB-3837,25,Male,Afikpo North,General Outpatient,0,0,13.0,4,0,1
+PHC-EB-3838,8,Female,Abakaliki,Antenatal Care,0,0,5.3,2,0,0
+PHC-EB-3839,14,Female,Afikpo North,Antenatal Care,0,0,1.3,19,2,1
+PHC-EB-3840,9,Male,Ikwo,General Outpatient,0,0,4.4,3,0,1
+PHC-EB-3841,41,Female,Afikpo North,Antenatal Care,0,0,4.0,5,0,0
+PHC-EB-3842,71,Female,Abakaliki,Antenatal Care,0,0,9.7,3,0,1
+PHC-EB-3843,23,Female,Izzi,Chronic Disease (HTN/DM),0,0,2.4,8,0,0
+PHC-EB-3844,48,Male,Ikwo,General Outpatient,0,0,3.0,41,0,1
+PHC-EB-3845,25,Male,Ebonyi,Antenatal Care,0,0,4.6,0,0,0
+PHC-EB-3846,36,Male,Abakaliki,General Outpatient,0,0,3.8,18,0,0
+PHC-EB-3847,67,Female,Ebonyi,General Outpatient,0,0,6.2,0,2,1
+PHC-EB-3848,49,Female,Izzi,Antenatal Care,1,0,0.7,3,0,0
+PHC-EB-3849,23,Female,Ebonyi,Antenatal Care,0,0,4.2,1,2,1
+PHC-EB-3850,18,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,1.1,11,2,1
+PHC-EB-3851,59,Female,Abakaliki,Routine Immunization,0,0,2.2,0,0,0
+PHC-EB-3852,38,Female,Izzi,Antenatal Care,0,0,5.4,6,0,1
+PHC-EB-3853,73,Female,Abakaliki,Routine Immunization,0,0,1.3,2,0,0
+PHC-EB-3854,17,Male,Izzi,General Outpatient,0,0,2.2,1,0,0
+PHC-EB-3855,18,Female,Izzi,Antenatal Care,0,0,6.0,11,2,0
+PHC-EB-3856,35,Female,Abakaliki,Antenatal Care,1,0,5.2,1,1,0
+PHC-EB-3857,73,Female,Afikpo North,Antenatal Care,0,0,0.9,1,0,1
+PHC-EB-3858,54,Male,Izzi,Chronic Disease (HTN/DM),1,0,4.4,2,0,0
+PHC-EB-3859,68,Male,Abakaliki,Antenatal Care,0,0,1.2,6,1,1
+PHC-EB-3860,46,Male,Afikpo North,Routine Immunization,0,0,1.8,8,0,1
+PHC-EB-3861,48,Male,Izzi,Chronic Disease (HTN/DM),0,0,3.3,0,0,1
+PHC-EB-3862,32,Female,Afikpo North,Antenatal Care,0,0,1.0,2,0,0
+PHC-EB-3863,20,Female,Ikwo,Chronic Disease (HTN/DM),0,0,23.3,4,1,1
+PHC-EB-3864,21,Female,Ikwo,Chronic Disease (HTN/DM),0,0,1.3,3,1,1
+PHC-EB-3865,47,Female,Afikpo North,Chronic Disease (HTN/DM),1,0,7.3,16,0,0
+PHC-EB-3866,36,Female,Izzi,Antenatal Care,0,0,8.5,12,1,1
+PHC-EB-3867,14,Female,Abakaliki,General Outpatient,0,0,23.9,7,1,1
+PHC-EB-3868,34,Male,Ebonyi,General Outpatient,0,0,3.0,3,1,0
+PHC-EB-3869,70,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,9.8,9,0,1
+PHC-EB-3870,31,Male,Ebonyi,Antenatal Care,0,0,14.7,14,1,0
+PHC-EB-3871,10,Male,Ebonyi,General Outpatient,0,0,1.4,7,1,0
+PHC-EB-3872,9,Male,Izzi,Routine Immunization,0,0,3.4,12,1,1
+PHC-EB-3873,72,Female,Afikpo North,Antenatal Care,0,0,0.8,10,1,0
+PHC-EB-3874,56,Female,Abakaliki,Routine Immunization,0,1,4.9,6,2,1
+PHC-EB-3875,24,Male,Afikpo North,General Outpatient,0,0,4.4,2,1,0
+PHC-EB-3876,1,Male,Ikwo,Routine Immunization,0,0,1.5,10,0,0
+PHC-EB-3877,63,Female,Izzi,Routine Immunization,0,1,7.7,1,0,1
+PHC-EB-3878,34,Male,Izzi,Chronic Disease (HTN/DM),0,0,0.7,11,1,0
+PHC-EB-3879,6,Female,Ikwo,Routine Immunization,0,0,7.9,12,1,1
+PHC-EB-3880,17,Female,Abakaliki,General Outpatient,0,0,0.6,13,0,1
+PHC-EB-3881,66,Male,Ikwo,Routine Immunization,0,0,5.3,5,1,0
+PHC-EB-3882,41,Female,Abakaliki,Routine Immunization,1,0,0.9,1,0,0
+PHC-EB-3883,38,Female,Ebonyi,General Outpatient,0,0,1.8,0,0,0
+PHC-EB-3884,40,Female,Izzi,Chronic Disease (HTN/DM),0,0,6.3,10,1,1
+PHC-EB-3885,74,Male,Abakaliki,Routine Immunization,0,0,2.0,17,0,1
+PHC-EB-3886,23,Female,Afikpo North,General Outpatient,0,0,3.7,8,1,0
+PHC-EB-3887,59,Male,Afikpo North,Antenatal Care,0,0,11.6,1,1,1
+PHC-EB-3888,45,Female,Izzi,Antenatal Care,1,0,0.7,21,0,1
+PHC-EB-3889,18,Female,Ikwo,Routine Immunization,0,0,8.0,35,2,1
+PHC-EB-3890,67,Male,Ikwo,Antenatal Care,0,1,0.8,4,1,0
+PHC-EB-3891,41,Female,Abakaliki,Antenatal Care,0,0,1.1,7,0,0
+PHC-EB-3892,31,Male,Ikwo,Routine Immunization,0,0,1.1,11,0,0
+PHC-EB-3893,38,Female,Izzi,Antenatal Care,1,0,23.6,10,3,1
+PHC-EB-3894,35,Male,Abakaliki,Antenatal Care,1,0,1.4,26,1,1
+PHC-EB-3895,35,Female,Ebonyi,Routine Immunization,0,0,10.7,0,1,0
+PHC-EB-3896,2,Female,Ikwo,Routine Immunization,0,0,21.7,6,1,0
+PHC-EB-3897,72,Female,Ikwo,Chronic Disease (HTN/DM),1,0,2.7,9,0,0
+PHC-EB-3898,7,Female,Abakaliki,General Outpatient,0,0,5.0,17,0,1
+PHC-EB-3899,69,Female,Afikpo North,Routine Immunization,0,0,7.3,16,0,1
+PHC-EB-3900,40,Female,Ikwo,Chronic Disease (HTN/DM),0,0,2.7,29,0,1
+PHC-EB-3901,67,Female,Izzi,General Outpatient,0,0,1.3,5,0,0
+PHC-EB-3902,12,Female,Ikwo,Antenatal Care,0,0,3.1,13,0,1
+PHC-EB-3903,48,Female,Ebonyi,Antenatal Care,0,0,7.2,4,2,0
+PHC-EB-3904,59,Male,Ikwo,General Outpatient,0,0,7.3,4,0,1
+PHC-EB-3905,1,Female,Afikpo North,Routine Immunization,0,0,1.7,2,0,0
+PHC-EB-3906,59,Male,Ikwo,General Outpatient,1,0,1.4,13,0,0
+PHC-EB-3907,4,Male,Abakaliki,General Outpatient,0,0,11.9,33,2,1
+PHC-EB-3908,43,Male,Ikwo,General Outpatient,0,0,0.7,2,1,0
+PHC-EB-3909,26,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,6.5,0,1,0
+PHC-EB-3910,31,Male,Abakaliki,Routine Immunization,0,0,0.7,13,0,0
+PHC-EB-3911,20,Male,Izzi,Antenatal Care,0,0,8.7,7,0,1
+PHC-EB-3912,7,Male,Abakaliki,General Outpatient,0,0,11.1,25,2,1
+PHC-EB-3913,71,Female,Ebonyi,Antenatal Care,0,0,2.1,2,0,0
+PHC-EB-3914,49,Male,Abakaliki,General Outpatient,0,0,0.8,0,0,0
+PHC-EB-3915,66,Male,Izzi,Chronic Disease (HTN/DM),0,0,3.4,5,2,1
+PHC-EB-3916,43,Female,Ikwo,General Outpatient,0,0,2.1,0,0,0
+PHC-EB-3917,57,Female,Abakaliki,Routine Immunization,1,0,2.9,2,1,0
+PHC-EB-3918,2,Female,Abakaliki,Routine Immunization,0,0,5.4,1,2,1
+PHC-EB-3919,69,Male,Abakaliki,Routine Immunization,0,0,1.6,1,0,0
+PHC-EB-3920,1,Female,Abakaliki,Routine Immunization,0,0,2.5,0,0,0
+PHC-EB-3921,43,Male,Izzi,General Outpatient,0,0,7.4,24,0,1
+PHC-EB-3922,1,Female,Afikpo North,General Outpatient,0,0,5.1,2,1,1
+PHC-EB-3923,34,Female,Afikpo North,General Outpatient,0,0,2.3,4,2,0
+PHC-EB-3924,29,Female,Abakaliki,Antenatal Care,0,0,5.4,17,3,1
+PHC-EB-3925,7,Female,Izzi,Routine Immunization,0,0,7.0,8,1,1
+PHC-EB-3926,21,Male,Izzi,General Outpatient,0,0,4.5,7,0,0
+PHC-EB-3927,43,Male,Abakaliki,Routine Immunization,1,0,1.7,9,2,1
+PHC-EB-3928,57,Male,Ebonyi,Routine Immunization,0,0,0.5,13,0,0
+PHC-EB-3929,35,Female,Abakaliki,General Outpatient,0,0,7.8,16,1,0
+PHC-EB-3930,68,Male,Ebonyi,General Outpatient,0,0,8.3,8,1,0
+PHC-EB-3931,30,Female,Abakaliki,Routine Immunization,0,0,5.9,17,1,1
+PHC-EB-3932,46,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,0.9,5,0,0
+PHC-EB-3933,54,Female,Ebonyi,Antenatal Care,0,0,4.5,2,0,0
+PHC-EB-3934,61,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,8.2,16,0,1
+PHC-EB-3935,29,Male,Ebonyi,Antenatal Care,0,0,2.7,6,2,0
+PHC-EB-3936,54,Male,Ikwo,Antenatal Care,0,0,1.5,18,0,1
+PHC-EB-3937,15,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,4.5,0,0,0
+PHC-EB-3938,11,Male,Izzi,Antenatal Care,0,0,8.4,3,1,0
+PHC-EB-3939,16,Female,Ebonyi,General Outpatient,0,0,0.7,23,0,1
+PHC-EB-3940,15,Female,Ebonyi,General Outpatient,0,0,4.6,2,0,1
+PHC-EB-3941,11,Female,Izzi,Chronic Disease (HTN/DM),0,0,5.1,22,0,0
+PHC-EB-3942,7,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,4.7,24,0,0
+PHC-EB-3943,2,Female,Izzi,Antenatal Care,0,0,5.2,16,0,1
+PHC-EB-3944,15,Female,Abakaliki,General Outpatient,0,0,5.0,6,1,1
+PHC-EB-3945,29,Male,Ikwo,Antenatal Care,0,0,1.1,8,0,1
+PHC-EB-3946,22,Male,Ikwo,Routine Immunization,0,0,1.7,15,1,0
+PHC-EB-3947,4,Female,Afikpo North,General Outpatient,0,0,4.8,11,1,1
+PHC-EB-3948,64,Male,Ebonyi,Routine Immunization,1,0,0.6,7,2,1
+PHC-EB-3949,29,Female,Afikpo North,Routine Immunization,0,0,5.0,31,1,1
+PHC-EB-3950,20,Female,Abakaliki,Routine Immunization,0,0,5.4,9,1,1
+PHC-EB-3951,69,Male,Ikwo,General Outpatient,0,0,1.7,29,0,1
+PHC-EB-3952,21,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,4.6,0,1,0
+PHC-EB-3953,71,Female,Abakaliki,Antenatal Care,1,0,3.9,1,0,1
+PHC-EB-3954,31,Female,Ebonyi,Routine Immunization,0,0,1.9,4,0,0
+PHC-EB-3955,32,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,3.3,3,1,1
+PHC-EB-3956,15,Male,Ikwo,Routine Immunization,0,0,11.3,11,0,1
+PHC-EB-3957,37,Female,Afikpo North,Antenatal Care,1,0,3.0,1,1,0
+PHC-EB-3958,13,Female,Ikwo,Routine Immunization,0,0,5.0,29,0,0
+PHC-EB-3959,35,Female,Ebonyi,Routine Immunization,0,0,0.7,2,0,0
+PHC-EB-3960,22,Male,Ikwo,Antenatal Care,0,0,0.9,4,0,1
+PHC-EB-3961,65,Female,Izzi,General Outpatient,0,0,0.9,2,0,0
+PHC-EB-3962,1,Male,Afikpo North,Routine Immunization,0,0,7.3,6,1,1
+PHC-EB-3963,72,Female,Izzi,Chronic Disease (HTN/DM),0,0,2.4,0,0,0
+PHC-EB-3964,64,Female,Izzi,General Outpatient,0,0,1.7,1,0,1
+PHC-EB-3965,74,Female,Ebonyi,General Outpatient,0,0,6.7,10,0,0
+PHC-EB-3966,66,Female,Abakaliki,Antenatal Care,1,0,1.3,1,1,1
+PHC-EB-3967,51,Female,Izzi,Routine Immunization,0,0,1.8,2,0,1
+PHC-EB-3968,61,Female,Ikwo,Antenatal Care,0,1,3.0,12,0,0
+PHC-EB-3969,22,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,2.3,0,1,1
+PHC-EB-3970,25,Female,Ikwo,Antenatal Care,0,0,4.5,4,0,0
+PHC-EB-3971,67,Male,Ikwo,Antenatal Care,0,0,2.4,0,1,0
+PHC-EB-3972,54,Female,Abakaliki,Routine Immunization,1,0,2.7,3,2,0
+PHC-EB-3973,5,Female,Abakaliki,Antenatal Care,0,0,9.4,9,0,1
+PHC-EB-3974,34,Female,Ikwo,Antenatal Care,0,0,10.2,0,3,1
+PHC-EB-3975,21,Male,Ebonyi,Routine Immunization,0,0,8.4,17,0,1
+PHC-EB-3976,42,Female,Afikpo North,Antenatal Care,0,1,9.5,18,1,1
+PHC-EB-3977,14,Female,Afikpo North,Antenatal Care,0,0,4.3,0,1,1
+PHC-EB-3978,59,Female,Ebonyi,Routine Immunization,0,0,5.2,36,1,1
+PHC-EB-3979,11,Female,Abakaliki,General Outpatient,0,0,4.2,2,0,1
+PHC-EB-3980,48,Female,Ikwo,Routine Immunization,0,0,7.4,0,1,0
+PHC-EB-3981,41,Female,Afikpo North,Routine Immunization,1,0,4.1,0,0,1
+PHC-EB-3982,37,Female,Ikwo,Routine Immunization,1,0,1.0,4,0,0
+PHC-EB-3983,44,Female,Ebonyi,Routine Immunization,0,0,8.0,7,2,1
+PHC-EB-3984,34,Male,Ikwo,Chronic Disease (HTN/DM),0,0,6.9,3,0,0
+PHC-EB-3985,29,Female,Ebonyi,Antenatal Care,0,0,8.2,14,0,1
+PHC-EB-3986,29,Female,Abakaliki,General Outpatient,0,0,1.5,9,1,1
+PHC-EB-3987,5,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,1.9,3,0,1
+PHC-EB-3988,66,Male,Ebonyi,General Outpatient,0,0,2.1,10,0,1
+PHC-EB-3989,6,Female,Afikpo North,Antenatal Care,0,0,3.7,22,1,1
+PHC-EB-3990,51,Female,Ikwo,Antenatal Care,1,1,1.1,0,0,0
+PHC-EB-3991,13,Female,Afikpo North,General Outpatient,0,0,2.7,2,0,0
+PHC-EB-3992,72,Female,Izzi,Antenatal Care,0,0,1.4,4,1,1
+PHC-EB-3993,14,Female,Ebonyi,General Outpatient,0,0,1.9,5,0,0
+PHC-EB-3994,20,Male,Izzi,General Outpatient,0,0,6.0,6,0,1
+PHC-EB-3995,34,Male,Afikpo North,General Outpatient,0,0,9.2,2,0,0
+PHC-EB-3996,65,Female,Ikwo,Antenatal Care,0,0,0.6,8,1,1
+PHC-EB-3997,1,Female,Afikpo North,General Outpatient,0,0,4.3,8,1,0
+PHC-EB-3998,34,Female,Ikwo,General Outpatient,0,0,0.7,6,0,0
+PHC-EB-3999,19,Female,Ikwo,General Outpatient,0,0,0.9,0,1,0
+PHC-EB-4000,9,Female,Abakaliki,Antenatal Care,0,0,6.0,5,2,1
+PHC-EB-4001,24,Female,Ebonyi,Antenatal Care,0,0,6.5,3,0,1
+PHC-EB-4002,65,Male,Afikpo North,Routine Immunization,0,0,8.1,5,1,1
+PHC-EB-4003,24,Female,Ikwo,Antenatal Care,0,0,3.4,19,1,1
+PHC-EB-4004,53,Female,Afikpo North,Routine Immunization,1,0,9.3,5,1,1
+PHC-EB-4005,32,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,1.3,0,1,1
+PHC-EB-4006,35,Female,Ikwo,Routine Immunization,0,0,1.8,4,1,0
+PHC-EB-4007,13,Female,Izzi,General Outpatient,0,0,1.2,13,0,0
+PHC-EB-4008,64,Male,Ebonyi,Antenatal Care,1,0,7.7,11,0,0
+PHC-EB-4009,53,Female,Ebonyi,Antenatal Care,1,0,1.7,5,0,1
+PHC-EB-4010,51,Male,Abakaliki,Antenatal Care,1,0,1.3,2,0,0
+PHC-EB-4011,2,Male,Abakaliki,Routine Immunization,0,0,4.9,4,0,0
+PHC-EB-4012,40,Male,Abakaliki,Chronic Disease (HTN/DM),1,0,0.9,6,2,1
+PHC-EB-4013,5,Female,Ebonyi,Antenatal Care,0,0,0.7,70,1,1
+PHC-EB-4014,24,Female,Izzi,General Outpatient,0,0,1.0,8,0,0
+PHC-EB-4015,12,Female,Ebonyi,Routine Immunization,0,0,0.5,9,1,0
+PHC-EB-4016,7,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,5.9,5,1,1
+PHC-EB-4017,20,Female,Ebonyi,Antenatal Care,0,0,4.2,3,0,0
+PHC-EB-4018,67,Male,Ebonyi,Antenatal Care,0,0,1.6,13,0,1
+PHC-EB-4019,24,Female,Izzi,Antenatal Care,0,0,1.7,5,2,0
+PHC-EB-4020,67,Female,Abakaliki,Routine Immunization,0,0,8.0,40,1,1
+PHC-EB-4021,44,Female,Afikpo North,Antenatal Care,1,1,3.6,4,1,0
+PHC-EB-4022,59,Female,Abakaliki,Chronic Disease (HTN/DM),0,1,5.9,0,0,1
+PHC-EB-4023,11,Female,Abakaliki,General Outpatient,0,0,3.2,8,1,1
+PHC-EB-4024,31,Male,Afikpo North,General Outpatient,0,0,1.7,0,0,0
+PHC-EB-4025,12,Male,Ebonyi,Routine Immunization,0,0,16.3,2,2,1
+PHC-EB-4026,30,Male,Izzi,Antenatal Care,0,0,4.3,3,0,0
+PHC-EB-4027,19,Male,Izzi,Routine Immunization,0,0,1.1,10,0,0
+PHC-EB-4028,17,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,2.8,5,1,0
+PHC-EB-4029,59,Female,Afikpo North,General Outpatient,0,0,2.3,0,0,0
+PHC-EB-4030,62,Male,Ikwo,Chronic Disease (HTN/DM),1,0,1.6,7,2,1
+PHC-EB-4031,5,Female,Ebonyi,General Outpatient,0,0,12.7,4,1,1
+PHC-EB-4032,31,Female,Abakaliki,Antenatal Care,0,0,10.1,19,0,0
+PHC-EB-4033,42,Male,Izzi,Antenatal Care,0,1,1.5,5,0,0
+PHC-EB-4034,1,Female,Afikpo North,Antenatal Care,0,0,2.5,9,1,1
+PHC-EB-4035,59,Female,Afikpo North,Antenatal Care,0,0,7.0,1,2,1
+PHC-EB-4036,22,Female,Abakaliki,Antenatal Care,0,0,1.6,11,0,1
+PHC-EB-4037,30,Female,Ikwo,Routine Immunization,0,0,4.5,9,0,0
+PHC-EB-4038,4,Male,Izzi,General Outpatient,0,0,5.9,18,0,0
+PHC-EB-4039,33,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,5.3,0,1,0
+PHC-EB-4040,9,Female,Ikwo,General Outpatient,0,0,6.0,4,1,1
+PHC-EB-4041,1,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,6.0,8,0,1
+PHC-EB-4042,10,Female,Ebonyi,Antenatal Care,0,0,15.6,0,0,0
+PHC-EB-4043,49,Male,Izzi,Antenatal Care,0,0,2.4,4,1,0
+PHC-EB-4044,30,Female,Izzi,General Outpatient,0,0,10.0,22,0,1
+PHC-EB-4045,55,Female,Ikwo,Antenatal Care,0,0,0.6,4,3,1
+PHC-EB-4046,72,Male,Abakaliki,Antenatal Care,0,0,2.0,33,0,1
+PHC-EB-4047,8,Male,Afikpo North,Routine Immunization,0,0,0.7,0,2,1
+PHC-EB-4048,20,Male,Ikwo,Antenatal Care,0,0,5.2,9,0,0
+PHC-EB-4049,72,Male,Ebonyi,Routine Immunization,1,0,1.0,6,0,0
+PHC-EB-4050,27,Female,Ebonyi,Routine Immunization,0,0,8.9,5,0,1
+PHC-EB-4051,61,Female,Ebonyi,Routine Immunization,0,1,5.2,27,1,1
+PHC-EB-4052,6,Female,Ikwo,General Outpatient,0,0,0.6,1,1,0
+PHC-EB-4053,15,Male,Afikpo North,Routine Immunization,0,0,6.1,17,1,1
+PHC-EB-4054,3,Female,Izzi,Antenatal Care,0,0,9.4,9,1,1
+PHC-EB-4055,3,Female,Abakaliki,Antenatal Care,0,0,5.4,2,1,1
+PHC-EB-4056,39,Female,Izzi,Routine Immunization,0,0,0.6,18,0,1
+PHC-EB-4057,16,Female,Afikpo North,General Outpatient,0,0,9.3,4,1,1
+PHC-EB-4058,51,Female,Izzi,General Outpatient,1,0,6.4,13,3,1
+PHC-EB-4059,51,Male,Ikwo,General Outpatient,0,0,2.6,3,0,0
+PHC-EB-4060,35,Female,Ebonyi,Antenatal Care,1,0,2.3,14,1,0
+PHC-EB-4061,37,Male,Afikpo North,Routine Immunization,0,0,3.4,7,0,1
+PHC-EB-4062,49,Male,Afikpo North,Routine Immunization,0,0,9.6,1,1,0
+PHC-EB-4063,62,Female,Izzi,Routine Immunization,1,0,1.8,8,2,1
+PHC-EB-4064,62,Female,Ikwo,Routine Immunization,0,0,1.0,1,0,0
+PHC-EB-4065,61,Female,Izzi,Routine Immunization,0,0,9.5,4,0,1
+PHC-EB-4066,6,Female,Izzi,Routine Immunization,0,0,0.6,1,0,0
+PHC-EB-4067,26,Male,Afikpo North,General Outpatient,0,0,11.4,0,0,1
+PHC-EB-4068,13,Female,Izzi,Antenatal Care,0,0,2.1,1,0,0
+PHC-EB-4069,70,Female,Ebonyi,General Outpatient,0,0,3.7,6,0,0
+PHC-EB-4070,4,Female,Izzi,Antenatal Care,0,0,1.1,5,0,1
+PHC-EB-4071,54,Male,Ebonyi,Antenatal Care,0,1,11.0,5,1,0
+PHC-EB-4072,1,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,6.7,2,0,0
+PHC-EB-4073,61,Male,Ikwo,Chronic Disease (HTN/DM),1,1,12.1,9,0,0
+PHC-EB-4074,20,Male,Ebonyi,Antenatal Care,0,0,5.7,9,2,1
+PHC-EB-4075,20,Female,Ikwo,Routine Immunization,0,0,1.4,3,1,0
+PHC-EB-4076,9,Male,Ikwo,Antenatal Care,0,0,2.2,16,0,0
+PHC-EB-4077,57,Female,Ebonyi,Routine Immunization,0,0,3.5,8,2,0
+PHC-EB-4078,38,Male,Afikpo North,General Outpatient,0,0,4.7,9,3,1
+PHC-EB-4079,4,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,12.2,2,1,1
+PHC-EB-4080,64,Female,Ikwo,General Outpatient,1,0,2.7,0,0,1
+PHC-EB-4081,12,Male,Ikwo,Routine Immunization,0,0,6.0,15,0,1
+PHC-EB-4082,52,Male,Afikpo North,General Outpatient,0,0,15.1,13,3,1
+PHC-EB-4083,44,Female,Afikpo North,Antenatal Care,0,1,1.2,1,1,1
+PHC-EB-4084,31,Male,Izzi,Chronic Disease (HTN/DM),0,0,9.4,3,0,0
+PHC-EB-4085,35,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,3.0,8,1,0
+PHC-EB-4086,59,Female,Ikwo,Routine Immunization,1,0,6.4,8,1,1
+PHC-EB-4087,10,Female,Ebonyi,Routine Immunization,0,0,2.1,15,0,0
+PHC-EB-4088,62,Female,Abakaliki,Antenatal Care,0,0,2.3,1,1,1
+PHC-EB-4089,20,Male,Izzi,Antenatal Care,0,0,0.6,4,0,1
+PHC-EB-4090,51,Male,Ebonyi,General Outpatient,0,0,16.5,0,0,1
+PHC-EB-4091,54,Male,Abakaliki,Routine Immunization,1,0,8.1,3,3,1
+PHC-EB-4092,25,Female,Abakaliki,Routine Immunization,0,0,0.9,0,2,1
+PHC-EB-4093,67,Male,Abakaliki,Routine Immunization,0,1,34.8,17,0,1
+PHC-EB-4094,33,Female,Ebonyi,General Outpatient,0,0,4.7,5,0,0
+PHC-EB-4095,51,Male,Izzi,Antenatal Care,0,1,9.2,14,1,1
+PHC-EB-4096,51,Female,Izzi,Chronic Disease (HTN/DM),1,0,0.8,0,0,0
+PHC-EB-4097,28,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,2.7,2,1,1
+PHC-EB-4098,37,Male,Ebonyi,Chronic Disease (HTN/DM),1,0,5.5,2,2,0
+PHC-EB-4099,41,Female,Abakaliki,Routine Immunization,0,0,1.0,3,2,1
+PHC-EB-4100,20,Female,Afikpo North,Antenatal Care,0,0,3.5,12,2,1
+PHC-EB-4101,41,Female,Izzi,Routine Immunization,1,0,3.1,3,0,1
+PHC-EB-4102,12,Female,Ikwo,Routine Immunization,0,0,1.6,1,0,0
+PHC-EB-4103,63,Female,Abakaliki,Antenatal Care,1,0,2.1,0,0,0
+PHC-EB-4104,16,Female,Afikpo North,General Outpatient,0,0,15.9,0,0,1
+PHC-EB-4105,8,Female,Izzi,Routine Immunization,0,0,2.0,11,1,1
+PHC-EB-4106,40,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,1.6,4,1,0
+PHC-EB-4107,0,Male,Izzi,Antenatal Care,0,0,4.0,10,0,1
+PHC-EB-4108,1,Female,Ebonyi,General Outpatient,0,0,5.5,8,2,1
+PHC-EB-4109,59,Male,Ebonyi,General Outpatient,0,0,6.3,1,0,0
+PHC-EB-4110,47,Male,Abakaliki,General Outpatient,0,0,6.8,1,1,1
+PHC-EB-4111,28,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,0.7,11,0,0
+PHC-EB-4112,9,Male,Izzi,General Outpatient,0,0,2.8,9,0,1
+PHC-EB-4113,57,Male,Afikpo North,Chronic Disease (HTN/DM),1,0,7.2,3,1,0
+PHC-EB-4114,59,Male,Izzi,Routine Immunization,0,1,11.1,0,1,1
+PHC-EB-4115,20,Female,Ikwo,Routine Immunization,0,0,4.6,0,1,0
+PHC-EB-4116,27,Female,Ebonyi,Antenatal Care,0,0,0.7,2,0,1
+PHC-EB-4117,74,Male,Ebonyi,Antenatal Care,1,1,2.8,0,0,0
+PHC-EB-4118,33,Male,Abakaliki,Antenatal Care,0,0,0.8,2,0,1
+PHC-EB-4119,7,Male,Afikpo North,Antenatal Care,0,0,6.7,4,1,1
+PHC-EB-4120,58,Female,Abakaliki,Antenatal Care,1,1,0.8,1,3,0
+PHC-EB-4121,71,Male,Ikwo,Antenatal Care,0,0,1.4,0,1,1
+PHC-EB-4122,48,Male,Izzi,Antenatal Care,1,0,2.9,17,1,1
+PHC-EB-4123,16,Female,Izzi,Chronic Disease (HTN/DM),0,0,3.3,6,1,0
+PHC-EB-4124,59,Female,Afikpo North,Antenatal Care,0,0,2.8,21,3,1
+PHC-EB-4125,44,Female,Abakaliki,General Outpatient,0,0,3.3,3,0,0
+PHC-EB-4126,68,Male,Abakaliki,Antenatal Care,0,0,6.1,8,0,0
+PHC-EB-4127,31,Male,Ikwo,Chronic Disease (HTN/DM),0,0,2.6,1,2,0
+PHC-EB-4128,43,Male,Izzi,Chronic Disease (HTN/DM),0,0,4.1,7,0,0
+PHC-EB-4129,64,Female,Abakaliki,General Outpatient,0,0,2.1,1,0,1
+PHC-EB-4130,7,Female,Afikpo North,General Outpatient,0,0,2.5,0,0,0
+PHC-EB-4131,71,Female,Izzi,Antenatal Care,0,0,4.8,20,0,1
+PHC-EB-4132,42,Female,Ikwo,Chronic Disease (HTN/DM),0,0,3.5,6,0,0
+PHC-EB-4133,0,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,6.3,20,0,1
+PHC-EB-4134,50,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,4.2,3,0,1
+PHC-EB-4135,23,Male,Ikwo,General Outpatient,0,0,7.8,3,1,1
+PHC-EB-4136,23,Male,Afikpo North,Routine Immunization,0,0,3.1,4,2,0
+PHC-EB-4137,16,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,3.5,9,2,1
+PHC-EB-4138,4,Female,Ebonyi,Antenatal Care,0,0,5.5,6,0,1
+PHC-EB-4139,19,Male,Ikwo,Routine Immunization,0,0,1.6,20,0,1
+PHC-EB-4140,20,Male,Abakaliki,Antenatal Care,0,0,2.7,0,1,0
+PHC-EB-4141,57,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,4.9,9,0,1
+PHC-EB-4142,30,Female,Izzi,Antenatal Care,0,0,0.6,3,1,0
+PHC-EB-4143,10,Female,Abakaliki,Antenatal Care,0,0,3.1,1,1,0
+PHC-EB-4144,51,Female,Afikpo North,Routine Immunization,1,0,4.6,5,1,0
+PHC-EB-4145,14,Female,Ikwo,General Outpatient,0,0,15.9,5,0,0
+PHC-EB-4146,6,Female,Ebonyi,General Outpatient,0,0,9.9,1,0,0
+PHC-EB-4147,27,Female,Abakaliki,Antenatal Care,0,0,2.0,1,1,1
+PHC-EB-4148,50,Female,Izzi,Antenatal Care,0,0,3.7,4,2,1
+PHC-EB-4149,57,Male,Ikwo,General Outpatient,1,0,0.8,4,0,0
+PHC-EB-4150,4,Female,Ikwo,Chronic Disease (HTN/DM),0,0,1.7,2,2,1
+PHC-EB-4151,4,Male,Abakaliki,General Outpatient,0,0,7.2,1,3,1
+PHC-EB-4152,7,Male,Izzi,Routine Immunization,0,0,1.1,0,1,0
+PHC-EB-4153,63,Male,Ebonyi,Chronic Disease (HTN/DM),1,0,1.8,27,0,0
+PHC-EB-4154,9,Female,Abakaliki,Routine Immunization,0,0,13.5,22,0,1
+PHC-EB-4155,37,Male,Ebonyi,Routine Immunization,0,0,8.3,5,0,1
+PHC-EB-4156,7,Female,Ikwo,Routine Immunization,0,0,7.4,41,1,1
+PHC-EB-4157,24,Male,Ebonyi,Routine Immunization,0,0,9.5,8,0,0
+PHC-EB-4158,72,Male,Izzi,General Outpatient,0,1,6.7,0,0,1
+PHC-EB-4159,65,Female,Afikpo North,Routine Immunization,1,0,1.1,0,0,1
+PHC-EB-4160,49,Female,Izzi,Antenatal Care,0,0,3.8,19,2,0
+PHC-EB-4161,66,Female,Ebonyi,Antenatal Care,1,0,3.1,7,1,0
+PHC-EB-4162,48,Female,Abakaliki,Antenatal Care,0,0,2.2,14,2,1
+PHC-EB-4163,35,Female,Ikwo,Routine Immunization,0,0,8.6,17,1,0
+PHC-EB-4164,67,Female,Afikpo North,Antenatal Care,1,0,3.3,4,0,1
+PHC-EB-4165,40,Female,Abakaliki,Antenatal Care,0,0,0.8,0,2,0
+PHC-EB-4166,61,Female,Abakaliki,General Outpatient,0,0,1.9,1,2,1
+PHC-EB-4167,9,Female,Izzi,General Outpatient,0,0,1.7,0,0,0
+PHC-EB-4168,20,Female,Ebonyi,General Outpatient,0,0,10.3,1,1,1
+PHC-EB-4169,35,Female,Izzi,Routine Immunization,1,0,5.2,4,0,1
+PHC-EB-4170,11,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,4.2,0,2,1
+PHC-EB-4171,1,Female,Izzi,Chronic Disease (HTN/DM),0,0,3.7,1,1,0
+PHC-EB-4172,12,Female,Abakaliki,General Outpatient,0,0,5.2,4,0,0
+PHC-EB-4173,52,Male,Ikwo,General Outpatient,0,1,6.8,3,2,1
+PHC-EB-4174,31,Female,Ebonyi,Antenatal Care,0,0,4.1,4,1,0
+PHC-EB-4175,15,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,13.0,4,0,1
+PHC-EB-4176,31,Female,Afikpo North,Antenatal Care,0,0,17.4,8,0,1
+PHC-EB-4177,31,Male,Abakaliki,Antenatal Care,0,0,24.7,21,0,1
+PHC-EB-4178,10,Male,Izzi,Routine Immunization,0,0,5.5,0,1,0
+PHC-EB-4179,9,Male,Izzi,Antenatal Care,0,0,12.6,0,0,0
+PHC-EB-4180,14,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,2.8,14,0,1
+PHC-EB-4181,16,Female,Afikpo North,Routine Immunization,0,0,9.3,5,0,0
+PHC-EB-4182,39,Female,Afikpo North,Routine Immunization,0,0,11.3,11,1,1
+PHC-EB-4183,17,Female,Izzi,General Outpatient,0,0,11.1,1,0,1
+PHC-EB-4184,54,Male,Ebonyi,Routine Immunization,0,1,8.5,13,1,1
+PHC-EB-4185,72,Male,Ikwo,Antenatal Care,0,0,2.8,20,0,1
+PHC-EB-4186,24,Male,Ebonyi,General Outpatient,0,0,1.3,7,2,1
+PHC-EB-4187,58,Female,Afikpo North,General Outpatient,0,0,2.3,0,0,1
+PHC-EB-4188,21,Male,Ebonyi,Routine Immunization,0,0,7.1,17,0,1
+PHC-EB-4189,29,Female,Ikwo,General Outpatient,0,0,1.7,12,1,0
+PHC-EB-4190,43,Female,Ebonyi,Antenatal Care,0,1,3.4,10,0,1
+PHC-EB-4191,31,Female,Ebonyi,Antenatal Care,0,0,4.2,0,0,1
+PHC-EB-4192,50,Female,Ebonyi,Antenatal Care,0,0,4.7,12,1,1
+PHC-EB-4193,45,Female,Ebonyi,Routine Immunization,0,0,12.9,1,0,1
+PHC-EB-4194,20,Male,Abakaliki,General Outpatient,0,0,5.4,1,0,0
+PHC-EB-4195,31,Female,Afikpo North,General Outpatient,0,0,7.4,6,2,1
+PHC-EB-4196,38,Female,Ikwo,Routine Immunization,1,1,4.4,2,0,0
+PHC-EB-4197,11,Female,Afikpo North,Routine Immunization,0,0,8.6,8,0,0
+PHC-EB-4198,46,Female,Abakaliki,General Outpatient,0,0,1.9,7,0,0
+PHC-EB-4199,17,Male,Abakaliki,Antenatal Care,0,0,1.6,0,1,1
+PHC-EB-4200,20,Male,Abakaliki,Antenatal Care,0,0,12.2,8,1,1
+PHC-EB-4201,12,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,5.8,20,1,0
+PHC-EB-4202,20,Male,Ebonyi,General Outpatient,0,0,5.5,1,0,1
+PHC-EB-4203,7,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,3.3,7,0,1
+PHC-EB-4204,45,Female,Izzi,Routine Immunization,1,0,2.6,3,1,0
+PHC-EB-4205,6,Male,Ikwo,General Outpatient,0,0,4.2,4,0,1
+PHC-EB-4206,22,Female,Abakaliki,Antenatal Care,0,0,1.1,2,2,0
+PHC-EB-4207,74,Female,Afikpo North,Antenatal Care,0,0,3.2,3,0,0
+PHC-EB-4208,21,Female,Abakaliki,Routine Immunization,0,0,3.2,0,0,0
+PHC-EB-4209,21,Male,Abakaliki,Antenatal Care,0,0,4.0,31,0,1
+PHC-EB-4210,28,Male,Abakaliki,Antenatal Care,0,0,5.0,7,0,0
+PHC-EB-4211,12,Female,Abakaliki,Antenatal Care,0,0,14.7,5,0,0
+PHC-EB-4212,1,Male,Abakaliki,Antenatal Care,0,0,5.3,3,2,1
+PHC-EB-4213,28,Male,Ikwo,General Outpatient,0,0,10.2,6,0,0
+PHC-EB-4214,51,Female,Afikpo North,Routine Immunization,0,1,4.2,3,0,0
+PHC-EB-4215,26,Female,Abakaliki,Antenatal Care,0,0,4.9,3,0,0
+PHC-EB-4216,49,Male,Abakaliki,Antenatal Care,0,1,0.8,4,1,0
+PHC-EB-4217,22,Female,Abakaliki,Antenatal Care,0,0,1.1,2,0,1
+PHC-EB-4218,43,Male,Abakaliki,General Outpatient,0,0,4.4,1,1,0
+PHC-EB-4219,21,Female,Ebonyi,Antenatal Care,0,0,2.8,6,1,0
+PHC-EB-4220,42,Female,Ebonyi,General Outpatient,0,0,7.7,14,0,0
+PHC-EB-4221,36,Male,Izzi,Antenatal Care,0,0,4.0,1,1,0
+PHC-EB-4222,60,Male,Abakaliki,Antenatal Care,0,0,10.1,0,0,0
+PHC-EB-4223,55,Male,Izzi,Chronic Disease (HTN/DM),0,0,16.6,2,0,1
+PHC-EB-4224,2,Male,Ikwo,General Outpatient,0,0,1.2,30,2,1
+PHC-EB-4225,62,Male,Izzi,Antenatal Care,0,0,2.8,13,1,1
+PHC-EB-4226,18,Male,Afikpo North,General Outpatient,0,0,5.4,7,0,0
+PHC-EB-4227,22,Female,Ebonyi,Routine Immunization,0,0,2.1,20,0,1
+PHC-EB-4228,28,Female,Ebonyi,General Outpatient,0,0,1.9,4,1,0
+PHC-EB-4229,29,Female,Abakaliki,General Outpatient,0,0,8.1,32,3,1
+PHC-EB-4230,38,Male,Abakaliki,General Outpatient,0,0,18.2,2,0,0
+PHC-EB-4231,24,Female,Ikwo,Chronic Disease (HTN/DM),0,0,7.2,2,0,1
+PHC-EB-4232,7,Female,Ikwo,Antenatal Care,0,0,3.8,7,0,1
+PHC-EB-4233,57,Female,Afikpo North,General Outpatient,0,1,3.1,3,1,1
+PHC-EB-4234,15,Male,Abakaliki,Routine Immunization,0,0,4.0,7,3,1
+PHC-EB-4235,71,Male,Abakaliki,Antenatal Care,0,0,3.3,2,0,1
+PHC-EB-4236,0,Female,Ikwo,Antenatal Care,0,0,3.6,7,0,1
+PHC-EB-4237,4,Male,Ikwo,Antenatal Care,0,0,1.5,2,0,0
+PHC-EB-4238,2,Female,Ikwo,General Outpatient,0,0,11.0,0,0,1
+PHC-EB-4239,64,Female,Ebonyi,Routine Immunization,1,1,6.8,19,0,1
+PHC-EB-4240,3,Male,Izzi,Routine Immunization,0,0,5.6,16,1,1
+PHC-EB-4241,63,Female,Izzi,Antenatal Care,1,0,14.0,27,0,1
+PHC-EB-4242,9,Male,Abakaliki,Routine Immunization,0,0,2.0,9,2,0
+PHC-EB-4243,20,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,0.9,8,0,0
+PHC-EB-4244,45,Female,Ikwo,Routine Immunization,0,1,8.4,6,2,1
+PHC-EB-4245,26,Male,Abakaliki,General Outpatient,0,0,29.5,1,0,1
+PHC-EB-4246,65,Female,Ebonyi,General Outpatient,1,0,4.4,1,1,1
+PHC-EB-4247,40,Male,Afikpo North,General Outpatient,1,0,0.8,2,1,0
+PHC-EB-4248,12,Male,Ebonyi,Routine Immunization,0,0,7.3,17,2,1
+PHC-EB-4249,8,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,0.8,1,1,1
+PHC-EB-4250,35,Female,Izzi,Routine Immunization,1,1,4.0,20,0,1
+PHC-EB-4251,57,Female,Ikwo,Chronic Disease (HTN/DM),0,1,2.0,5,0,0
+PHC-EB-4252,53,Female,Afikpo North,Antenatal Care,0,0,11.6,9,1,1
+PHC-EB-4253,11,Female,Ebonyi,Antenatal Care,0,0,3.2,0,1,1
+PHC-EB-4254,13,Female,Abakaliki,Antenatal Care,0,0,10.8,2,2,1
+PHC-EB-4255,33,Female,Abakaliki,General Outpatient,0,0,2.1,24,0,1
+PHC-EB-4256,52,Female,Ikwo,Routine Immunization,0,0,2.7,2,0,0
+PHC-EB-4257,19,Male,Abakaliki,Antenatal Care,0,0,13.7,2,1,1
+PHC-EB-4258,74,Male,Abakaliki,Antenatal Care,0,0,1.5,1,0,1
+PHC-EB-4259,15,Male,Ikwo,Chronic Disease (HTN/DM),0,0,4.4,1,1,0
+PHC-EB-4260,69,Female,Afikpo North,General Outpatient,0,0,2.7,2,1,1
+PHC-EB-4261,55,Male,Izzi,Routine Immunization,0,0,7.2,8,0,0
+PHC-EB-4262,57,Female,Izzi,General Outpatient,0,0,1.1,4,0,1
+PHC-EB-4263,3,Male,Ebonyi,Routine Immunization,0,0,3.1,6,0,1
+PHC-EB-4264,3,Male,Afikpo North,Routine Immunization,0,0,5.9,1,1,1
+PHC-EB-4265,19,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,2.9,12,0,0
+PHC-EB-4266,9,Male,Izzi,Antenatal Care,0,0,0.8,11,2,1
+PHC-EB-4267,23,Male,Ikwo,Routine Immunization,0,0,6.0,0,2,1
+PHC-EB-4268,25,Male,Abakaliki,Routine Immunization,0,0,3.6,3,1,1
+PHC-EB-4269,36,Male,Izzi,Routine Immunization,0,0,0.6,0,0,1
+PHC-EB-4270,53,Female,Afikpo North,Routine Immunization,0,0,4.8,12,0,0
+PHC-EB-4271,20,Female,Izzi,Routine Immunization,0,0,11.9,10,0,0
+PHC-EB-4272,73,Female,Afikpo North,Antenatal Care,0,0,1.0,18,0,0
+PHC-EB-4273,37,Male,Afikpo North,Routine Immunization,0,0,4.5,2,0,0
+PHC-EB-4274,45,Female,Afikpo North,Antenatal Care,1,1,6.4,4,0,1
+PHC-EB-4275,3,Male,Ebonyi,Antenatal Care,0,0,0.8,1,2,0
+PHC-EB-4276,59,Female,Ikwo,Antenatal Care,1,0,0.6,3,1,0
+PHC-EB-4277,56,Female,Izzi,General Outpatient,1,0,3.3,5,1,0
+PHC-EB-4278,44,Female,Ikwo,Routine Immunization,0,0,7.5,0,0,0
+PHC-EB-4279,19,Male,Abakaliki,General Outpatient,0,0,1.3,9,0,0
+PHC-EB-4280,16,Female,Izzi,General Outpatient,0,0,8.7,6,0,1
+PHC-EB-4281,70,Female,Ikwo,General Outpatient,0,0,5.3,13,0,1
+PHC-EB-4282,3,Female,Ikwo,Routine Immunization,0,0,2.3,2,0,0
+PHC-EB-4283,13,Female,Abakaliki,Routine Immunization,0,0,3.8,18,0,1
+PHC-EB-4284,2,Female,Afikpo North,Routine Immunization,0,0,15.7,51,0,1
+PHC-EB-4285,57,Male,Izzi,General Outpatient,0,0,1.6,19,0,0
+PHC-EB-4286,54,Female,Izzi,Routine Immunization,1,0,3.6,11,1,1
+PHC-EB-4287,3,Female,Abakaliki,General Outpatient,0,0,4.9,13,0,0
+PHC-EB-4288,23,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,1.2,6,2,1
+PHC-EB-4289,33,Male,Izzi,Antenatal Care,0,0,0.7,1,1,0
+PHC-EB-4290,29,Female,Izzi,Antenatal Care,0,0,0.6,8,0,0
+PHC-EB-4291,18,Female,Izzi,General Outpatient,0,0,2.3,9,0,1
+PHC-EB-4292,30,Male,Afikpo North,Antenatal Care,0,0,0.8,33,1,1
+PHC-EB-4293,59,Male,Abakaliki,Antenatal Care,0,1,7.8,6,1,0
+PHC-EB-4294,59,Male,Izzi,Chronic Disease (HTN/DM),0,0,27.1,2,1,1
+PHC-EB-4295,18,Female,Ikwo,Antenatal Care,0,0,0.8,9,0,1
+PHC-EB-4296,48,Female,Afikpo North,Chronic Disease (HTN/DM),1,0,3.1,30,1,1
+PHC-EB-4297,62,Male,Ebonyi,General Outpatient,1,0,0.6,1,0,1
+PHC-EB-4298,21,Female,Abakaliki,General Outpatient,0,0,1.1,3,2,1
+PHC-EB-4299,23,Female,Ikwo,Antenatal Care,0,0,2.3,6,2,1
+PHC-EB-4300,29,Male,Izzi,Antenatal Care,0,0,2.8,1,0,0
+PHC-EB-4301,57,Male,Ebonyi,Routine Immunization,0,0,13.1,0,1,0
+PHC-EB-4302,30,Female,Abakaliki,Antenatal Care,0,0,2.8,3,0,0
+PHC-EB-4303,63,Male,Afikpo North,Antenatal Care,0,0,3.6,15,0,1
+PHC-EB-4304,18,Female,Ebonyi,Routine Immunization,0,0,1.8,0,1,0
+PHC-EB-4305,47,Female,Ebonyi,Antenatal Care,0,1,0.5,4,1,1
+PHC-EB-4306,44,Male,Ikwo,Antenatal Care,1,0,10.8,11,0,1
+PHC-EB-4307,54,Female,Abakaliki,General Outpatient,0,1,0.9,23,1,0
+PHC-EB-4308,54,Female,Ikwo,Antenatal Care,1,0,15.5,33,0,0
+PHC-EB-4309,17,Male,Ikwo,Antenatal Care,0,0,1.1,4,0,1
+PHC-EB-4310,62,Female,Izzi,General Outpatient,1,0,4.7,23,0,0
+PHC-EB-4311,46,Female,Afikpo North,Chronic Disease (HTN/DM),0,1,34.0,0,1,0
+PHC-EB-4312,74,Male,Ebonyi,Routine Immunization,0,0,1.2,10,1,0
+PHC-EB-4313,56,Male,Abakaliki,Antenatal Care,0,0,3.0,8,0,0
+PHC-EB-4314,44,Male,Afikpo North,Routine Immunization,1,0,7.3,2,0,0
+PHC-EB-4315,32,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,0.6,5,0,0
+PHC-EB-4316,16,Female,Abakaliki,General Outpatient,0,0,5.8,1,0,0
+PHC-EB-4317,69,Male,Afikpo North,General Outpatient,0,0,0.9,16,0,1
+PHC-EB-4318,3,Female,Izzi,Antenatal Care,0,0,1.7,3,0,0
+PHC-EB-4319,19,Male,Afikpo North,Routine Immunization,0,0,1.3,7,1,1
+PHC-EB-4320,46,Female,Izzi,Antenatal Care,0,0,11.2,1,1,0
+PHC-EB-4321,14,Male,Ebonyi,General Outpatient,0,0,1.4,1,0,0
+PHC-EB-4322,69,Female,Ebonyi,General Outpatient,1,0,0.7,37,2,1
+PHC-EB-4323,46,Female,Ikwo,Chronic Disease (HTN/DM),1,0,4.5,10,2,1
+PHC-EB-4324,74,Male,Izzi,Antenatal Care,1,0,2.4,25,0,0
+PHC-EB-4325,8,Male,Ebonyi,Antenatal Care,0,0,2.8,2,2,1
+PHC-EB-4326,15,Male,Afikpo North,Routine Immunization,0,0,1.1,1,2,0
+PHC-EB-4327,68,Female,Abakaliki,General Outpatient,0,0,6.7,5,0,1
+PHC-EB-4328,60,Female,Abakaliki,General Outpatient,0,1,4.6,5,0,0
+PHC-EB-4329,9,Male,Izzi,Antenatal Care,0,0,2.5,1,0,0
+PHC-EB-4330,49,Male,Ikwo,Antenatal Care,0,0,1.3,10,0,0
+PHC-EB-4331,2,Male,Afikpo North,Routine Immunization,0,0,4.6,3,1,0
+PHC-EB-4332,69,Male,Izzi,Routine Immunization,0,0,7.3,1,2,1
+PHC-EB-4333,50,Male,Abakaliki,Chronic Disease (HTN/DM),1,0,2.2,3,1,1
+PHC-EB-4334,18,Female,Izzi,Routine Immunization,0,0,0.6,6,2,1
+PHC-EB-4335,41,Male,Afikpo North,General Outpatient,0,0,1.6,10,0,0
+PHC-EB-4336,34,Male,Ebonyi,Routine Immunization,0,0,5.7,5,0,0
+PHC-EB-4337,45,Female,Afikpo North,General Outpatient,0,0,20.8,5,2,1
+PHC-EB-4338,25,Male,Ebonyi,Routine Immunization,0,0,0.6,1,1,1
+PHC-EB-4339,68,Male,Ebonyi,General Outpatient,1,0,2.1,19,0,1
+PHC-EB-4340,63,Female,Ebonyi,Antenatal Care,1,0,0.8,20,1,0
+PHC-EB-4341,36,Female,Izzi,Routine Immunization,0,0,2.2,8,3,1
+PHC-EB-4342,48,Female,Abakaliki,Antenatal Care,0,0,2.8,0,0,1
+PHC-EB-4343,20,Male,Izzi,Routine Immunization,0,0,11.9,6,0,1
+PHC-EB-4344,73,Male,Abakaliki,Antenatal Care,0,0,0.9,7,1,0
+PHC-EB-4345,63,Female,Afikpo North,Antenatal Care,1,0,7.3,40,0,1
+PHC-EB-4346,4,Male,Ikwo,Chronic Disease (HTN/DM),0,0,2.8,43,1,1
+PHC-EB-4347,69,Female,Afikpo North,Antenatal Care,0,0,8.0,15,0,1
+PHC-EB-4348,3,Female,Izzi,General Outpatient,0,0,3.7,0,0,0
+PHC-EB-4349,38,Male,Izzi,Chronic Disease (HTN/DM),0,0,0.7,23,0,0
+PHC-EB-4350,34,Male,Abakaliki,Antenatal Care,0,0,13.7,7,0,1
+PHC-EB-4351,0,Female,Izzi,General Outpatient,0,0,0.9,12,0,0
+PHC-EB-4352,23,Female,Ebonyi,Antenatal Care,0,0,4.6,4,2,0
+PHC-EB-4353,56,Female,Izzi,Antenatal Care,0,0,10.0,3,1,1
+PHC-EB-4354,69,Female,Abakaliki,Routine Immunization,0,0,0.9,4,0,1
+PHC-EB-4355,40,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,4.1,1,1,0
+PHC-EB-4356,53,Female,Ebonyi,Antenatal Care,0,1,8.3,3,1,1
+PHC-EB-4357,45,Female,Abakaliki,Routine Immunization,0,0,19.8,15,1,1
+PHC-EB-4358,59,Female,Ikwo,Routine Immunization,0,0,6.3,0,1,1
+PHC-EB-4359,59,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,2.0,1,1,1
+PHC-EB-4360,56,Female,Izzi,Antenatal Care,0,0,5.9,1,0,1
+PHC-EB-4361,30,Male,Ikwo,General Outpatient,0,0,6.0,4,1,1
+PHC-EB-4362,23,Male,Izzi,General Outpatient,0,0,5.9,45,1,1
+PHC-EB-4363,35,Female,Ikwo,General Outpatient,0,1,9.2,1,1,1
+PHC-EB-4364,29,Female,Izzi,Chronic Disease (HTN/DM),0,0,0.9,1,0,0
+PHC-EB-4365,23,Female,Ebonyi,General Outpatient,0,0,1.0,19,0,0
+PHC-EB-4366,29,Female,Abakaliki,Antenatal Care,0,0,5.1,16,1,1
+PHC-EB-4367,6,Female,Abakaliki,Routine Immunization,0,0,14.3,0,2,1
+PHC-EB-4368,34,Female,Ebonyi,Routine Immunization,0,0,3.3,10,1,0
+PHC-EB-4369,54,Female,Ikwo,Antenatal Care,1,0,15.0,8,0,0
+PHC-EB-4370,13,Male,Afikpo North,Routine Immunization,0,0,13.0,11,0,1
+PHC-EB-4371,9,Female,Ikwo,Routine Immunization,0,0,11.0,5,0,1
+PHC-EB-4372,15,Female,Abakaliki,Routine Immunization,0,0,11.3,37,1,0
+PHC-EB-4373,53,Male,Afikpo North,Chronic Disease (HTN/DM),0,1,10.8,0,1,1
+PHC-EB-4374,69,Female,Izzi,Antenatal Care,0,0,8.2,2,2,1
+PHC-EB-4375,43,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,5.8,3,0,1
+PHC-EB-4376,72,Female,Ikwo,Routine Immunization,0,0,0.6,4,0,1
+PHC-EB-4377,44,Female,Ebonyi,General Outpatient,0,0,1.1,19,0,1
+PHC-EB-4378,55,Male,Izzi,General Outpatient,0,0,1.1,6,1,1
+PHC-EB-4379,56,Female,Ikwo,Routine Immunization,0,0,0.6,0,0,0
+PHC-EB-4380,20,Female,Izzi,Routine Immunization,0,0,1.1,4,1,0
+PHC-EB-4381,67,Female,Afikpo North,Routine Immunization,1,0,11.9,4,0,0
+PHC-EB-4382,49,Female,Abakaliki,Routine Immunization,0,0,5.4,26,0,1
+PHC-EB-4383,32,Male,Ikwo,Chronic Disease (HTN/DM),0,0,2.2,7,1,0
+PHC-EB-4384,6,Male,Ebonyi,General Outpatient,0,0,7.6,7,0,0
+PHC-EB-4385,69,Female,Afikpo North,Antenatal Care,0,0,3.5,9,0,1
+PHC-EB-4386,14,Female,Ikwo,Antenatal Care,0,0,1.2,11,0,1
+PHC-EB-4387,31,Female,Ebonyi,Routine Immunization,0,0,10.2,7,0,1
+PHC-EB-4388,74,Male,Ikwo,Antenatal Care,0,0,2.4,2,1,0
+PHC-EB-4389,19,Female,Afikpo North,General Outpatient,0,0,5.9,16,0,1
+PHC-EB-4390,14,Female,Ikwo,Antenatal Care,0,0,2.0,10,0,1
+PHC-EB-4391,47,Female,Izzi,Routine Immunization,0,0,3.6,10,1,1
+PHC-EB-4392,70,Female,Afikpo North,Antenatal Care,0,0,8.1,44,0,0
+PHC-EB-4393,20,Female,Ikwo,Antenatal Care,0,0,1.3,12,1,1
+PHC-EB-4394,41,Female,Abakaliki,General Outpatient,0,0,17.5,13,0,1
+PHC-EB-4395,25,Female,Ikwo,Routine Immunization,0,0,0.8,23,0,1
+PHC-EB-4396,13,Female,Izzi,Chronic Disease (HTN/DM),0,0,3.9,1,2,1
+PHC-EB-4397,56,Female,Ebonyi,Chronic Disease (HTN/DM),1,0,11.6,5,0,1
+PHC-EB-4398,36,Male,Ebonyi,Routine Immunization,1,1,13.6,6,0,1
+PHC-EB-4399,57,Female,Ebonyi,Antenatal Care,0,0,1.7,3,1,1
+PHC-EB-4400,20,Female,Abakaliki,General Outpatient,0,0,1.2,14,2,1
+PHC-EB-4401,68,Male,Izzi,Chronic Disease (HTN/DM),0,0,6.3,11,2,1
+PHC-EB-4402,2,Female,Afikpo North,General Outpatient,0,0,0.7,9,0,1
+PHC-EB-4403,36,Male,Ebonyi,Antenatal Care,0,0,3.5,45,0,1
+PHC-EB-4404,48,Male,Izzi,Chronic Disease (HTN/DM),1,0,7.7,2,0,0
+PHC-EB-4405,18,Female,Ikwo,Antenatal Care,0,0,4.2,10,1,1
+PHC-EB-4406,11,Male,Abakaliki,General Outpatient,0,0,1.4,6,1,0
+PHC-EB-4407,60,Female,Izzi,Chronic Disease (HTN/DM),0,0,3.5,2,1,0
+PHC-EB-4408,40,Female,Izzi,Antenatal Care,1,0,11.9,1,0,1
+PHC-EB-4409,32,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,4.8,17,0,1
+PHC-EB-4410,49,Female,Izzi,Antenatal Care,0,0,6.3,7,1,1
+PHC-EB-4411,67,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,2.3,13,0,0
+PHC-EB-4412,70,Male,Abakaliki,Antenatal Care,0,1,1.4,6,0,0
+PHC-EB-4413,32,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,1.8,1,1,0
+PHC-EB-4414,23,Male,Ikwo,Antenatal Care,0,0,3.9,3,2,0
+PHC-EB-4415,60,Male,Afikpo North,General Outpatient,0,0,2.0,3,1,0
+PHC-EB-4416,60,Female,Afikpo North,Routine Immunization,0,0,4.0,28,1,1
+PHC-EB-4417,27,Female,Ebonyi,Routine Immunization,0,0,6.0,0,2,1
+PHC-EB-4418,57,Female,Ebonyi,Antenatal Care,0,0,6.5,33,0,1
+PHC-EB-4419,42,Female,Ikwo,General Outpatient,1,0,1.3,30,0,1
+PHC-EB-4420,40,Male,Abakaliki,Antenatal Care,0,0,6.7,43,1,0
+PHC-EB-4421,38,Female,Ebonyi,Routine Immunization,0,1,5.5,5,0,0
+PHC-EB-4422,48,Female,Izzi,Antenatal Care,0,1,0.6,25,0,1
+PHC-EB-4423,16,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,0.8,3,0,1
+PHC-EB-4424,69,Female,Izzi,Antenatal Care,0,0,5.2,0,1,0
+PHC-EB-4425,69,Female,Afikpo North,Antenatal Care,0,1,2.7,1,0,1
+PHC-EB-4426,64,Female,Abakaliki,Antenatal Care,0,0,1.2,22,0,1
+PHC-EB-4427,73,Female,Ikwo,Routine Immunization,0,0,0.7,0,0,0
+PHC-EB-4428,4,Female,Afikpo North,Antenatal Care,0,0,1.3,6,0,0
+PHC-EB-4429,1,Male,Afikpo North,Routine Immunization,0,0,14.7,0,1,1
+PHC-EB-4430,21,Female,Izzi,Chronic Disease (HTN/DM),0,0,6.4,2,1,1
+PHC-EB-4431,56,Female,Afikpo North,General Outpatient,0,0,3.9,0,0,0
+PHC-EB-4432,65,Female,Ebonyi,Routine Immunization,0,0,13.3,15,0,0
+PHC-EB-4433,73,Female,Abakaliki,Antenatal Care,0,0,4.8,6,1,0
+PHC-EB-4434,15,Female,Ebonyi,General Outpatient,0,0,6.3,18,0,0
+PHC-EB-4435,50,Female,Izzi,Antenatal Care,0,0,2.0,9,0,1
+PHC-EB-4436,38,Female,Izzi,General Outpatient,1,1,4.5,27,2,1
+PHC-EB-4437,39,Female,Abakaliki,Antenatal Care,1,0,1.2,5,1,1
+PHC-EB-4438,37,Female,Afikpo North,Routine Immunization,0,0,2.8,7,0,0
+PHC-EB-4439,59,Female,Ikwo,Routine Immunization,0,0,0.7,6,0,0
+PHC-EB-4440,58,Male,Izzi,Chronic Disease (HTN/DM),0,0,1.6,5,0,1
+PHC-EB-4441,9,Female,Abakaliki,Antenatal Care,0,0,0.9,14,1,1
+PHC-EB-4442,63,Male,Ikwo,Routine Immunization,0,0,2.7,8,1,1
+PHC-EB-4443,62,Female,Afikpo North,Antenatal Care,0,0,8.8,12,0,1
+PHC-EB-4444,48,Female,Izzi,General Outpatient,0,0,2.6,12,0,0
+PHC-EB-4445,63,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,8.5,1,1,1
+PHC-EB-4446,31,Male,Abakaliki,Routine Immunization,0,0,5.3,8,0,0
+PHC-EB-4447,6,Female,Abakaliki,Routine Immunization,0,0,3.7,1,0,1
+PHC-EB-4448,20,Female,Izzi,Chronic Disease (HTN/DM),0,0,1.7,6,0,1
+PHC-EB-4449,19,Female,Ikwo,Routine Immunization,0,0,12.0,8,2,1
+PHC-EB-4450,25,Female,Abakaliki,Routine Immunization,0,0,0.8,46,1,1
+PHC-EB-4451,67,Female,Afikpo North,Routine Immunization,1,0,5.8,0,0,0
+PHC-EB-4452,14,Female,Abakaliki,General Outpatient,0,0,4.9,0,0,1
+PHC-EB-4453,13,Female,Ikwo,Antenatal Care,0,0,3.1,0,2,1
+PHC-EB-4454,26,Female,Izzi,General Outpatient,0,0,1.7,3,0,1
+PHC-EB-4455,39,Male,Abakaliki,Routine Immunization,0,0,3.0,13,0,1
+PHC-EB-4456,57,Male,Abakaliki,Antenatal Care,1,1,9.8,14,0,0
+PHC-EB-4457,27,Male,Afikpo North,General Outpatient,0,0,8.7,10,1,1
+PHC-EB-4458,25,Female,Afikpo North,Routine Immunization,0,0,13.3,17,0,0
+PHC-EB-4459,62,Male,Abakaliki,Antenatal Care,1,0,2.2,3,0,0
+PHC-EB-4460,65,Male,Abakaliki,General Outpatient,0,0,2.7,0,1,1
+PHC-EB-4461,24,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,0.6,0,0,1
+PHC-EB-4462,2,Female,Ikwo,Chronic Disease (HTN/DM),0,0,13.4,14,2,1
+PHC-EB-4463,71,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,2.3,10,0,1
+PHC-EB-4464,43,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,2.8,9,0,1
+PHC-EB-4465,41,Female,Abakaliki,Antenatal Care,0,0,11.2,3,0,1
+PHC-EB-4466,5,Female,Afikpo North,Routine Immunization,0,0,3.9,3,0,1
+PHC-EB-4467,38,Female,Izzi,General Outpatient,0,0,4.3,24,0,1
+PHC-EB-4468,51,Male,Izzi,Routine Immunization,1,0,1.4,0,0,0
+PHC-EB-4469,22,Female,Ebonyi,General Outpatient,0,0,3.6,11,0,1
+PHC-EB-4470,49,Female,Ikwo,General Outpatient,0,0,11.8,2,0,0
+PHC-EB-4471,42,Female,Ebonyi,Routine Immunization,1,0,4.2,0,0,0
+PHC-EB-4472,18,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,1.8,10,0,0
+PHC-EB-4473,68,Female,Ikwo,Routine Immunization,0,0,0.6,3,1,0
+PHC-EB-4474,50,Female,Izzi,Routine Immunization,0,0,2.3,10,0,0
+PHC-EB-4475,10,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,4.3,9,1,1
+PHC-EB-4476,11,Female,Afikpo North,Routine Immunization,0,0,0.7,5,2,1
+PHC-EB-4477,73,Female,Abakaliki,Antenatal Care,1,0,4.7,11,1,0
+PHC-EB-4478,7,Male,Ebonyi,Routine Immunization,0,0,3.8,6,1,1
+PHC-EB-4479,23,Female,Abakaliki,General Outpatient,0,0,7.4,2,0,0
+PHC-EB-4480,40,Male,Afikpo North,General Outpatient,1,1,0.6,10,1,0
+PHC-EB-4481,35,Male,Izzi,General Outpatient,0,0,7.3,6,1,0
+PHC-EB-4482,71,Male,Afikpo North,General Outpatient,0,0,3.8,0,0,1
+PHC-EB-4483,54,Female,Ikwo,Antenatal Care,1,0,2.6,18,0,0
+PHC-EB-4484,8,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,15.6,6,1,1
+PHC-EB-4485,46,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,1.3,15,0,1
+PHC-EB-4486,14,Female,Ikwo,Antenatal Care,0,0,4.0,16,0,1
+PHC-EB-4487,47,Male,Ebonyi,Antenatal Care,0,0,2.2,4,1,0
+PHC-EB-4488,41,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,3.9,5,1,1
+PHC-EB-4489,59,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,4.1,4,0,1
+PHC-EB-4490,69,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,0.9,4,0,0
+PHC-EB-4491,11,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,5.4,17,1,0
+PHC-EB-4492,1,Female,Ikwo,Routine Immunization,0,0,5.0,12,0,1
+PHC-EB-4493,6,Female,Afikpo North,General Outpatient,0,0,7.1,1,1,0
+PHC-EB-4494,2,Male,Ikwo,Routine Immunization,0,0,0.9,7,1,0
+PHC-EB-4495,2,Female,Ikwo,Antenatal Care,0,0,2.1,43,0,1
+PHC-EB-4496,26,Female,Ebonyi,General Outpatient,0,0,5.2,7,0,1
+PHC-EB-4497,39,Female,Afikpo North,Routine Immunization,0,0,1.2,12,0,0
+PHC-EB-4498,32,Male,Abakaliki,General Outpatient,0,0,5.6,11,2,1
+PHC-EB-4499,0,Female,Abakaliki,Routine Immunization,0,0,0.8,3,1,1
+PHC-EB-4500,7,Male,Afikpo North,Routine Immunization,0,0,2.3,3,0,1
+PHC-EB-4501,31,Male,Ebonyi,Antenatal Care,0,0,8.9,10,1,1
+PHC-EB-4502,47,Female,Ebonyi,Antenatal Care,0,0,7.2,5,0,1
+PHC-EB-4503,3,Female,Ebonyi,Antenatal Care,0,0,5.2,6,1,1
+PHC-EB-4504,69,Female,Abakaliki,Antenatal Care,0,0,9.7,9,2,1
+PHC-EB-4505,18,Male,Ikwo,Chronic Disease (HTN/DM),0,0,6.1,11,0,0
+PHC-EB-4506,31,Male,Ebonyi,Antenatal Care,0,0,3.8,2,1,1
+PHC-EB-4507,8,Male,Abakaliki,Antenatal Care,0,0,18.0,1,0,1
+PHC-EB-4508,11,Female,Abakaliki,Routine Immunization,0,0,5.8,2,0,0
+PHC-EB-4509,10,Female,Ikwo,General Outpatient,0,0,4.6,5,1,1
+PHC-EB-4510,45,Female,Afikpo North,Antenatal Care,1,1,2.9,3,0,1
+PHC-EB-4511,15,Male,Afikpo North,General Outpatient,0,0,11.0,6,0,0
+PHC-EB-4512,0,Female,Ebonyi,General Outpatient,0,0,2.1,0,2,1
+PHC-EB-4513,62,Female,Ebonyi,Antenatal Care,0,0,0.5,5,0,0
+PHC-EB-4514,20,Female,Ikwo,Antenatal Care,0,0,1.5,3,1,1
+PHC-EB-4515,29,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,1.0,5,1,1
+PHC-EB-4516,12,Female,Ikwo,General Outpatient,0,0,2.2,4,1,0
+PHC-EB-4517,33,Female,Abakaliki,General Outpatient,0,0,8.4,2,0,0
+PHC-EB-4518,3,Female,Ebonyi,Antenatal Care,0,0,5.2,18,2,0
+PHC-EB-4519,27,Female,Abakaliki,Routine Immunization,0,0,1.3,1,1,0
+PHC-EB-4520,58,Male,Izzi,Routine Immunization,1,0,7.5,8,1,1
+PHC-EB-4521,26,Male,Ikwo,Antenatal Care,0,0,3.7,20,0,1
+PHC-EB-4522,68,Female,Izzi,Routine Immunization,0,0,3.7,6,1,0
+PHC-EB-4523,24,Male,Ebonyi,General Outpatient,0,0,2.5,16,1,0
+PHC-EB-4524,2,Female,Abakaliki,Routine Immunization,0,0,9.5,1,2,0
+PHC-EB-4525,67,Female,Ebonyi,General Outpatient,1,0,2.2,5,0,0
+PHC-EB-4526,24,Male,Izzi,General Outpatient,0,0,0.9,4,0,0
+PHC-EB-4527,19,Male,Ebonyi,Routine Immunization,0,0,2.1,0,0,0
+PHC-EB-4528,33,Male,Afikpo North,General Outpatient,0,0,6.2,4,1,1
+PHC-EB-4529,25,Female,Izzi,Antenatal Care,0,0,5.3,3,0,1
+PHC-EB-4530,4,Female,Ebonyi,General Outpatient,0,0,1.4,8,0,1
+PHC-EB-4531,60,Male,Abakaliki,Antenatal Care,0,0,1.0,21,1,1
+PHC-EB-4532,8,Female,Ebonyi,Antenatal Care,0,0,5.4,0,0,0
+PHC-EB-4533,49,Female,Abakaliki,General Outpatient,0,0,5.6,3,1,0
+PHC-EB-4534,5,Male,Afikpo North,Routine Immunization,0,0,2.6,4,0,1
+PHC-EB-4535,59,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,8.8,4,1,1
+PHC-EB-4536,43,Male,Afikpo North,Routine Immunization,1,0,17.7,11,1,1
+PHC-EB-4537,10,Female,Izzi,Antenatal Care,0,0,1.5,4,3,1
+PHC-EB-4538,65,Male,Abakaliki,Routine Immunization,1,0,4.4,0,1,0
+PHC-EB-4539,46,Female,Izzi,Routine Immunization,1,0,0.5,9,3,1
+PHC-EB-4540,72,Female,Abakaliki,Routine Immunization,0,0,6.1,16,1,0
+PHC-EB-4541,2,Male,Afikpo North,General Outpatient,0,0,2.9,5,0,1
+PHC-EB-4542,29,Female,Ikwo,General Outpatient,0,0,1.5,6,0,0
+PHC-EB-4543,20,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,6.8,1,2,1
+PHC-EB-4544,27,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,8.0,1,2,0
+PHC-EB-4545,61,Female,Abakaliki,Antenatal Care,0,0,1.0,2,0,1
+PHC-EB-4546,32,Female,Abakaliki,General Outpatient,0,0,0.7,4,1,0
+PHC-EB-4547,34,Female,Abakaliki,Routine Immunization,0,0,2.3,20,0,1
+PHC-EB-4548,51,Female,Abakaliki,General Outpatient,0,0,4.9,5,0,1
+PHC-EB-4549,33,Female,Ebonyi,Routine Immunization,0,0,7.6,1,1,0
+PHC-EB-4550,40,Male,Izzi,Chronic Disease (HTN/DM),0,0,4.1,2,2,1
+PHC-EB-4551,50,Male,Ikwo,General Outpatient,1,0,4.4,3,1,1
+PHC-EB-4552,46,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,7.7,7,0,1
+PHC-EB-4553,57,Male,Abakaliki,General Outpatient,1,0,3.9,4,0,0
+PHC-EB-4554,74,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,4.8,3,1,0
+PHC-EB-4555,56,Female,Afikpo North,General Outpatient,0,0,3.8,6,1,1
+PHC-EB-4556,22,Male,Abakaliki,Routine Immunization,0,0,10.1,2,0,1
+PHC-EB-4557,47,Female,Ikwo,Antenatal Care,0,0,1.7,0,2,0
+PHC-EB-4558,21,Male,Abakaliki,Routine Immunization,0,0,1.9,0,2,1
+PHC-EB-4559,16,Female,Ikwo,Antenatal Care,0,0,1.1,2,1,1
+PHC-EB-4560,68,Male,Ikwo,Routine Immunization,0,0,8.2,0,1,0
+PHC-EB-4561,10,Female,Izzi,Routine Immunization,0,0,2.9,3,1,1
+PHC-EB-4562,14,Female,Izzi,Routine Immunization,0,0,2.4,11,2,1
+PHC-EB-4563,34,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,18.4,9,1,1
+PHC-EB-4564,32,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,12.3,7,1,1
+PHC-EB-4565,15,Female,Ikwo,Antenatal Care,0,0,16.6,14,4,0
+PHC-EB-4566,33,Male,Abakaliki,Routine Immunization,0,0,1.2,2,1,1
+PHC-EB-4567,65,Female,Afikpo North,Routine Immunization,0,0,10.5,16,0,1
+PHC-EB-4568,39,Female,Afikpo North,Routine Immunization,1,0,2.3,3,1,1
+PHC-EB-4569,27,Female,Abakaliki,General Outpatient,0,0,0.6,4,0,1
+PHC-EB-4570,46,Female,Abakaliki,Routine Immunization,0,0,2.7,4,0,0
+PHC-EB-4571,38,Male,Izzi,Routine Immunization,0,0,3.7,0,0,0
+PHC-EB-4572,69,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,1.0,29,0,1
+PHC-EB-4573,72,Male,Ikwo,General Outpatient,0,0,4.0,1,0,0
+PHC-EB-4574,19,Female,Ebonyi,Antenatal Care,0,0,8.2,3,0,1
+PHC-EB-4575,0,Female,Izzi,General Outpatient,0,0,2.6,3,0,0
+PHC-EB-4576,71,Male,Afikpo North,Routine Immunization,0,0,2.5,0,2,0
+PHC-EB-4577,62,Female,Abakaliki,Antenatal Care,0,0,2.4,1,2,1
+PHC-EB-4578,66,Female,Afikpo North,Antenatal Care,0,0,12.0,0,0,0
+PHC-EB-4579,3,Male,Ikwo,Routine Immunization,0,0,0.7,2,0,0
+PHC-EB-4580,57,Male,Izzi,Routine Immunization,1,0,3.2,15,0,0
+PHC-EB-4581,24,Female,Abakaliki,Antenatal Care,0,0,1.9,3,0,0
+PHC-EB-4582,46,Female,Ikwo,General Outpatient,0,0,10.6,1,1,0
+PHC-EB-4583,37,Female,Ebonyi,General Outpatient,0,0,1.0,8,1,0
+PHC-EB-4584,14,Female,Izzi,Antenatal Care,0,0,2.9,44,1,1
+PHC-EB-4585,62,Male,Ikwo,Antenatal Care,1,0,2.9,2,1,0
+PHC-EB-4586,20,Male,Ikwo,General Outpatient,0,0,10.4,2,2,1
+PHC-EB-4587,56,Female,Abakaliki,Antenatal Care,0,1,1.6,27,1,1
+PHC-EB-4588,52,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,5.2,1,1,1
+PHC-EB-4589,45,Female,Ikwo,General Outpatient,0,1,1.1,5,1,0
+PHC-EB-4590,13,Female,Izzi,Routine Immunization,0,0,14.4,2,0,1
+PHC-EB-4591,16,Female,Ikwo,Antenatal Care,0,0,4.5,21,2,1
+PHC-EB-4592,38,Female,Afikpo North,Antenatal Care,0,0,4.9,31,2,1
+PHC-EB-4593,8,Female,Izzi,Antenatal Care,0,0,3.1,13,0,0
+PHC-EB-4594,5,Female,Izzi,Antenatal Care,0,0,2.4,2,1,0
+PHC-EB-4595,22,Female,Ikwo,General Outpatient,0,0,1.6,4,0,1
+PHC-EB-4596,58,Female,Abakaliki,Antenatal Care,0,0,4.7,2,0,0
+PHC-EB-4597,45,Female,Izzi,Routine Immunization,1,0,14.4,17,0,1
+PHC-EB-4598,37,Female,Afikpo North,Routine Immunization,0,0,2.5,19,1,1
+PHC-EB-4599,13,Female,Abakaliki,Antenatal Care,0,0,10.2,4,0,0
+PHC-EB-4600,71,Female,Abakaliki,Antenatal Care,0,1,1.2,8,0,0
+PHC-EB-4601,61,Female,Abakaliki,Antenatal Care,0,0,12.9,1,0,0
+PHC-EB-4602,34,Male,Izzi,Antenatal Care,0,0,2.4,4,0,0
+PHC-EB-4603,18,Male,Abakaliki,General Outpatient,0,0,2.6,7,1,0
+PHC-EB-4604,29,Male,Ikwo,Antenatal Care,0,0,3.3,3,0,0
+PHC-EB-4605,24,Female,Abakaliki,General Outpatient,0,0,6.2,3,0,1
+PHC-EB-4606,39,Male,Afikpo North,Routine Immunization,1,0,6.2,0,0,0
+PHC-EB-4607,13,Male,Ebonyi,Routine Immunization,0,0,3.4,12,0,1
+PHC-EB-4608,25,Female,Afikpo North,Routine Immunization,0,0,3.8,17,1,1
+PHC-EB-4609,21,Female,Izzi,General Outpatient,0,0,0.6,27,0,0
+PHC-EB-4610,47,Male,Abakaliki,Antenatal Care,0,0,2.1,9,1,1
+PHC-EB-4611,50,Female,Abakaliki,Antenatal Care,0,0,2.4,6,1,0
+PHC-EB-4612,2,Female,Ikwo,Routine Immunization,0,0,4.2,2,0,1
+PHC-EB-4613,41,Male,Abakaliki,Routine Immunization,1,0,4.2,56,1,1
+PHC-EB-4614,18,Male,Afikpo North,Routine Immunization,0,0,6.1,6,0,1
+PHC-EB-4615,72,Female,Izzi,General Outpatient,0,0,6.2,8,2,1
+PHC-EB-4616,27,Female,Ebonyi,Routine Immunization,0,0,1.7,8,2,0
+PHC-EB-4617,44,Female,Abakaliki,General Outpatient,0,0,7.1,14,1,1
+PHC-EB-4618,70,Male,Ebonyi,Routine Immunization,1,1,0.6,0,0,0
+PHC-EB-4619,62,Female,Abakaliki,General Outpatient,0,0,6.2,1,1,0
+PHC-EB-4620,72,Female,Izzi,General Outpatient,0,0,1.0,8,0,0
+PHC-EB-4621,18,Male,Afikpo North,Routine Immunization,0,0,6.4,17,1,0
+PHC-EB-4622,46,Female,Izzi,General Outpatient,0,0,3.9,9,0,1
+PHC-EB-4623,13,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,3.1,4,0,0
+PHC-EB-4624,37,Female,Abakaliki,Routine Immunization,1,0,5.8,3,0,0
+PHC-EB-4625,52,Female,Ebonyi,Routine Immunization,0,0,0.7,10,0,0
+PHC-EB-4626,60,Male,Afikpo North,General Outpatient,1,0,1.6,10,1,1
+PHC-EB-4627,35,Female,Izzi,Routine Immunization,1,0,4.8,7,0,0
+PHC-EB-4628,39,Female,Ebonyi,Antenatal Care,0,0,9.0,2,1,0
+PHC-EB-4629,29,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,2.7,20,0,1
+PHC-EB-4630,8,Male,Afikpo North,Antenatal Care,0,0,1.8,6,0,0
+PHC-EB-4631,63,Male,Abakaliki,General Outpatient,1,0,3.8,12,0,1
+PHC-EB-4632,32,Male,Ebonyi,General Outpatient,0,0,4.9,1,2,1
+PHC-EB-4633,51,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,3.0,3,0,0
+PHC-EB-4634,13,Female,Abakaliki,Antenatal Care,0,0,9.9,16,1,1
+PHC-EB-4635,74,Female,Abakaliki,Routine Immunization,0,0,3.8,0,0,1
+PHC-EB-4636,52,Male,Izzi,Routine Immunization,0,0,0.7,5,0,0
+PHC-EB-4637,58,Female,Afikpo North,Routine Immunization,0,0,1.6,5,1,1
+PHC-EB-4638,40,Male,Abakaliki,Antenatal Care,1,0,3.2,10,1,1
+PHC-EB-4639,67,Female,Izzi,Routine Immunization,1,0,5.9,2,0,0
+PHC-EB-4640,67,Male,Ikwo,Routine Immunization,0,0,1.6,1,0,1
+PHC-EB-4641,7,Male,Afikpo North,Antenatal Care,0,0,17.3,20,1,1
+PHC-EB-4642,1,Male,Ikwo,General Outpatient,0,0,2.2,6,1,1
+PHC-EB-4643,40,Female,Abakaliki,General Outpatient,0,0,3.9,0,1,1
+PHC-EB-4644,54,Female,Afikpo North,General Outpatient,1,0,0.6,1,1,1
+PHC-EB-4645,15,Female,Izzi,Chronic Disease (HTN/DM),0,0,10.2,52,1,1
+PHC-EB-4646,61,Female,Abakaliki,Routine Immunization,0,0,7.5,1,1,1
+PHC-EB-4647,47,Female,Afikpo North,Chronic Disease (HTN/DM),0,1,1.5,7,0,1
+PHC-EB-4648,29,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,12.7,4,0,0
+PHC-EB-4649,11,Female,Ikwo,Antenatal Care,0,0,2.2,16,1,0
+PHC-EB-4650,34,Male,Abakaliki,Antenatal Care,0,0,5.8,11,0,1
+PHC-EB-4651,10,Male,Izzi,Routine Immunization,0,0,8.2,7,2,0
+PHC-EB-4652,63,Female,Izzi,Routine Immunization,0,0,6.6,0,1,1
+PHC-EB-4653,49,Male,Abakaliki,Routine Immunization,1,0,11.7,16,2,0
+PHC-EB-4654,20,Female,Abakaliki,Routine Immunization,0,0,9.5,4,0,1
+PHC-EB-4655,68,Female,Ebonyi,General Outpatient,1,1,24.0,20,1,1
+PHC-EB-4656,47,Female,Ikwo,Routine Immunization,0,0,1.4,5,0,0
+PHC-EB-4657,19,Male,Abakaliki,Antenatal Care,0,0,2.1,9,1,1
+PHC-EB-4658,66,Female,Abakaliki,Chronic Disease (HTN/DM),1,0,5.1,0,1,1
+PHC-EB-4659,43,Female,Ebonyi,Antenatal Care,0,0,6.4,10,0,0
+PHC-EB-4660,32,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,3.9,3,0,0
+PHC-EB-4661,72,Female,Afikpo North,Antenatal Care,0,0,0.8,3,2,0
+PHC-EB-4662,60,Male,Izzi,Chronic Disease (HTN/DM),0,0,8.8,0,1,0
+PHC-EB-4663,8,Male,Ikwo,Antenatal Care,0,0,15.1,1,0,1
+PHC-EB-4664,67,Male,Afikpo North,Antenatal Care,0,0,2.8,1,1,0
+PHC-EB-4665,34,Female,Abakaliki,Antenatal Care,0,0,1.6,3,1,0
+PHC-EB-4666,64,Female,Ebonyi,General Outpatient,0,1,0.6,17,1,0
+PHC-EB-4667,7,Female,Izzi,Chronic Disease (HTN/DM),0,0,1.7,3,1,1
+PHC-EB-4668,44,Female,Afikpo North,Routine Immunization,0,0,5.9,10,4,1
+PHC-EB-4669,46,Female,Izzi,Chronic Disease (HTN/DM),1,1,11.4,0,1,1
+PHC-EB-4670,39,Female,Ebonyi,Routine Immunization,1,0,0.9,6,0,0
+PHC-EB-4671,53,Male,Afikpo North,General Outpatient,0,0,4.1,5,0,1
+PHC-EB-4672,45,Male,Afikpo North,General Outpatient,0,0,5.9,29,0,1
+PHC-EB-4673,46,Female,Izzi,Antenatal Care,1,1,2.0,14,0,0
+PHC-EB-4674,14,Female,Ebonyi,Routine Immunization,0,0,4.3,4,0,0
+PHC-EB-4675,18,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,6.2,11,2,0
+PHC-EB-4676,25,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,8.7,1,0,0
+PHC-EB-4677,51,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,3.2,6,5,1
+PHC-EB-4678,21,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,6.7,0,0,1
+PHC-EB-4679,20,Male,Afikpo North,Antenatal Care,0,0,2.1,3,1,1
+PHC-EB-4680,50,Male,Afikpo North,General Outpatient,0,0,1.6,2,1,1
+PHC-EB-4681,37,Female,Abakaliki,Routine Immunization,0,0,1.4,9,1,1
+PHC-EB-4682,19,Male,Ikwo,Chronic Disease (HTN/DM),0,0,2.5,5,0,0
+PHC-EB-4683,28,Female,Abakaliki,Routine Immunization,0,0,0.7,10,2,1
+PHC-EB-4684,50,Female,Abakaliki,Routine Immunization,1,0,2.0,5,3,1
+PHC-EB-4685,3,Female,Ikwo,Routine Immunization,0,0,5.3,0,1,1
+PHC-EB-4686,54,Female,Ebonyi,Routine Immunization,0,0,5.2,10,0,0
+PHC-EB-4687,70,Female,Ebonyi,Antenatal Care,1,0,0.8,14,2,0
+PHC-EB-4688,27,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,2.0,18,1,1
+PHC-EB-4689,3,Male,Izzi,General Outpatient,0,0,4.3,6,0,0
+PHC-EB-4690,21,Female,Izzi,Antenatal Care,0,0,2.2,10,1,1
+PHC-EB-4691,44,Female,Afikpo North,General Outpatient,0,0,2.9,10,0,1
+PHC-EB-4692,66,Female,Izzi,General Outpatient,0,0,6.1,1,0,0
+PHC-EB-4693,65,Male,Abakaliki,Routine Immunization,1,0,0.5,1,1,1
+PHC-EB-4694,33,Female,Abakaliki,Antenatal Care,0,0,2.0,0,0,0
+PHC-EB-4695,54,Male,Ikwo,Chronic Disease (HTN/DM),0,0,1.2,3,0,1
+PHC-EB-4696,0,Male,Ikwo,General Outpatient,0,0,1.1,5,0,1
+PHC-EB-4697,71,Female,Afikpo North,Routine Immunization,0,0,14.9,48,0,1
+PHC-EB-4698,37,Male,Afikpo North,General Outpatient,0,0,2.6,4,0,0
+PHC-EB-4699,5,Female,Afikpo North,Antenatal Care,0,0,3.9,10,0,0
+PHC-EB-4700,24,Female,Abakaliki,Routine Immunization,0,0,6.5,9,1,0
+PHC-EB-4701,16,Male,Izzi,Antenatal Care,0,0,0.7,1,0,1
+PHC-EB-4702,60,Female,Afikpo North,Antenatal Care,0,0,1.7,0,0,0
+PHC-EB-4703,11,Female,Afikpo North,General Outpatient,0,0,8.5,6,0,1
+PHC-EB-4704,5,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,9.4,9,1,1
+PHC-EB-4705,26,Female,Abakaliki,Routine Immunization,0,0,2.6,49,0,0
+PHC-EB-4706,7,Male,Abakaliki,Antenatal Care,0,0,2.6,3,0,0
+PHC-EB-4707,64,Female,Izzi,General Outpatient,0,0,6.9,17,1,1
+PHC-EB-4708,56,Male,Afikpo North,Chronic Disease (HTN/DM),0,1,2.1,3,1,1
+PHC-EB-4709,39,Female,Ebonyi,General Outpatient,0,0,1.1,9,0,1
+PHC-EB-4710,13,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,1.8,7,1,1
+PHC-EB-4711,34,Female,Afikpo North,Routine Immunization,0,0,2.7,0,1,0
+PHC-EB-4712,47,Female,Afikpo North,General Outpatient,1,0,0.7,0,1,0
+PHC-EB-4713,55,Male,Afikpo North,Antenatal Care,0,0,3.4,0,1,0
+PHC-EB-4714,48,Female,Afikpo North,Routine Immunization,0,0,6.6,3,0,0
+PHC-EB-4715,12,Female,Izzi,Routine Immunization,0,0,3.7,10,1,1
+PHC-EB-4716,60,Female,Ebonyi,Routine Immunization,1,0,0.8,1,0,0
+PHC-EB-4717,48,Male,Ikwo,Chronic Disease (HTN/DM),0,0,3.1,7,2,1
+PHC-EB-4718,45,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,6.1,2,1,0
+PHC-EB-4719,61,Male,Ebonyi,Antenatal Care,0,0,0.8,12,2,1
+PHC-EB-4720,7,Female,Abakaliki,Antenatal Care,0,0,0.8,12,0,0
+PHC-EB-4721,42,Female,Afikpo North,Routine Immunization,0,0,2.6,11,1,0
+PHC-EB-4722,19,Male,Afikpo North,Antenatal Care,0,0,1.5,5,0,0
+PHC-EB-4723,38,Male,Afikpo North,General Outpatient,1,0,12.8,2,0,0
+PHC-EB-4724,48,Male,Abakaliki,Chronic Disease (HTN/DM),0,1,4.4,12,2,1
+PHC-EB-4725,63,Male,Izzi,Chronic Disease (HTN/DM),0,0,2.0,1,1,1
+PHC-EB-4726,61,Female,Izzi,General Outpatient,0,0,6.0,2,2,1
+PHC-EB-4727,53,Female,Ikwo,General Outpatient,0,0,2.6,1,0,1
+PHC-EB-4728,8,Female,Izzi,Routine Immunization,0,0,1.1,8,0,1
+PHC-EB-4729,36,Male,Izzi,Antenatal Care,1,0,1.7,9,0,1
+PHC-EB-4730,48,Male,Afikpo North,Routine Immunization,1,0,5.1,8,1,1
+PHC-EB-4731,40,Female,Ebonyi,Routine Immunization,0,0,0.7,4,2,0
+PHC-EB-4732,16,Female,Izzi,General Outpatient,0,0,1.9,0,0,0
+PHC-EB-4733,20,Female,Izzi,Antenatal Care,0,0,1.6,18,2,1
+PHC-EB-4734,50,Male,Abakaliki,Routine Immunization,0,0,1.5,5,1,0
+PHC-EB-4735,58,Female,Ikwo,Routine Immunization,0,0,5.7,4,0,0
+PHC-EB-4736,38,Female,Abakaliki,Chronic Disease (HTN/DM),1,0,8.4,6,2,1
+PHC-EB-4737,54,Female,Afikpo North,Routine Immunization,1,0,6.2,1,0,0
+PHC-EB-4738,40,Male,Ebonyi,General Outpatient,0,0,5.2,1,1,0
+PHC-EB-4739,38,Male,Ikwo,General Outpatient,0,0,11.7,4,0,1
+PHC-EB-4740,12,Female,Abakaliki,Antenatal Care,0,0,0.8,2,0,0
+PHC-EB-4741,63,Female,Izzi,Routine Immunization,0,0,1.3,2,0,1
+PHC-EB-4742,10,Female,Izzi,Chronic Disease (HTN/DM),0,0,2.9,17,0,1
+PHC-EB-4743,18,Male,Ikwo,Routine Immunization,0,0,2.6,5,4,1
+PHC-EB-4744,10,Male,Izzi,Chronic Disease (HTN/DM),0,0,2.9,5,3,1
+PHC-EB-4745,45,Female,Abakaliki,Antenatal Care,0,0,1.5,9,0,1
+PHC-EB-4746,44,Female,Abakaliki,Antenatal Care,0,1,1.2,23,0,1
+PHC-EB-4747,0,Female,Izzi,Chronic Disease (HTN/DM),0,0,3.7,0,0,1
+PHC-EB-4748,39,Female,Izzi,General Outpatient,0,0,12.3,14,1,1
+PHC-EB-4749,18,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,2.7,6,1,1
+PHC-EB-4750,71,Female,Ebonyi,General Outpatient,0,0,0.7,1,1,1
+PHC-EB-4751,71,Female,Ikwo,Chronic Disease (HTN/DM),0,0,6.0,2,0,1
+PHC-EB-4752,60,Female,Abakaliki,General Outpatient,0,0,2.0,5,0,0
+PHC-EB-4753,11,Female,Ikwo,General Outpatient,0,0,1.8,9,1,1
+PHC-EB-4754,60,Female,Afikpo North,Routine Immunization,0,1,2.3,2,1,1
+PHC-EB-4755,32,Female,Abakaliki,Routine Immunization,0,0,6.3,5,1,0
+PHC-EB-4756,44,Female,Afikpo North,Chronic Disease (HTN/DM),1,0,8.2,9,1,1
+PHC-EB-4757,68,Male,Afikpo North,Routine Immunization,0,0,4.5,4,1,0
+PHC-EB-4758,7,Female,Izzi,Routine Immunization,0,0,2.3,15,2,1
+PHC-EB-4759,24,Female,Ikwo,Routine Immunization,0,0,2.2,15,0,1
+PHC-EB-4760,45,Male,Ikwo,Routine Immunization,0,0,1.1,4,1,0
+PHC-EB-4761,29,Male,Izzi,Routine Immunization,0,0,12.7,28,0,0
+PHC-EB-4762,46,Male,Ikwo,Antenatal Care,0,0,5.1,0,0,0
+PHC-EB-4763,48,Female,Izzi,Chronic Disease (HTN/DM),0,0,0.6,0,0,0
+PHC-EB-4764,46,Female,Abakaliki,Routine Immunization,0,0,5.4,3,0,0
+PHC-EB-4765,17,Female,Afikpo North,Routine Immunization,0,0,3.2,7,0,1
+PHC-EB-4766,65,Female,Afikpo North,Antenatal Care,1,0,16.7,7,1,0
+PHC-EB-4767,67,Female,Ikwo,Antenatal Care,0,0,8.2,5,1,0
+PHC-EB-4768,32,Male,Ebonyi,Antenatal Care,0,0,1.3,1,0,0
+PHC-EB-4769,35,Female,Afikpo North,General Outpatient,1,0,6.2,1,2,0
+PHC-EB-4770,18,Female,Izzi,Antenatal Care,0,0,3.5,14,0,0
+PHC-EB-4771,27,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,1.4,15,2,1
+PHC-EB-4772,39,Female,Ebonyi,Antenatal Care,0,0,5.9,8,0,1
+PHC-EB-4773,14,Female,Afikpo North,Antenatal Care,0,0,4.1,8,0,1
+PHC-EB-4774,40,Female,Afikpo North,Antenatal Care,0,0,0.6,7,0,0
+PHC-EB-4775,38,Male,Afikpo North,Antenatal Care,1,0,5.2,1,0,1
+PHC-EB-4776,1,Male,Izzi,General Outpatient,0,0,5.0,4,2,1
+PHC-EB-4777,62,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,1.2,9,1,1
+PHC-EB-4778,28,Female,Ikwo,General Outpatient,0,0,2.4,6,0,0
+PHC-EB-4779,73,Male,Izzi,Antenatal Care,0,0,4.5,0,0,0
+PHC-EB-4780,65,Male,Abakaliki,Antenatal Care,0,0,1.2,24,0,0
+PHC-EB-4781,50,Female,Afikpo North,Routine Immunization,1,1,9.1,14,0,1
+PHC-EB-4782,74,Male,Ebonyi,Chronic Disease (HTN/DM),1,0,0.6,2,1,0
+PHC-EB-4783,9,Female,Izzi,Antenatal Care,0,0,1.0,7,1,0
+PHC-EB-4784,13,Male,Abakaliki,General Outpatient,0,0,1.1,20,0,0
+PHC-EB-4785,50,Female,Izzi,Routine Immunization,1,0,3.9,0,1,0
+PHC-EB-4786,72,Female,Izzi,Antenatal Care,0,0,4.9,5,0,0
+PHC-EB-4787,38,Male,Ikwo,Routine Immunization,0,0,2.8,4,2,0
+PHC-EB-4788,27,Female,Ikwo,Antenatal Care,0,0,2.0,4,0,1
+PHC-EB-4789,2,Female,Izzi,General Outpatient,0,0,8.0,14,1,0
+PHC-EB-4790,69,Female,Abakaliki,Antenatal Care,1,0,0.8,3,1,0
+PHC-EB-4791,26,Male,Ebonyi,General Outpatient,0,0,2.0,0,0,0
+PHC-EB-4792,1,Male,Ebonyi,Antenatal Care,0,0,0.7,0,1,0
+PHC-EB-4793,37,Male,Afikpo North,Chronic Disease (HTN/DM),1,0,0.6,0,0,0
+PHC-EB-4794,2,Female,Afikpo North,Antenatal Care,0,0,2.5,4,2,1
+PHC-EB-4795,15,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,1.5,9,0,0
+PHC-EB-4796,39,Female,Izzi,General Outpatient,0,0,1.9,1,0,0
+PHC-EB-4797,1,Female,Izzi,Chronic Disease (HTN/DM),0,0,8.2,8,0,0
+PHC-EB-4798,40,Male,Ikwo,Routine Immunization,0,0,1.3,9,2,1
+PHC-EB-4799,11,Female,Ikwo,General Outpatient,0,0,7.3,2,1,0
+PHC-EB-4800,34,Female,Afikpo North,Routine Immunization,0,0,5.6,7,1,1
+PHC-EB-4801,64,Female,Ebonyi,Antenatal Care,1,0,2.3,9,0,1
+PHC-EB-4802,54,Female,Izzi,Routine Immunization,0,0,4.1,4,0,0
+PHC-EB-4803,44,Male,Ebonyi,Antenatal Care,1,0,3.1,3,0,0
+PHC-EB-4804,61,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,1.1,7,0,0
+PHC-EB-4805,48,Male,Ebonyi,Antenatal Care,0,0,11.2,29,0,1
+PHC-EB-4806,24,Female,Abakaliki,Routine Immunization,0,0,4.3,4,1,1
+PHC-EB-4807,22,Female,Ikwo,General Outpatient,0,0,10.1,3,1,1
+PHC-EB-4808,23,Female,Ikwo,Routine Immunization,0,0,8.3,4,0,0
+PHC-EB-4809,37,Male,Afikpo North,General Outpatient,1,0,0.9,0,0,0
+PHC-EB-4810,27,Male,Ebonyi,Antenatal Care,0,0,1.5,6,0,1
+PHC-EB-4811,20,Male,Ebonyi,Routine Immunization,0,0,1.2,3,1,0
+PHC-EB-4812,53,Male,Abakaliki,Antenatal Care,0,0,8.5,1,0,0
+PHC-EB-4813,17,Female,Ikwo,Chronic Disease (HTN/DM),0,0,9.4,4,1,0
+PHC-EB-4814,35,Female,Abakaliki,General Outpatient,0,1,3.9,0,0,0
+PHC-EB-4815,44,Male,Ikwo,Chronic Disease (HTN/DM),0,1,1.0,4,0,0
+PHC-EB-4816,72,Male,Abakaliki,Antenatal Care,0,1,1.2,0,0,0
+PHC-EB-4817,52,Female,Ikwo,Antenatal Care,0,0,8.1,0,0,0
+PHC-EB-4818,29,Female,Abakaliki,Antenatal Care,0,0,12.4,13,0,1
+PHC-EB-4819,59,Male,Ikwo,Antenatal Care,0,0,1.5,19,2,1
+PHC-EB-4820,31,Male,Abakaliki,Antenatal Care,0,0,0.6,1,0,1
+PHC-EB-4821,66,Female,Ebonyi,General Outpatient,0,0,2.3,6,0,1
+PHC-EB-4822,66,Male,Afikpo North,Antenatal Care,1,0,0.6,2,1,1
+PHC-EB-4823,27,Male,Abakaliki,Routine Immunization,0,0,8.4,5,2,1
+PHC-EB-4824,43,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,3.5,4,1,0
+PHC-EB-4825,40,Male,Ebonyi,General Outpatient,1,0,5.1,2,0,1
+PHC-EB-4826,62,Female,Ebonyi,Routine Immunization,1,0,2.9,9,0,0
+PHC-EB-4827,22,Female,Ikwo,Routine Immunization,0,0,2.4,1,0,1
+PHC-EB-4828,74,Female,Afikpo North,Routine Immunization,1,0,1.6,0,1,0
+PHC-EB-4829,47,Female,Izzi,Antenatal Care,0,0,7.1,11,0,0
+PHC-EB-4830,31,Male,Ikwo,General Outpatient,0,0,5.9,8,1,0
+PHC-EB-4831,56,Female,Afikpo North,Routine Immunization,0,0,2.5,5,0,0
+PHC-EB-4832,32,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,2.2,4,0,0
+PHC-EB-4833,23,Female,Abakaliki,General Outpatient,0,0,0.5,5,2,1
+PHC-EB-4834,38,Female,Ebonyi,General Outpatient,1,0,0.8,4,1,0
+PHC-EB-4835,33,Female,Izzi,Routine Immunization,0,0,4.9,3,0,0
+PHC-EB-4836,55,Male,Abakaliki,Antenatal Care,0,1,3.8,5,0,1
+PHC-EB-4837,27,Female,Afikpo North,General Outpatient,0,0,3.1,5,1,0
+PHC-EB-4838,36,Male,Afikpo North,Routine Immunization,1,0,8.4,9,1,1
+PHC-EB-4839,6,Male,Abakaliki,Antenatal Care,0,0,3.7,9,0,0
+PHC-EB-4840,67,Female,Afikpo North,Antenatal Care,1,0,2.7,3,0,0
+PHC-EB-4841,36,Male,Afikpo North,Antenatal Care,0,0,1.3,4,1,0
+PHC-EB-4842,55,Female,Ebonyi,General Outpatient,0,1,8.2,3,0,1
+PHC-EB-4843,64,Female,Izzi,Antenatal Care,0,0,4.4,6,0,1
+PHC-EB-4844,64,Female,Ebonyi,Routine Immunization,0,1,0.9,4,2,0
+PHC-EB-4845,46,Female,Izzi,Routine Immunization,0,0,5.2,17,0,1
+PHC-EB-4846,19,Female,Afikpo North,Routine Immunization,0,0,3.0,9,2,0
+PHC-EB-4847,18,Male,Izzi,Chronic Disease (HTN/DM),0,0,8.0,17,0,1
+PHC-EB-4848,28,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,11.8,9,0,1
+PHC-EB-4849,73,Male,Afikpo North,Routine Immunization,1,0,4.6,27,0,1
+PHC-EB-4850,59,Female,Ebonyi,Antenatal Care,0,0,6.4,7,3,1
+PHC-EB-4851,17,Male,Ebonyi,Routine Immunization,0,0,0.8,25,1,1
+PHC-EB-4852,34,Female,Ikwo,General Outpatient,0,0,4.2,1,0,1
+PHC-EB-4853,42,Female,Abakaliki,Routine Immunization,0,0,6.8,0,1,0
+PHC-EB-4854,10,Female,Ikwo,General Outpatient,0,0,3.6,6,1,0
+PHC-EB-4855,48,Female,Ikwo,Antenatal Care,0,0,4.6,32,1,1
+PHC-EB-4856,37,Female,Izzi,General Outpatient,0,0,10.8,4,3,0
+PHC-EB-4857,63,Male,Afikpo North,Antenatal Care,0,0,1.5,1,1,0
+PHC-EB-4858,68,Female,Afikpo North,General Outpatient,1,1,1.0,5,2,1
+PHC-EB-4859,7,Male,Afikpo North,Routine Immunization,0,0,5.8,8,1,0
+PHC-EB-4860,33,Male,Abakaliki,General Outpatient,0,0,8.3,2,0,1
+PHC-EB-4861,47,Male,Izzi,Antenatal Care,0,0,9.1,9,1,1
+PHC-EB-4862,55,Female,Izzi,Routine Immunization,0,1,5.1,28,0,0
+PHC-EB-4863,64,Female,Afikpo North,General Outpatient,0,0,8.6,17,0,1
+PHC-EB-4864,30,Male,Ikwo,Antenatal Care,0,0,5.9,2,0,1
+PHC-EB-4865,3,Male,Abakaliki,General Outpatient,0,0,0.9,3,1,1
+PHC-EB-4866,49,Female,Ikwo,General Outpatient,0,0,7.0,3,0,0
+PHC-EB-4867,68,Female,Ebonyi,Routine Immunization,0,0,1.4,3,0,0
+PHC-EB-4868,29,Female,Izzi,Routine Immunization,0,0,1.7,0,0,0
+PHC-EB-4869,58,Female,Izzi,Routine Immunization,1,0,2.8,11,0,1
+PHC-EB-4870,66,Male,Ikwo,Routine Immunization,0,0,2.2,3,0,0
+PHC-EB-4871,74,Female,Abakaliki,Routine Immunization,0,0,2.2,16,1,0
+PHC-EB-4872,44,Female,Izzi,General Outpatient,1,1,1.3,20,3,1
+PHC-EB-4873,3,Female,Ikwo,Routine Immunization,0,0,2.1,0,1,1
+PHC-EB-4874,25,Female,Abakaliki,Antenatal Care,0,0,0.6,34,0,1
+PHC-EB-4875,26,Male,Ikwo,Antenatal Care,0,0,3.4,9,0,1
+PHC-EB-4876,45,Male,Abakaliki,Antenatal Care,1,0,7.1,5,1,0
+PHC-EB-4877,63,Female,Afikpo North,Antenatal Care,0,0,9.4,3,0,0
+PHC-EB-4878,50,Male,Abakaliki,General Outpatient,0,1,8.2,5,0,0
+PHC-EB-4879,49,Female,Ebonyi,General Outpatient,1,0,2.9,3,2,0
+PHC-EB-4880,5,Female,Afikpo North,Antenatal Care,0,0,6.4,7,0,1
+PHC-EB-4881,58,Female,Ikwo,Chronic Disease (HTN/DM),1,0,2.0,0,0,1
+PHC-EB-4882,14,Female,Afikpo North,Routine Immunization,0,0,0.8,7,2,0
+PHC-EB-4883,29,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,5.6,2,0,1
+PHC-EB-4884,41,Female,Ikwo,General Outpatient,0,0,5.2,0,1,0
+PHC-EB-4885,36,Male,Ikwo,General Outpatient,0,0,7.8,6,2,1
+PHC-EB-4886,41,Female,Ebonyi,Antenatal Care,0,0,4.8,6,0,1
+PHC-EB-4887,34,Male,Ikwo,Antenatal Care,0,0,1.3,4,0,0
+PHC-EB-4888,5,Female,Izzi,Antenatal Care,0,0,9.1,0,1,0
+PHC-EB-4889,67,Male,Izzi,General Outpatient,1,0,4.9,17,0,1
+PHC-EB-4890,17,Male,Ebonyi,Routine Immunization,0,0,7.9,7,0,0
+PHC-EB-4891,72,Female,Abakaliki,General Outpatient,0,0,7.2,0,0,0
+PHC-EB-4892,28,Male,Abakaliki,Routine Immunization,0,0,2.1,5,1,1
+PHC-EB-4893,58,Female,Izzi,General Outpatient,0,1,0.8,5,0,0
+PHC-EB-4894,46,Male,Ikwo,Antenatal Care,1,0,1.4,0,0,0
+PHC-EB-4895,16,Female,Ebonyi,Antenatal Care,0,0,0.9,7,0,1
+PHC-EB-4896,21,Male,Abakaliki,Routine Immunization,0,0,1.8,12,2,0
+PHC-EB-4897,67,Male,Abakaliki,Routine Immunization,1,0,3.3,10,1,1
+PHC-EB-4898,68,Female,Afikpo North,Routine Immunization,0,0,11.2,1,1,1
+PHC-EB-4899,36,Female,Izzi,General Outpatient,1,0,9.8,15,0,0
+PHC-EB-4900,48,Male,Ikwo,Antenatal Care,1,1,6.2,3,0,0
+PHC-EB-4901,12,Female,Ebonyi,Routine Immunization,0,0,0.6,22,0,0
+PHC-EB-4902,33,Female,Abakaliki,General Outpatient,0,0,2.4,0,0,1
+PHC-EB-4903,52,Female,Afikpo North,Antenatal Care,1,0,5.7,5,1,1
+PHC-EB-4904,50,Female,Izzi,Chronic Disease (HTN/DM),0,0,1.1,7,0,0
+PHC-EB-4905,2,Male,Izzi,Chronic Disease (HTN/DM),0,0,7.8,2,1,0
+PHC-EB-4906,41,Female,Ebonyi,Antenatal Care,0,1,11.6,11,1,1
+PHC-EB-4907,31,Female,Abakaliki,Antenatal Care,0,0,2.5,7,1,1
+PHC-EB-4908,50,Male,Ebonyi,Routine Immunization,0,1,6.0,0,0,0
+PHC-EB-4909,45,Male,Ebonyi,General Outpatient,0,0,1.2,7,0,1
+PHC-EB-4910,20,Female,Afikpo North,Routine Immunization,0,0,5.8,5,0,0
+PHC-EB-4911,43,Female,Izzi,General Outpatient,1,0,0.6,1,1,0
+PHC-EB-4912,10,Male,Ikwo,General Outpatient,0,0,1.2,42,0,1
+PHC-EB-4913,67,Male,Izzi,Antenatal Care,0,1,6.1,17,0,1
+PHC-EB-4914,0,Female,Izzi,General Outpatient,0,0,6.1,2,0,0
+PHC-EB-4915,62,Female,Afikpo North,General Outpatient,0,0,5.1,6,1,1
+PHC-EB-4916,23,Female,Ikwo,Routine Immunization,0,0,3.4,2,1,0
+PHC-EB-4917,12,Female,Abakaliki,Chronic Disease (HTN/DM),0,0,5.6,11,3,0
+PHC-EB-4918,10,Female,Ikwo,General Outpatient,0,0,7.2,20,0,1
+PHC-EB-4919,50,Male,Abakaliki,Antenatal Care,0,0,15.8,3,3,1
+PHC-EB-4920,16,Female,Ikwo,Routine Immunization,0,0,10.4,12,1,1
+PHC-EB-4921,23,Male,Ebonyi,Routine Immunization,0,0,7.6,5,0,0
+PHC-EB-4922,18,Female,Ikwo,Antenatal Care,0,0,5.8,3,0,0
+PHC-EB-4923,36,Male,Afikpo North,Chronic Disease (HTN/DM),1,0,4.3,21,1,1
+PHC-EB-4924,7,Male,Abakaliki,Antenatal Care,0,0,1.1,5,1,1
+PHC-EB-4925,27,Female,Izzi,General Outpatient,0,0,1.3,4,0,0
+PHC-EB-4926,4,Female,Afikpo North,Routine Immunization,0,0,8.2,8,2,1
+PHC-EB-4927,16,Female,Abakaliki,Antenatal Care,0,0,7.8,2,0,0
+PHC-EB-4928,35,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,4.8,3,0,0
+PHC-EB-4929,18,Male,Izzi,Chronic Disease (HTN/DM),0,0,3.1,21,0,1
+PHC-EB-4930,63,Female,Ebonyi,Routine Immunization,0,0,0.6,8,0,0
+PHC-EB-4931,10,Female,Afikpo North,Antenatal Care,0,0,2.3,13,0,0
+PHC-EB-4932,53,Female,Izzi,Antenatal Care,0,0,3.0,2,1,0
+PHC-EB-4933,44,Male,Izzi,Routine Immunization,0,0,3.5,6,1,0
+PHC-EB-4934,46,Female,Ebonyi,Antenatal Care,1,0,12.4,27,0,1
+PHC-EB-4935,11,Female,Afikpo North,Routine Immunization,0,0,1.0,3,0,0
+PHC-EB-4936,20,Female,Izzi,Chronic Disease (HTN/DM),0,0,3.8,1,1,0
+PHC-EB-4937,10,Female,Ebonyi,Routine Immunization,0,0,2.6,5,0,1
+PHC-EB-4938,4,Male,Afikpo North,Chronic Disease (HTN/DM),0,0,21.3,3,1,1
+PHC-EB-4939,55,Female,Ikwo,General Outpatient,0,0,9.4,1,2,1
+PHC-EB-4940,19,Male,Abakaliki,Routine Immunization,0,0,3.1,17,1,1
+PHC-EB-4941,40,Female,Ebonyi,Chronic Disease (HTN/DM),0,1,36.9,36,1,1
+PHC-EB-4942,45,Female,Abakaliki,Routine Immunization,0,0,3.7,6,0,0
+PHC-EB-4943,11,Male,Ikwo,Chronic Disease (HTN/DM),0,0,1.3,11,0,1
+PHC-EB-4944,69,Male,Izzi,Antenatal Care,0,0,4.2,15,2,0
+PHC-EB-4945,16,Male,Izzi,Antenatal Care,0,0,1.7,9,0,0
+PHC-EB-4946,18,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,5.1,0,1,0
+PHC-EB-4947,25,Female,Ebonyi,Routine Immunization,0,0,13.0,1,0,0
+PHC-EB-4948,47,Male,Ebonyi,Chronic Disease (HTN/DM),0,0,7.4,0,0,0
+PHC-EB-4949,51,Female,Afikpo North,Chronic Disease (HTN/DM),0,0,1.9,0,2,0
+PHC-EB-4950,69,Female,Abakaliki,Antenatal Care,0,0,2.1,2,1,0
+PHC-EB-4951,54,Male,Izzi,Routine Immunization,0,1,0.8,3,0,1
+PHC-EB-4952,74,Male,Izzi,Routine Immunization,0,0,2.0,2,1,1
+PHC-EB-4953,32,Male,Ebonyi,General Outpatient,0,0,0.9,0,0,0
+PHC-EB-4954,61,Male,Ebonyi,General Outpatient,0,1,3.6,5,1,0
+PHC-EB-4955,22,Male,Afikpo North,Antenatal Care,0,0,6.0,2,0,1
+PHC-EB-4956,14,Female,Ikwo,Routine Immunization,0,0,6.8,12,1,0
+PHC-EB-4957,26,Female,Abakaliki,General Outpatient,0,0,0.8,0,0,0
+PHC-EB-4958,74,Female,Ikwo,Antenatal Care,1,0,2.4,14,0,0
+PHC-EB-4959,63,Female,Ikwo,General Outpatient,0,0,2.0,24,2,1
+PHC-EB-4960,50,Female,Ebonyi,General Outpatient,0,0,1.0,9,3,0
+PHC-EB-4961,52,Female,Ebonyi,Chronic Disease (HTN/DM),0,0,2.5,10,0,1
+PHC-EB-4962,50,Female,Ebonyi,Routine Immunization,0,0,2.1,21,0,1
+PHC-EB-4963,46,Female,Ikwo,Antenatal Care,0,0,5.0,1,0,0
+PHC-EB-4964,3,Female,Abakaliki,Routine Immunization,0,0,10.2,40,1,1
+PHC-EB-4965,6,Female,Ebonyi,Antenatal Care,0,0,3.2,11,1,0
+PHC-EB-4966,34,Female,Izzi,Chronic Disease (HTN/DM),0,0,6.7,10,1,1
+PHC-EB-4967,47,Male,Abakaliki,Antenatal Care,1,0,1.2,3,0,0
+PHC-EB-4968,72,Female,Izzi,General Outpatient,0,0,10.6,6,0,0
+PHC-EB-4969,71,Female,Abakaliki,Routine Immunization,0,0,1.2,8,1,1
+PHC-EB-4970,44,Male,Ebonyi,Routine Immunization,0,0,1.5,7,0,1
+PHC-EB-4971,71,Female,Afikpo North,Antenatal Care,1,0,1.0,9,0,0
+PHC-EB-4972,18,Female,Ebonyi,General Outpatient,0,0,2.2,0,2,0
+PHC-EB-4973,62,Female,Ikwo,Routine Immunization,0,0,4.1,3,1,0
+PHC-EB-4974,37,Female,Ikwo,Antenatal Care,1,0,20.4,4,1,0
+PHC-EB-4975,66,Male,Abakaliki,Chronic Disease (HTN/DM),0,0,7.6,2,0,0
+PHC-EB-4976,58,Female,Ikwo,Antenatal Care,0,0,2.7,1,1,1
+PHC-EB-4977,68,Male,Ebonyi,Routine Immunization,0,0,4.4,1,0,0
+PHC-EB-4978,12,Female,Izzi,Routine Immunization,0,0,4.9,3,0,1
+PHC-EB-4979,46,Female,Ebonyi,Antenatal Care,0,0,8.3,5,2,1
+PHC-EB-4980,60,Female,Abakaliki,Chronic Disease (HTN/DM),1,0,6.5,0,0,0
+PHC-EB-4981,30,Female,Ikwo,Routine Immunization,0,0,4.3,22,3,1
+PHC-EB-4982,21,Female,Izzi,Antenatal Care,0,0,5.5,11,0,1
+PHC-EB-4983,42,Female,Afikpo North,Routine Immunization,0,0,6.7,10,0,0
+PHC-EB-4984,66,Female,Izzi,General Outpatient,0,0,1.1,1,1,1
+PHC-EB-4985,53,Male,Izzi,Routine Immunization,0,0,1.5,7,0,0
+PHC-EB-4986,9,Female,Ebonyi,General Outpatient,0,0,5.7,5,0,1
+PHC-EB-4987,41,Male,Afikpo North,Antenatal Care,0,1,9.0,31,1,1
+PHC-EB-4988,63,Male,Abakaliki,Antenatal Care,0,0,2.9,10,2,0
+PHC-EB-4989,20,Female,Abakaliki,General Outpatient,0,0,18.1,6,0,0
+PHC-EB-4990,65,Female,Izzi,Antenatal Care,0,0,1.6,14,1,0
+PHC-EB-4991,40,Female,Izzi,Chronic Disease (HTN/DM),1,0,2.9,1,0,1
+PHC-EB-4992,23,Male,Ikwo,Antenatal Care,0,0,2.6,0,1,0
+PHC-EB-4993,34,Female,Afikpo North,General Outpatient,0,0,12.5,9,1,1
+PHC-EB-4994,55,Male,Izzi,Routine Immunization,1,0,2.0,0,0,1
+PHC-EB-4995,29,Female,Ikwo,General Outpatient,0,0,3.4,0,1,0
+PHC-EB-4996,56,Male,Afikpo North,Antenatal Care,0,0,1.4,10,1,1
+PHC-EB-4997,46,Female,Abakaliki,Antenatal Care,0,0,3.8,2,0,1
+PHC-EB-4998,34,Male,Ikwo,Antenatal Care,0,0,9.3,7,0,1
+PHC-EB-4999,18,Female,Afikpo North,Antenatal Care,0,0,2.1,19,0,1
